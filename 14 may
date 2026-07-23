@@ -1,0 +1,412 @@
+faezeh@faezeh:~/uni/progect/HyperSynergyX$ python enrich_features.py 
+
+Processing: breast_3drug.tsv
+Total rows: 62
+Unique drugs found: 54
+  Fetching info for: lapatinib
+  Fetching info for: docetaxel
+  Fetching info for: capecitabine
+  Fetching info for: gemcitabine
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: dTI-015
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: entrectinib
+  Fetching info for: budesonide
+  Fetching info for: colestipol
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: fentanyl
+  Fetching info for: motesanib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: letrozole
+  Fetching info for: goserelin
+  Fetching info for: canagliflozin
+  Fetching info for: anastrozole
+  Fetching info for: panobinostat
+  Fetching info for: propofol
+  Fetching info for: aBT-888
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: hydroxychloroquine
+  Fetching info for: buparlisib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: eribulin
+  Fetching info for: degarelix
+  Fetching info for: pF-05212384
+  Fetching info for: rAD-1901
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: gonadorelin
+  Fetching info for: sunitinib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: leuprolide
+  Fetching info for: vinorelbine
+  Fetching info for: methotrexate
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: zoledronate
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: triptorelin
+  Fetching info for: palbociclib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: thiotepa
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: exemestane
+  Fetching info for: paclitaxel
+  Fetching info for: cyclophosphamide
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: midazolam
+  Fetching info for: fulvestrant
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: cATECHIN
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: lY2835219
+  Fetching info for: loperamide
+  Fetching info for: hKI-272
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: pF-03084014
+  Fetching info for: alpelisib
+  Fetching info for: ixabepilone
+  Fetching info for: gDC-0068
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: everolimus
+  Fetching info for: lEE011
+  Fetching info for: bicalutamide
+  Fetching info for: colesevelam
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: tucatinib
+  Fetching info for: pazopanib
+  Fetching info for: carboplatin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: epirubicin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: merimepodib
+✅ Processed 62 combinations
+✅ Saved to: drug_info_output/breast_3drug_drug_info.json
+
+Processing: lung_3drug.tsv
+Total rows: 40
+Unique drugs found: 44
+  Fetching info for: docetaxel
+  Fetching info for: gemcitabine
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: pirfenidone
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: vandetanib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: bortezomib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: icotinib hydrochloride
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: pemetrexed
+  Fetching info for: allopurinol
+  Fetching info for: suramin
+  Fetching info for: regorafenib
+  Fetching info for: armodafinil
+  Fetching info for: erlotinib
+  Fetching info for: hydroxychloroquine
+  Fetching info for: mK-1775
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: indocyanine green
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: carboplatin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: cycloleucine
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: topotecan
+  Fetching info for: itraconazole
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: sunitinib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: vinorelbine
+  Fetching info for: rivoceranib
+  Fetching info for: amrubicin
+  Fetching info for: exemestane
+  Fetching info for: paclitaxel
+  Fetching info for: cyclophosphamide
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: lurbinectedin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: endoAngio-GT
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: curcumin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: vorinostat
+  Fetching info for: rifampicin
+  Fetching info for: gefitinib
+  Fetching info for: aBT-869
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: bupropion
+  Fetching info for: everolimus
+  Fetching info for: motexafin gadolinium
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: etoposide
+  Fetching info for: crizotinib
+  Fetching info for: irinotecan
+  Fetching info for: mycophenolate mofetil
+  Fetching info for: cabozantinib
+  Fetching info for: afatinib
+  Fetching info for: celecoxib
+  Fetching info for: lidocaine
+✅ Processed 40 combinations
+✅ Saved to: drug_info_output/lung_3drug_drug_info.json
+
+======================================================================
+SUMMARY
+======================================================================
+Breast Cancer - Total combinations: 62
+  Sample structure for DCXJ6ZK:
+    Keys: ['Drug_Name_1', 'Drug_Name_2', 'Drug_Name_3', 'Highest_status_1', 'order_1']...
+Lung Cancer - Total combinations: 40
+
+✅ Output files in: drug_info_output/
+
+----------------------------------------------------------------------------------------------------------------------------
+(hypersynergyx-py3.11) faezeh@faezeh:~/uni/progect/HyperSynergyX$ python enrich_features.py 
+
+Processing: breast_3drug.tsv
+Total rows: 62
+Unique drugs found: 54
+  Fetching info for: gemcitabine
+  Fetching info for: goserelin
+  Fetching info for: propofol
+  Fetching info for: eribulin
+  Fetching info for: carboplatin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: lEE011
+  Fetching info for: midazolam
+  Fetching info for: gonadorelin
+  Fetching info for: dTI-015
+  Fetching info for: lY2835219
+  Fetching info for: letrozole
+  Fetching info for: alpelisib
+  Fetching info for: colesevelam
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: entrectinib
+  Fetching info for: sunitinib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: panobinostat
+  Fetching info for: lapatinib
+  Fetching info for: fentanyl
+  Fetching info for: zoledronate
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: rAD-1901
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: merimepodib
+  Fetching info for: aBT-888
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: motesanib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: degarelix
+  Fetching info for: fulvestrant
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: pazopanib
+  Fetching info for: epirubicin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: anastrozole
+  Fetching info for: methotrexate
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: loperamide
+  Fetching info for: bicalutamide
+  Fetching info for: cyclophosphamide
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: budesonide
+  Fetching info for: triptorelin
+  Fetching info for: cATECHIN
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: canagliflozin
+  Fetching info for: everolimus
+  Fetching info for: colestipol
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: vinorelbine
+  Fetching info for: leuprolide
+  Fetching info for: pF-05212384
+  Fetching info for: tucatinib
+  Fetching info for: gDC-0068
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: exemestane
+  Fetching info for: hKI-272
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: buparlisib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: paclitaxel
+  Fetching info for: palbociclib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: capecitabine
+  Fetching info for: docetaxel
+  Fetching info for: hydroxychloroquine
+  Fetching info for: pF-03084014
+  Fetching info for: ixabepilone
+  Fetching info for: thiotepa
+    ❌ Error: 'NoneType' object has no attribute 'get'
+✅ Processed 62 combinations
+✅ Saved to: drug_info_output/breast_3drug_drug_info.json
+
+Processing: lung_3drug.tsv
+Total rows: 40
+Unique drugs found: 44
+  Fetching info for: gemcitabine
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: rifampicin
+  Fetching info for: suramin
+  Fetching info for: carboplatin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: celecoxib
+  Fetching info for: vandetanib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: cabozantinib
+  Fetching info for: curcumin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: endoAngio-GT
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: sunitinib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: armodafinil
+  Fetching info for: crizotinib
+  Fetching info for: bupropion
+  Fetching info for: topotecan
+  Fetching info for: indocyanine green
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: gefitinib
+  Fetching info for: irinotecan
+  Fetching info for: erlotinib
+  Fetching info for: bortezomib
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: etoposide
+  Fetching info for: afatinib
+  Fetching info for: cyclophosphamide
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: pirfenidone
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: pemetrexed
+  Fetching info for: regorafenib
+  Fetching info for: everolimus
+  Fetching info for: amrubicin
+  Fetching info for: lidocaine
+  Fetching info for: vinorelbine
+  Fetching info for: motexafin gadolinium
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: itraconazole
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: vorinostat
+  Fetching info for: mycophenolate mofetil
+  Fetching info for: cycloleucine
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: exemestane
+  Fetching info for: allopurinol
+  Fetching info for: aBT-869
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: paclitaxel
+  Fetching info for: mK-1775
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: docetaxel
+  Fetching info for: lurbinectedin
+    ❌ Error: 'NoneType' object has no attribute 'get'
+  Fetching info for: hydroxychloroquine
+  Fetching info for: rivoceranib
+  Fetching info for: icotinib hydrochloride
+    ❌ Error: 'NoneType' object has no attribute 'get'
+✅ Processed 40 combinations
+✅ Saved to: drug_info_output/lung_3drug_drug_info.json
+
+======================================================================
+SUMMARY
+======================================================================
+Breast Cancer - Total combinations: 62
+  Sample structure for DCXJ6ZK:
+    Keys: ['Drug_Name_1', 'Drug_Name_2', 'Drug_Name_3', 'Highest_status_1', 'order_1']...
+Lung Cancer - Total combinations: 40
+
+✅ Output files in: drug_info_output/
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+python evaluate/evaluate.py split_breast_lung.json --model dbrwh_breast --root . --outdir results_breast
+مدل DBRWH روی دیتاست سرطان پستان به میزان **AUROC برابر ۰.۹۱۲** و **AUPRC برابر ۰.۹۲۱** دست یافته است. هنگامی که از امتیازات تولیدشده توسط DBRWH به عنوان تنها ویژگی برای یک طبقه‌بند رگرسیون لجستیک استفاده می‌کنیم، به مقادیر **یکسان AUROC/AUPRC (۰.۹۱۲/۰.۹۲۱)** می‌رسیم. این موضوع تأیید می‌کند که امتیازات DBRWH به طور مؤثر سیگنال هم‌افزایی را捕捉 می‌کنند. در مقابل، استفاده تنها از ویژگی‌های شباهت ATC و هدف، فقط به **AUROC برابر ۰.۶۹۶** منجر می‌شود که برتری رویکرد پیشنهادی مبتنی بر هایپرگراف را نشان می‌دهد.
+ 2000  cd HyperSynergyX/
+ 2001  ls
+ 2002  history | grep env
+ 2003  history | grep list
+ 2004  history | grep info
+ 2005  conda info --envs
+ 2006  conda activate /home/faezeh/anaconda3/envs/hypersynergyx-py3.11
+ 2007  python 18_may/seperate_3drugs.py 
+ 2008  python 18_may/preprocessing.py 
+ 2009  conda install pandas numpy matplotlib seaborn -y
+ 2010  pip install pandas numpy matplotlib seaborn -y
+ 2011  pip install pandas numpy matplotlib seaborn
+ 2012  python 18_may/preprocessing.py 
+ 2013  head 2.General\ Information\ of\ Drug\ Combination.tsv 
+ 2014  python 18_may/preprocessing.py 
+ 2015  python 18_may/seperate_3drugs.py 
+ 2016  python seperate_3drug_associated_with_number_of_disease_in_article.py
+ 2017  python 18_may/seperate_3drug_associated_with_number_of_disease_in_article.py
+ 2018  python 18_may/get_enriched_features.py 
+ 2019  python enrich_features.py 
+ 2020  diff drug_info_output/breast_3drug_drug_info.json drug_info_output/breast_3drug_drug_info_backup.json
+ 2021  python 18_may/non_empty_enriched_features.py 
+ 2022  python enrich_features2.py 
+ 2023  python enrich_drug3.py 
+ 2024  python enrich_features2.py 
+ 2025  python check_Data.py 
+ 2026  python remove_empty_data.py 
+ 2027  python check_non_empty_data.py 
+ 2028  python remove_empty_data.py 
+ 2029  python run_sim_builder.py 
+ 2030  python run_build_hypergraph.py 
+ 2031  python run_compute_synergy_score.py 
+ 2032  python evaluate.py split_breast_lung.json --model dbrwh_breast --root . --outdir results_breast
+ 2033  python evaluate/evaluate.py split_breast_lung.json --model dbrwh_breast --root . --outdir results_breast
+ 2034  python create_split.py
+ 2035  python evaluate/create_split.py
+ 2036  python evaluate/evaluate.py split_breast_lung.json --model dbrwh_breast --root . --outdir results_breast
+ 2037  python evaluate/create_split.py
+ 2038  python evaluate/create_split_separate.py 
+ 2039  python evaluate/evaluate.py split_breast.json --model dbrwh_breast --root . --outdir results_breast
+ 2040  python run_eval.py
+ 2041  python run_eval.pypython evaluate_baselines.py
+ 2042  python evaluate_baselines.py
+ 2043  tree
+ 2044  python evaluate_baselines.py
+ 2045  history
+
+
+
+کدهای مربوط به این قسمت معمولاً این عناوین را دارند:
+۱.ablation.py یا run_ablation_study.py
+توابعی با نام‌هایی مثل: compute_wasserstein, evaluate_feature_set, run_cross_validation
+اسکریپت main یا notebook که بخش ablation را اجرا کند و خروجی نمودار/باکس‌پلات بسازد.
+توضیح ساده:
+
+تحلیل نمودارها
+چرا میانه متریک ترشهولد - چون تو مقاله ام میانه گرفته.
+
+معیار	Median	Mean
+مقاومت به Outlier	✅ بهتر	❌ ضعیف
+Class Balance	✅ گارانتی 50-50	❌ متغیر
+Fair Comparison	✅ یکسان	❌ متفاوت
+Interpretability	✅ واضح	⚠️ پیچیده
+
+چرا atc غالب بود ولی تو ابلیشن استادیش همه شون حضورشون نیاز بود؟ نمودار مقاله برای دراگ مپ نیس دیتای من مال دراگ مپه.
+
+
+
+پیشنهاد من: اگه تعداد positive triplet‌ها زیر 30 تاست، برو سراغ گزینه 1 (4 فیچر). اگه بالای 50 تاست، 12 فیچر با regularization مشکلی نداره.
+
+می‌خوای فایل split_breast.json رو آپلود کنی تا تعداد دقیق رو ببینم و تصمیم قطعی بگیریم؟
+یه نکته مهم‌تر
+با 50 sample و 5-fold CV، هر fold فقط 10 sample test داره. این یعنی variance متریک‌ها خیلی بالاست — یه اشتباه در classification روی 10 sample = 10% تغییر در accuracy. نتایج باید با این محدودیت در مقاله گزارش بشن.
+
+منظورت اینه که hyperparameter tuning خودکار داخل CV انجام بشه — یعنی برای هر fold، بهترین hyperparameter رو پیدا کنه و بعد روی test fold ارزیابی کنه. این کار با nested CV انجام می‌شه:
+
+Inner loop: GridSearchCV روی train folds برای پیدا کردن بهترین hyperparameter
+Outer loop: همان 5-fold اصلی برای ارزیابی نهایی
+با 50 sample این کاملاً درسته و از data leakage جلوگیری می‌کنه.
+
+چرا این روش درسته: hyperparameter selection داخل outer fold انجام می‌شه، نه قبل از اون — پس test fold هیچ‌وقت در انتخاب param دیده نمی‌شه و نتایج unbiased هستن.
+
+LR کمترین gap بین inner و outer داره — 
+یعنی generalize می‌کنه. SVM بیشترین gap داره — inner loop خوش‌بینانه‌تر از واقعیت بوده.
+
+۴۰ sample train و ۱۲ فیچر → ۳.۳ sample/feature که overfitting شدید داره.
+
+اما مهم‌تر از اون، یه مشکل معنایی هم داره: triplet بدون ترتیب هست. یعنی (A,B,C) و (B,A,C) و (C,A,B) همه یه چیزن. اگه concat کنی، مدل باید یاد بگیره که chem_AB و chem_BA یکی هستن — که با این حجم داده غیرممکنه. Mean این مشکل رو حل می‌کنه چون permutation-invariant هست.
+
+
+

@@ -1,0 +1,169 @@
+{
+  "total_drugs": 88,
+  "complete_all_fields": 55,
+  "missing_chembl": [
+    "carboplatin",
+    "dTI-015",
+    "colestipol",
+    "colesevelam"
+  ],
+  "missing_smiles": [
+    "carboplatin",
+    "motexafin gadolinium",
+    "dTI-015",
+    "colestipol",
+    "colesevelam"
+  ],
+  "missing_atc": [
+    "pemetrexed",
+    "carboplatin",
+    "mK-1775",
+    "suramin",
+    "aBT-869",
+    "endoAngio-GT",
+    "mycophenolate mofetil",
+    "rivoceranib",
+    "bupropion",
+    "curcumin",
+    "indocyanine green",
+    "cycloleucine",
+    "motexafin gadolinium",
+    "gDC-0068",
+    "cATECHIN",
+    "dTI-015",
+    "triptorelin",
+    "pF-05212384",
+    "lEE011",
+    "buparlisib",
+    "merimepodib",
+    "leuprolide",
+    "loperamide",
+    "gonadorelin",
+    "aBT-888",
+    "motesanib",
+    "hKI-272",
+    "colestipol",
+    "colesevelam"
+  ],
+  "missing_targets": [
+    "carboplatin",
+    "gemcitabine",
+    "bortezomib",
+    "curcumin",
+    "indocyanine green",
+    "cycloleucine",
+    "motexafin gadolinium",
+    "epirubicin",
+    "gDC-0068",
+    "cATECHIN",
+    "dTI-015",
+    "palbociclib",
+    "buparlisib",
+    "motesanib",
+    "hKI-272",
+    "colestipol",
+    "colesevelam"
+  ],
+  "multiple_missing": [
+    {
+      "drug": "carboplatin",
+      "missing": [
+        "chembl",
+        "smiles",
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "curcumin",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "indocyanine green",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "cycloleucine",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "motexafin gadolinium",
+      "missing": [
+        "smiles",
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "gDC-0068",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "cATECHIN",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "dTI-015",
+      "missing": [
+        "chembl",
+        "smiles",
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "buparlisib",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "motesanib",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "hKI-272",
+      "missing": [
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "colestipol",
+      "missing": [
+        "chembl",
+        "smiles",
+        "atc",
+        "targets"
+      ]
+    },
+    {
+      "drug": "colesevelam",
+      "missing": [
+        "chembl",
+        "smiles",
+        "atc",
+        "targets"
+      ]
+    }
+  ]
+}

@@ -329,6 +329,8 @@ def _fetch_drugbank_webscrape(drug_name):
     return result
 
 
+# ردیف‌های مربوط به breast یا lung را با استفاده از Disease_Entry و Cell Line
+# پیدا کن، سپس همه اسم داروهای یکتای آن subset را استخراج کن
 def load_drug_data_from_tsv(tsv_path, disease_type="breast"):
     """
     Load drug combination data from TSV and filter by disease type.
@@ -583,11 +585,3 @@ if __name__ == "__main__":
     names_lung, S_atc_lung, S_tgt_lung = build_lung(root)
     print(f"Lung: {len(names_lung)} drugs")
     print(f"S_atc shape: {S_atc_lung.shape}, S_tgt shape: {S_tgt_lung.shape}")
-
-
-# TODO: use test.py to enruch the features and use them here instead of requesting to drugbank
-# then, you are be able to run the whople hypersynergyx pipeline. before it make sure that you
-# get the disease from source correctly by disease and cell line name
-
-# TODO: run own pipline with 3 drug input
-# TODO: run with 2 drug as input : your this weak task write rwwr for 2 drug

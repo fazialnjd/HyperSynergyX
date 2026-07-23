@@ -1,0 +1,240 @@
+{
+  "fentanyl": {
+    "chembl_id": "CHEMBL1201159",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1.Cl",
+    "atc_codes": []
+  },
+  "triptorelin": {
+    "chembl_id": "CHEMBL1200554",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC(C)C[C@H](NC(=O)[C@@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(N)=O.O=C(O)c1cc2ccccc2c(Cc2c(O)c(C(=O)O)cc3ccccc23)c1O",
+    "atc_codes": []
+  },
+  "cATECHIN": {
+    "chembl_id": "CHEMBL206452",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2",
+    "atc_codes": []
+  },
+  "methotrexate": {
+    "chembl_id": "CHEMBL3244648",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-])cc1.[Na+].[Na+]",
+    "atc_codes": []
+  },
+  "gemcitabine": {
+    "chembl_id": "CHEMBL3039516",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CCCCCCCC/C=C/CCCCCCCC(=O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)C(F)(F)[C@@H]1O",
+    "atc_codes": []
+  },
+  "aBT-888": {
+    "chembl_id": "CHEMBL3590674",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "O=C(c1cc(S(=O)(=O)Nc2ccccc2F)c(F)cc1Cl)N1CCN2CCC[C@@H]2C1",
+    "atc_codes": []
+  },
+  "hKI-272": {
+    "chembl_id": "CHEMBL178654",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C",
+    "atc_codes": []
+  },
+  "gDC-0068": {
+    "chembl_id": "CHEMBL3330650",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "O=C(NOCCO)c1ccc2cncn2c1Nc1ccc(I)cc1F",
+    "atc_codes": []
+  },
+  "gonadorelin": {
+    "chembl_id": "CHEMBL1200511",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC(=O)O.CC(C)C[C@H](NC(=O)CNC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(N)=O",
+    "atc_codes": []
+  },
+  "merimepodib": {
+    "chembl_id": "CHEMBL304087",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "COc1cc(NC(=O)Nc2cccc(CNC(=O)O[C@H]3CCOC3)c2)ccc1-c1cnco1",
+    "atc_codes": []
+  },
+  "motesanib": {
+    "chembl_id": "CHEMBL2107357",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC1(C)CNc2cc(NC(=O)c3cccnc3NCc3ccncc3)ccc21.O=P(O)(O)O.O=P(O)(O)O",
+    "atc_codes": []
+  },
+  "leuprolide": {
+    "chembl_id": "CHEMBL1200775",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC(=O)O.CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H]1CCC(=O)N1",
+    "atc_codes": []
+  },
+  "loperamide": {
+    "chembl_id": "CHEMBL1707",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1.Cl",
+    "atc_codes": []
+  },
+  "palbociclib": {
+    "chembl_id": "CHEMBL2364621",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O.O=S(=O)(O)CCO",
+    "atc_codes": []
+  },
+  "buparlisib": {
+    "chembl_id": "CHEMBL2364604",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "Cl.Nc1cc(C(F)(F)F)c(-c2cc(N3CCOCC3)nc(N3CCOCC3)n2)cn1",
+    "atc_codes": []
+  },
+  "lEE011": {
+    "chembl_id": "CHEMBL3545110",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1",
+    "atc_codes": []
+  },
+  "pF-05212384": {
+    "chembl_id": "CHEMBL592445",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CN(C)C1CCN(C(=O)c2ccc(NC(=O)Nc3ccc(-c4nc(N5CCOCC5)nc(N5CCOCC5)n4)cc3)cc2)CC1",
+    "atc_codes": []
+  },
+  "docetaxel": {
+    "chembl_id": "CHEMBL92",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@@]1(C)C(=O)[C@H](O)C3=C(C)[C@@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c4ccccc4)C[C@@](O)([C@@H](OC(=O)c4ccccc4)[C@H]21)C3(C)C",
+    "atc_codes": []
+  },
+  "afatinib": {
+    "chembl_id": "CHEMBL2105712",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1.O=C(O)/C=C\\C(=O)O.O=C(O)/C=C\\C(=O)O",
+    "atc_codes": []
+  },
+  "aBT-869": {
+    "chembl_id": "CHEMBL3590674",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "O=C(c1cc(S(=O)(=O)Nc2ccccc2F)c(F)cc1Cl)N1CCN2CCC[C@@H]2C1",
+    "atc_codes": []
+  },
+  "mycophenolate mofetil": {
+    "chembl_id": "CHEMBL1456",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "COc1c(C)c2c(c(O)c1C/C=C(\\C)CCC(=O)OCCN1CCOCC1)C(=O)OC2",
+    "atc_codes": []
+  },
+  "bupropion": {
+    "chembl_id": "CHEMBL1201735",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "Br.CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1",
+    "atc_codes": []
+  },
+  "cycloleucine": {
+    "chembl_id": "CHEMBL295830",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "NC1(C(=O)O)CCCC1",
+    "atc_codes": []
+  },
+  "motexafin gadolinium": {
+    "chembl_id": "CHEMBL2104414",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CCc1c(CC)c2cc3nc(cnc4cc(OCCOCCOCCOC)c(OCCOCCOCCOC)cc4ncc4nc(cc1[nH]2)C(CCCO)=C4C)C(C)=C3CCCO",
+    "atc_codes": []
+  },
+  "erlotinib": {
+    "chembl_id": "CHEMBL1079742",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1.Cl",
+    "atc_codes": []
+  },
+  "curcumin": {
+    "chembl_id": "CHEMBL140",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O",
+    "atc_codes": []
+  },
+  "endoAngio-GT": {
+    "chembl_id": "CHEMBL2106003",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC(C)(C)CCC#C[C@@H]1C[C@H]1c1c[nH]cn1.O=C(O)/C=C\\C(=O)O",
+    "atc_codes": []
+  },
+  "pemetrexed": {
+    "chembl_id": "CHEMBL2360464",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "Nc1nc2[nH]cc(CCc3ccc(C(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-])cc3)c2c(=O)[nH]1.[Na+].[Na+]",
+    "atc_codes": []
+  },
+  "rivoceranib": {
+    "chembl_id": "CHEMBL3186534",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "N#CC1(c2ccc(NC(=O)c3cccnc3NCc3ccncc3)cc2)CCCC1",
+    "atc_codes": []
+  },
+  "mK-1775": {
+    "chembl_id": "CHEMBL1976040",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "C=CCn1c(=O)c2cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc2n1-c1cccc(C(C)(C)O)n1",
+    "atc_codes": []
+  },
+  "indocyanine green": {
+    "chembl_id": "CHEMBL1646",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CC1(C)C(/C=C/C=C/C=C/C=C2\\N(CCCCS(=O)(=O)[O-])c3ccc4ccccc4c3C2(C)C)=[N+](CCCCS(=O)(=O)[O-])c2ccc3ccccc3c21.[Na+]",
+    "atc_codes": []
+  },
+  "etoposide": {
+    "chembl_id": "CHEMBL1200645",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1OP(=O)(O)O",
+    "atc_codes": []
+  },
+  "suramin": {
+    "chembl_id": "CHEMBL265502",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "Cc1ccc(C(=O)Nc2ccc(S(=O)(=O)O)c3cc(S(=O)(=O)O)cc(S(=O)(=O)O)c23)cc1NC(=O)c1cccc(NC(=O)Nc2cccc(C(=O)Nc3cc(C(=O)Nc4ccc(S(=O)(=O)O)c5cc(S(=O)(=O)O)cc(S(=O)(=O)O)c45)ccc3C)c2)c1",
+    "atc_codes": []
+  },
+  "irinotecan": {
+    "chembl_id": "CHEMBL3989514",
+    "has_smiles": true,
+    "has_atc": false,
+    "smiles": "CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC.Cl.O.O.O",
+    "atc_codes": []
+  }
+}

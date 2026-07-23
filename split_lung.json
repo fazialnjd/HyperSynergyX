@@ -1,0 +1,66 @@
+[
+  {
+    "drugA": "erlotinib",
+    "drugB": "gemcitabine",
+    "drugC": "vinorelbine",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 0
+  },
+  {
+    "drugA": "erlotinib",
+    "drugB": "gefitinib",
+    "drugC": "icotinib hydrochloride",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 1
+  },
+  {
+    "drugA": "docetaxel",
+    "drugB": "gemcitabine",
+    "drugC": "vinorelbine",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 0
+  },
+  {
+    "drugA": "afatinib",
+    "drugB": "cabozantinib",
+    "drugC": "regorafenib",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 1
+  },
+  {
+    "drugA": "docetaxel",
+    "drugB": "gemcitabine",
+    "drugC": "icotinib hydrochloride",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 0
+  },
+  {
+    "drugA": "cabozantinib",
+    "drugB": "erlotinib",
+    "drugC": "gefitinib",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 1
+  },
+  {
+    "drugA": "gefitinib",
+    "drugB": "gemcitabine",
+    "drugC": "icotinib hydrochloride",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 0
+  },
+  {
+    "drugA": "cabozantinib",
+    "drugB": "docetaxel",
+    "drugC": "icotinib hydrochloride",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 1
+  }
+]

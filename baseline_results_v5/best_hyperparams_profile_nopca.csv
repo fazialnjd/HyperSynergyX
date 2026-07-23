@@ -1,0 +1,11 @@
+model,fold,inner_auroc,C,penalty,gamma,kernel
+Logistic Regression,0,0.7477083333333333,1.0,l2,,
+Logistic Regression,1,0.7889583333333333,1.0,l2,,
+Logistic Regression,2,0.8764583333333333,1.0,l2,,
+Logistic Regression,3,0.8243750000000002,1.0,l2,,
+Logistic Regression,4,0.6697916666666667,0.001,l2,,
+SVM,0,0.7847916666666667,1.0,,scale,rbf
+SVM,1,0.8235416666666667,1.0,,scale,rbf
+SVM,2,0.8695833333333333,1.0,,scale,linear
+SVM,3,0.85125,1.0,,scale,rbf
+SVM,4,0.7702083333333333,1.0,,scale,rbf

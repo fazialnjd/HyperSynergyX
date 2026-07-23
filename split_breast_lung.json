@@ -1,0 +1,466 @@
+[
+  {
+    "drugA": "fulvestrant",
+    "drugB": "letrozole",
+    "drugC": "palbociclib",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "fentanyl",
+    "drugB": "midazolam",
+    "drugC": "propofol",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "everolimus",
+    "drugB": "exemestane",
+    "drugC": "fulvestrant",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "exemestane",
+    "drugC": "letrozole",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "everolimus",
+    "drugB": "goserelin",
+    "drugC": "letrozole",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "alpelisib",
+    "drugB": "fulvestrant",
+    "drugC": "goserelin",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "alpelisib",
+    "drugB": "canagliflozin",
+    "drugC": "fulvestrant",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "degarelix",
+    "drugC": "lY2835219",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "capecitabine",
+    "drugB": "epirubicin",
+    "drugC": "paclitaxel",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "capecitabine",
+    "drugB": "lapatinib",
+    "drugC": "panobinostat",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "goserelin",
+    "drugC": "palbociclib",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "fulvestrant",
+    "drugC": "lY2835219",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "hydroxychloroquine",
+    "drugB": "letrozole",
+    "drugC": "palbociclib",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "everolimus",
+    "drugB": "exemestane",
+    "drugC": "lY2835219",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "goserelin",
+    "drugC": "letrozole",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "lY2835219",
+    "drugC": "letrozole",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "fulvestrant",
+    "drugB": "lY2835219",
+    "drugC": "letrozole",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "capecitabine",
+    "drugB": "eribulin",
+    "drugC": "vinorelbine",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "everolimus",
+    "drugC": "fulvestrant",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "letrozole",
+    "drugC": "vinorelbine",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "capecitabine",
+    "drugB": "docetaxel",
+    "drugC": "epirubicin",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "entrectinib",
+    "drugB": "goserelin",
+    "drugC": "letrozole",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "docetaxel",
+    "drugB": "epirubicin",
+    "drugC": "gemcitabine",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "alpelisib",
+    "drugB": "fulvestrant",
+    "drugC": "tucatinib",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "everolimus",
+    "drugB": "lapatinib",
+    "drugC": "letrozole",
+    "label": 1,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "capecitabine",
+    "drugB": "hydroxychloroquine",
+    "drugC": "letrozole",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "exemestane",
+    "drugC": "tucatinib",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "everolimus",
+    "drugB": "gemcitabine",
+    "drugC": "panobinostat",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "entrectinib",
+    "drugB": "hydroxychloroquine",
+    "drugC": "lapatinib",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "entrectinib",
+    "drugB": "epirubicin",
+    "drugC": "letrozole",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "degarelix",
+    "drugB": "paclitaxel",
+    "drugC": "palbociclib",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "pF-03084014",
+    "drugB": "propofol",
+    "drugC": "vinorelbine",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "everolimus",
+    "drugB": "fulvestrant",
+    "drugC": "palbociclib",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "docetaxel",
+    "drugB": "exemestane",
+    "drugC": "paclitaxel",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "eribulin",
+    "drugB": "fentanyl",
+    "drugC": "paclitaxel",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "alpelisib",
+    "drugB": "fulvestrant",
+    "drugC": "propofol",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "eribulin",
+    "drugB": "gemcitabine",
+    "drugC": "propofol",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "panobinostat",
+    "drugC": "vinorelbine",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "capecitabine",
+    "drugB": "fentanyl",
+    "drugC": "goserelin",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "anastrozole",
+    "drugB": "canagliflozin",
+    "drugC": "vinorelbine",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "degarelix",
+    "drugB": "entrectinib",
+    "drugC": "midazolam",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "everolimus",
+    "drugB": "fulvestrant",
+    "drugC": "lapatinib",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "epirubicin",
+    "drugB": "lY2835219",
+    "drugC": "paclitaxel",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "canagliflozin",
+    "drugB": "paclitaxel",
+    "drugC": "palbociclib",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "fentanyl",
+    "drugB": "hydroxychloroquine",
+    "drugC": "lapatinib",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 0
+  },
+  {
+    "drugA": "letrozole",
+    "drugB": "paclitaxel",
+    "drugC": "propofol",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "degarelix",
+    "drugB": "exemestane",
+    "drugC": "fentanyl",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 1
+  },
+  {
+    "drugA": "fulvestrant",
+    "drugB": "letrozole",
+    "drugC": "paclitaxel",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 3
+  },
+  {
+    "drugA": "docetaxel",
+    "drugB": "hydroxychloroquine",
+    "drugC": "midazolam",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 4
+  },
+  {
+    "drugA": "entrectinib",
+    "drugB": "epirubicin",
+    "drugC": "fulvestrant",
+    "label": 0,
+    "dataset": "breast",
+    "fold": 2
+  },
+  {
+    "drugA": "docetaxel",
+    "drugB": "gemcitabine",
+    "drugC": "vinorelbine",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 1
+  },
+  {
+    "drugA": "erlotinib",
+    "drugB": "gefitinib",
+    "drugC": "icotinib hydrochloride",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 2
+  },
+  {
+    "drugA": "afatinib",
+    "drugB": "cabozantinib",
+    "drugC": "regorafenib",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 3
+  },
+  {
+    "drugA": "erlotinib",
+    "drugB": "gemcitabine",
+    "drugC": "vinorelbine",
+    "label": 1,
+    "dataset": "lung",
+    "fold": 1
+  },
+  {
+    "drugA": "afatinib",
+    "drugB": "gemcitabine",
+    "drugC": "icotinib hydrochloride",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 2
+  },
+  {
+    "drugA": "cabozantinib",
+    "drugB": "gemcitabine",
+    "drugC": "icotinib hydrochloride",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 1
+  },
+  {
+    "drugA": "docetaxel",
+    "drugB": "icotinib hydrochloride",
+    "drugC": "regorafenib",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 4
+  },
+  {
+    "drugA": "cabozantinib",
+    "drugB": "docetaxel",
+    "drugC": "gemcitabine",
+    "label": 0,
+    "dataset": "lung",
+    "fold": 4
+  }
+]

@@ -1,0 +1,1110 @@
+DrugCom_ID	DrugID_1	Drug_Name_1	Highest_status_1	order_1	DrugID_2	Drug_Name_2	Highest_status_2	order_2	DrugID_3	Drug_Name_3	DrugID_4	Drug_Name_4	Disease_Entry	Source	Highest_status	Cell Line	ZIP	Bliss	Loewe	HSA	n_drugs
+DCS8A41	DM27D4J	pD-0325901	Phase 2	21.0	DMDI269	docetaxel	Approved	34.0	DMOH8VY	dacomitinib	.	.	Colorectal Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCY85TZ	DM3BH1Y	lapatinib	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Neoplasms, Gastrointestinal Tract	ClinicalTrials.gov	Phase 3	.					3
+DC06496	DM3BH1Y	lapatinib	Approved	34.0	DMHIDCJ	octreotide	Approved	34.0	DMTS85L	capecitabine	.	.	Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCXJ6ZK	DM3BH1Y	lapatinib	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMH07Y3	letrozole	.	.	Breast Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DC39K68	DM3BH1Y	lapatinib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMF57DM	pazopanib	.	.	Neoplasms, Breast	ClinicalTrials.gov	Phase 1	.					3
+DC8TZKW	DM3BH1Y	lapatinib	Approved	34.0	DMSE3I7	gemcitabine	Preclinical	2.1	DMQNWRD	oxaliplatin	.	.	Metastatic Pancreatic Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCBG7QK	DM3BH1Y	lapatinib	Approved	34.0	DM58WKG	panobinostat	Approved	34.0	DMTS85L	capecitabine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC59A3V	DM3BH1Y	lapatinib	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Neoplasms, Colorectal	ClinicalTrials.gov	Phase 1	.					3
+DCO9Y73	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 3	.					3
+DC0MIZ8	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMXZRW0	dTI-015	Approved	34.0	DMZD5QR	cytarabine	.	.	Lymphoma	ClinicalTrials.gov	Phase 2	.					3
+DCM9986	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMNO38U	bortezomib	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Monoblastic Leukemia (M5a)	ClinicalTrials.gov	Phase 2	.					3
+DC0F3Y4	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMKECZD	temozolomide	Approved	34.0	DMZ4Q0B	dasatinib	.	.	Recurrent Childhood Brain Tumor	ClinicalTrials.gov	Phase 1	.					3
+DC0OXFQ	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMXYJ9C	busulfan	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Basophilic Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCIGYM6	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMG281S	carboplatin	Approved	34.0	DMIZKOP	thiotepa	.	.	Ewing's Family Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCSW9N4	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMUPE07	nicotinamide	Approved	34.0	DMWMPD4	vorinostat	.	.	Hodgkin's Disease	ClinicalTrials.gov	Phase 1	.					3
+DC0ZE2W	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMG281S	carboplatin	Approved	34.0	DMNO38U	bortezomib	.	.	Unspecified Adult Solid Tumor, Protocol Specific	ClinicalTrials.gov	Phase 1	.					3
+DCMCVSB	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMINOX3	vincristine	Approved	34.0	DMUYKBZ	cyclosporin A	.	.	Brain Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCWKWJ0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMWMPD4	vorinostat	Approved	34.0	DMZD5QR	cytarabine	.	.	Accelerated Phase Chronic Myelogenous Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DC65DSE	DM62UG5	vemurafenib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Advanced Cancers	ClinicalTrials.gov	Phase 1	.					3
+DCCQEC5	DMCMBHA	erlotinib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-Squamous Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC0K3P2	DMCMBHA	erlotinib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCRJL0M	DMCMBHA	erlotinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCZQ27L	DMCMBHA	erlotinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Recurrent Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCBAO0J	DMCMBHA	erlotinib	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMKECZD	temozolomide	.	.	Recurrent Childhood Brain Tumor	ClinicalTrials.gov	Phase 1	.					3
+DCDPJ7J	DMCMBHA	erlotinib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCGMKYS	DMCMBHA	erlotinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Adenocarcinoma of the Lung	ClinicalTrials.gov	Phase 1	.					3
+DC7IH5M	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMVXFYE	vinorelbine	.	.	Advanced Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC7N6IM	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMTS85L	capecitabine	.	.	Nasopharyngeal Neoplasms	ClinicalTrials.gov	Phase 3	.					3
+DCH3LJR	DMSE3I7	gemcitabine	Preclinical	2.1	DMCMBHA	erlotinib	Approved	34.0	DMVXFYE	vinorelbine	.	.	Non - Small Cell Lung Cancer NSCLC	ClinicalTrials.gov	Phase 3	.					3
+DCPAU0W	DMSE3I7	gemcitabine	Preclinical	2.1	DMAO80I	pralatrexate	Approved	34.0	DMT5GNL	romidepsin	.	.	Relapsed Peripheral T-Cell Lymphoma	ClinicalTrials.gov	Phase 3	.					3
+DC3AA12	DMSE3I7	gemcitabine	Preclinical	2.1	DMCMBHA	erlotinib	Approved	34.0	DMQNWRD	oxaliplatin	.	.	Pancreatic Adenocarcinoma	ClinicalTrials.gov	Phase 2	.					3
+DC4EPQ1	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-Squamous Non-Small Cell Lung Cancer (NSCLC)	ClinicalTrials.gov	Phase 2	.					3
+DC79PW1	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMTS85L	capecitabine	.	.	Pancreatic Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCAEE26	DMSE3I7	gemcitabine	Preclinical	2.1	DMCMBHA	erlotinib	Approved	34.0	DMQNWRD	oxaliplatin	.	.	Pancreatic Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCAX0X4	DMSE3I7	gemcitabine	Preclinical	2.1	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Pancreatic Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCC81JT	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCKBNU3	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCNX3HZ	DMSE3I7	gemcitabine	Preclinical	2.1	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCS5S8P	DMSE3I7	gemcitabine	Preclinical	2.1	DMG281S	carboplatin	Approved	34.0	DMWBZJD	gDC-0068	.	.	Triple Negative Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCSULYL	DMSE3I7	gemcitabine	Preclinical	2.1	DMCMBHA	erlotinib	Approved	34.0	DMDASC6	metformin	.	.	Locally Advanced Pancreatic Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCZ6U23	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC0A2KP	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMF57DM	pazopanib	.	.	Stage III Adult Soft Tissue Sarcoma	ClinicalTrials.gov	Phase 1	.					3
+DC4LFVQ	DMSE3I7	gemcitabine	Preclinical	2.1	DMS2IUH	valganciclovir	Approved	34.0	DMS49KH	valproic Acid	.	.	Nasopharyngeal Carcinoma	ClinicalTrials.gov	Phase 1	.					3
+DC6J2FO	DMSE3I7	gemcitabine	Preclinical	2.1	DM7RJXL	imatinib	Phase 3 Trial	25.0	DMQNWRD	oxaliplatin	.	.	Advanced Pancreatic Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCHRXVN	DMSE3I7	gemcitabine	Preclinical	2.1	DMRICNP	vandetanib	Approved	34.0	DMTS85L	capecitabine	.	.	Malignant Solid Tumour	ClinicalTrials.gov	Phase 1	.					3
+DCI5L9F	DMSE3I7	gemcitabine	Preclinical	2.1	DMQNWRD	oxaliplatin	Approved	34.0	DMRICNP	vandetanib	.	.	Advanced Incurable Solid Malignancy	ClinicalTrials.gov	Phase 1	.					3
+DCPEA51	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMTS85L	capecitabine	.	.	Pancreatic Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCSTD1Q	DMSE3I7	gemcitabine	Preclinical	2.1	DMCMBHA	erlotinib	Approved	34.0	DMTS85L	capecitabine	.	.	Metastatic Pancreatic Carcinoma	ClinicalTrials.gov	Phase 1	.					3
+DCW2ZVG	DMSE3I7	gemcitabine	Preclinical	2.1	DMCXRZF	lY2603618	Phase 2	21.0	DMMX2E6	pemetrexed	.	.	Advanced Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCWSX36	DMSE3I7	gemcitabine	Preclinical	2.1	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Advanced Gastrointestinal Malignancies	ClinicalTrials.gov	Phase 1	.					3
+DCEWIV9	DMPDW6T	epirubicin	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC3EN7P	DMPDW6T	epirubicin	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC7PRHQ	DMPDW6T	epirubicin	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Esophageal Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DCDNBR7	DMPDW6T	epirubicin	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	CLDN18.2-positive Adenocarcinoma of the Gastroesophageal Junction	ClinicalTrials.gov	Phase 2	.					3
+DCRNVB3	DMPDW6T	epirubicin	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Gastro Oesophageal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC51IJ4	DM8V75C	aBIRATERONE	Approved	34.0	DMGL19D	enzalutamide	Approved	34.0	DMQ8FR2	prednisolone	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 4	.					3
+DC4OUBQ	DM8V75C	aBIRATERONE	Approved	34.0	DMGL19D	enzalutamide	Approved	34.0	DMI782S	erdafitinib	.	.	Castration-Resistant Prostate Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DC6G14H	DM8V75C	aBIRATERONE	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMT81LZ	arn-509	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC7NFUT	DM8V75C	aBIRATERONE	Approved	34.0	DMNE56X	aBT-263	Phase 3	25.0	DMXZAL2	hydroxychloroquine	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC81FZT	DM8V75C	aBIRATERONE	Approved	34.0	DM2HG4X	prednisone	Phase 3 Trial	25.0	DMT81LZ	arn-509	.	.	Castration Levels of Testosterone	ClinicalTrials.gov	Phase 2	.					3
+DCMLYR0	DM8V75C	aBIRATERONE	Approved	34.0	DMGEMB7	hydrocortisone	Phase 3 Trial	25.0	DMUDIR8	fludrocortisone	.	.	Congenital Adrenal Hyperplasia	ClinicalTrials.gov	Phase 2	.					3
+DCQE28F	DM8V75C	aBIRATERONE	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMQ8FR2	prednisolone	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCRFN2Y	DM8V75C	aBIRATERONE	Approved	34.0	DMJAGXQ	niclosamide	Approved	34.0	DMQ7WL7	prednisone	.	.	Metastatic Prostate Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCLEBJ0	DM8V75C	aBIRATERONE	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMQ8FR2	prednisolone	.	.	Advanced Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC6LBVW	DM15F0X	gefitinib	Approved	34.0	DM5GFIK	icotinib hydrochloride	Registered	33.0	DMCMBHA	erlotinib	.	.	Non-Small-Cell Lung Cancer	ClinicalTrials.gov	Phase 4	.					3
+DCGU6CO	DM15F0X	gefitinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Adenocarcinoma of the Lung	ClinicalTrials.gov	Phase 2	.					3
+DCEQAP5	DM15F0X	gefitinib	Approved	34.0	DM3WP0N	al3818	Phase 3	25.0	DM5GFIK	icotinib hydrochloride	.	.	Non-Small-Cell Lung	ClinicalTrials.gov	Phase 1	.					3
+DCEWV4X	DM15F0X	gefitinib	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMDI269	docetaxel	.	.	Bladder Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCGQSU9	DM4F29C	crizotinib	Approved	34.0	DM5DSFZ	rifampicin	Approved	34.0	DMCR1MV	itraconazole	.	.	Non-Small Cell Lung Cancer ALK-positive	ClinicalTrials.gov	Phase 1	.					3
+DCD4BKP	DM3WDZ5	mK-1775	Phase 2	21.0	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC5EV11	DMM0XGL	idarubicin	Approved	34.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia (AML)	ClinicalTrials.gov	Phase 3	.					3
+DCDMZA9	DMM0XGL	idarubicin	Approved	34.0	DMTI0ZO	gilteritinib	Approved	34.0	DMZD5QR	cytarabine	.	.	AML, Adult	ClinicalTrials.gov	Phase 3	.					3
+DC09IXG	DMM0XGL	idarubicin	Approved	34.0	DMNO38U	bortezomib	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Monoblastic Leukemia (M5a)	ClinicalTrials.gov	Phase 2	.					3
+DC1MYNG	DMM0XGL	idarubicin	Approved	34.0	DMQL8XJ	decitabine	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Megakaryoblastic Leukemia (M7)	ClinicalTrials.gov	Phase 2	.					3
+DCIQSCF	DMM0XGL	idarubicin	Approved	34.0	DMZD5QR	cytarabine	Approved	34.0	DMZIM37	cP-868596	.	.	Newly Diagnosed AML With FLT3 Activating Mutations	ClinicalTrials.gov	Phase 2	.					3
+DC679I9	DMM0XGL	idarubicin	Approved	34.0	DMJV2EK	dasatinib	Investigative	0.0	DMZD5QR	cytarabine	.	.	Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities	ClinicalTrials.gov	Phase 1	.					3
+DC7YOJ9	DMM0XGL	idarubicin	Approved	34.0	DMTI0ZO	gilteritinib	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCK8NZ3	DMM0XGL	idarubicin	Approved	34.0	DMO8PT9	mLN8237	Phase 3	25.0	DMZD5QR	cytarabine	.	.	Acute Myelogenous Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCCODCF	DM7Q98D	ruxolitinib	Phase 3 Trial	25.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DME4TH4	etoposide	.	.	Hemophagocytic Lymphohistiocytoses	ClinicalTrials.gov	Phase 4	.					3
+DCPHHE3	DM7Q98D	ruxolitinib	Phase 3 Trial	25.0	DMHSY1I	regorafenib	Approved	34.0	DMTS85L	capecitabine	.	.	Pancreatic Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC5W7CV	DM7Q98D	ruxolitinib	Phase 3 Trial	25.0	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMIU2C	methylprednisolone	.	.	Multiple Myeloma in Relapse	ClinicalTrials.gov	Phase 1	.					3
+DC9KQKL	DM7Q98D	ruxolitinib	Phase 3 Trial	25.0	DM7Q98D	ruxolitinib	Phase 3 Trial	25.0	DM20KYR	ruxolitinib	.	.	T Cell Leukemia, Adult	ClinicalTrials.gov	Phase 1	.					3
+DCS3J9P	DM7Q98D	ruxolitinib	Phase 3 Trial	25.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCT5MHY	DM7Q98D	ruxolitinib	Phase 3 Trial	25.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMZ4Q0B	dasatinib	.	.	Acute Lymphoblastic Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DC1A7IL	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM70IK5	marinol	Approved	34.0	DML53ZJ	mirtazapine	.	.	Oncologic Complications	ClinicalTrials.gov	Phase 4	.					3
+DCAIVP1	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8VCBE	ibuprofen	Approved	34.0	DMUIE76	acetaminophen	.	.	Pain, Acute	ClinicalTrials.gov	Phase 4	.					3
+DCM6UWN	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMZ4Q0B	dasatinib	.	.	Ph+ Acute Lymphoblastic Leukemia	ClinicalTrials.gov	Phase 4	.					3
+DCPZ6UH	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBHMOX	palonosetron	Approved	34.0	DMY3VGC	promethazine	.	.	Postoperative Nausea and Vomiting	ClinicalTrials.gov	Phase 4	.					3
+DCY5VJE	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMOTQ1I	ondansetron	Approved	34.0	DMY3VGC	promethazine	.	.	Postoperative Nausea and Vomiting (PONV)	ClinicalTrials.gov	Phase 4	.					3
+DC2V68Y	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8I94Y	venetoclax	Approved	34.0	DMNO38U	bortezomib	.	.	Relapsed/Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DC4DYZA	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMRSNEU	masitinib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DC5OJER	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Leukemia	ClinicalTrials.gov	Phase 3	.					3
+DC6EJC6	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBQYO0	casopitant	Withdrawn from market	12.0	DMOTQ1I	ondansetron	.	.	Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC6T8Z8	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DMBZ27L	favipiravir	.	.	COVID-19 Infection	ClinicalTrials.gov	Phase 3	.					3
+DC6ULC1	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMVZL26	3,4-Dihydroxycinnamic Acid	.	.	Immune Thrombocytopenia	ClinicalTrials.gov	Phase 3	.					3
+DC72QL1	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMDI269	docetaxel	Approved	34.0	DMT3D5I	aflibercept	.	.	Carcinoma	ClinicalTrials.gov	Phase 3	.					3
+DC8SOTE	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMVYRH2	perifosine	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCD4OPJ	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8VCBE	ibuprofen	Approved	34.0	DMUIE76	acetaminophen	.	.	Adenotonsillectomy	ClinicalTrials.gov	Phase 3	.					3
+DCE49RJ	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM73A5J	lenalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCESWHA	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCH6Q4B	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBQYO0	casopitant	Withdrawn from market	12.0	DMOTQ1I	ondansetron	.	.	Nausea and Vomiting, Chemotherapy-Induced	ClinicalTrials.gov	Phase 3	.					3
+DCJ5K9R	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DM4ONW5	baricitinib	.	.	Covid19	ClinicalTrials.gov	Phase 3	.					3
+DCJSXFV	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCKXV9A	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DM73A5J	lenalidomide	.	.	Relapsed Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCLY43W	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMA4MRX	perphenazine	Approved	34.0	DMOTQ1I	ondansetron	.	.	Perioperative Optimization	ClinicalTrials.gov	Phase 3	.					3
+DCNVEMZ	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM471KJ	omeprazole	Approved	34.0	DMYZ57N	albendazole	.	.	Neurocysticercosis	ClinicalTrials.gov	Phase 3	.					3
+DCPG97F	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCPVNZ9	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCUMJXE	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM58WKG	panobinostat	Approved	34.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DC0DQFL	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	.	.	Nasopharyngeal Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DC1G9ZO	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DMJS42H	aviptadil	.	.	COVID-19	ClinicalTrials.gov	Phase 2	.					3
+DC1JU99	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DMQPTOZ	icatibant	.	.	COVID-19	ClinicalTrials.gov	Phase 2	.					3
+DC3KY0V	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DM8I94Y	venetoclax	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC4K2CO	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMS4BLQ	aminolevulinic acid hci	.	.	Stage I Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC51QO5	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMYZJGB	ibrutinib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC52BGE	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMLB81S	paclitaxel	.	.	Relapse/Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC57G9K	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM58WKG	panobinostat	Approved	34.0	DM73A5J	lenalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC5U64N	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8I94Y	venetoclax	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC6IL7L	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DME4TH4	etoposide	.	.	Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC7BOG6	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DM73A5J	lenalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC7ERXM	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC7KVXW	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC9U386	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DME9QGW	marizomib	Phase 3	25.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCA5S4Q	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMNO38U	bortezomib	.	.	Refractory Plasma Cell Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCATDUW	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DMTWS9E	apremilast	.	.	COVID-19	ClinicalTrials.gov	Phase 2	.					3
+DCB4LYI	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMDL2OZ	aspirin	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCCALVA	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMZ4Q0B	dasatinib	.	.	Acute Lymphoblastic Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCCOQ02	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCDA2MP	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DM92AH3	cyproheptadine	.	.	COVID-19	ClinicalTrials.gov	Phase 2	.					3
+DCDWXYJ	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM58WKG	panobinostat	Approved	34.0	DMNO38U	bortezomib	.	.	Relapsed and Bortezomib Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCFHKM0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBHMOX	palonosetron	Approved	34.0	DMOTQ1I	ondansetron	.	.	Chemotherapy-induced Nausea and Vomiting	ClinicalTrials.gov	Phase 2	.					3
+DCH1LU6	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMFA5MY	metoclopramide	Approved	34.0	DMHIDCJ	octreotide	.	.	Malignant Bowel Obstruction	ClinicalTrials.gov	Phase 2	.					3
+DCHLP40	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DMUYKBZ	cyclosporin A	.	.	COVID-19	ClinicalTrials.gov	Phase 2	.					3
+DCM234Y	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNO38U	bortezomib	.	.	Primary Systemic Amyloidosis	ClinicalTrials.gov	Phase 2	.					3
+DCN1PZR	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM73A5J	lenalidomide	.	.	Relapse/Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCO2B1U	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DMYLOVR	aciclovir	.	.	Metastatic Castration-resistant Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCP0GBM	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMWMPD4	vorinostat	.	.	Relapsed or Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCQEH9V	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMQ8FR2	prednisolone	Approved	34.0	DMUIE76	acetaminophen	.	.	Postoperative Pain	ClinicalTrials.gov	Phase 2	.					3
+DCQI3SJ	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCRFPHF	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DM8I94Y	venetoclax	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCRGPGW	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMOTQ1I	ondansetron	Approved	34.0	DMPFN6Y	olanzapine	.	.	Emesis	ClinicalTrials.gov	Phase 2	.					3
+DCRMF2D	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMIXC7G	zoledronate	Approved	34.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCSV7TT	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBFZ6L	remdesivir	Phase 3 Trial	25.0	DM4V8WF	cenicriviroc	.	.	COVID-19	ClinicalTrials.gov	Phase 2	.					3
+DCUKT0G	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCXBUN3	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNO38U	bortezomib	.	.	Stage I Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCY2UDG	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMFH15Z	bendamustine hydrochloride	Approved	34.0	DMNO38U	bortezomib	.	.	Stage I Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCYABFL	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DM73A5J	lenalidomide	.	.	Amyloidosis	ClinicalTrials.gov	Phase 2	.					3
+DCYPCFI	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma in Relapse	ClinicalTrials.gov	Phase 2	.					3
+DC1SGGR	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMVYRH2	perifosine	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC66OVY	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC868R0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DML4ZOT	lidocaine	Approved	34.0	DMMIU2C	methylprednisolone	.	.	Sciatica	ClinicalTrials.gov	Phase 1	.					3
+DCB4TIP	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMCJN1P	plerixafor	Approved	34.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCP9M07	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMUYKBZ	cyclosporin A	.	.	Hemophagocytic Syndrome	ClinicalTrials.gov	Phase 1	.					3
+DC03O1X	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DMNE7L3	cC-220	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC0T6J6	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8I94Y	venetoclax	Approved	34.0	DMNO38U	bortezomib	.	.	Relapsed/Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC18VJ2	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMTA5OE	azacitidine	.	.	Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC1IKV8	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8X2EH	everolimus	Approved	34.0	DMMX75K	lEE011	.	.	Acute Lymphoblastic Leukemia ALL	ClinicalTrials.gov	Phase 1	.					3
+DC1K0UI	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMINOX3	vincristine	Approved	34.0	DMP6SC2	irinotecan	.	.	Non-Hodgkins Lymphoma	ClinicalTrials.gov	Phase 1	.					3
+DC36V79	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMYZJGB	ibrutinib	.	.	Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC3A0YB	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMTGBAX	pomalidomide	Approved	34.0	DMYZJGB	ibrutinib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC3H4D0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DMYZJGB	ibrutinib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC5ITF8	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC5KSWK	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC6B7B1	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC7AK5T	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMWMPD4	vorinostat	.	.	Relapsed or Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC9TIYU	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMX4DQH	delanzomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCE18BM	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DM73A5J	lenalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCEK6HT	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNE7L3	cC-220	Phase 2	21.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCGA61A	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8X2EH	everolimus	Approved	34.0	DMMX75K	lEE011	.	.	Pediatric Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCH2WO3	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DM4O2Z7	cyclophosphamide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCO0ZYT	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DM58WKG	panobinostat	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCO7BZC	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMSTH01	rocilinostat	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCQ1M1S	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMTGBAX	pomalidomide	.	.	Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCTATFC	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	Approved	34.0	DM73A5J	lenalidomide	.	.	Relapsed Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCTGZ6D	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMT5GNL	romidepsin	Approved	34.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCVMOZF	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	Approved	34.0	DMZ4Q0B	dasatinib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCSZAA6	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	Approved	34.0	DMY38SB	cATECHIN	.	.	Breast Cancer	ClinicalTrials.gov	Phase 4	.					3
+DC11HNK	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	Approved	34.0	DMTS85L	capecitabine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC4CO7S	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC57S8S	DMDI269	docetaxel	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMP6SC2	irinotecan	.	.	Esophageal Carcinoma	ClinicalTrials.gov	Phase 3	.					3
+DC8P2TD	DMDI269	docetaxel	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMTJAEP	vinflunine	.	.	Locally Advanced or Metastatic Unresectable Urothelial Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCFMABY	DMDI269	docetaxel	Approved	34.0	DMGL19D	enzalutamide	Approved	34.0	DMQ8FR2	prednisolone	.	.	Metastatic Castration Resistant Prostate Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC775W1	DMDI269	docetaxel	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	.	.	High-grade Serous Ovarian Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCI3EHU	DMDI269	docetaxel	Approved	34.0	DMIXC7G	zoledronate	Approved	34.0	DMWTAOI	estramustine	.	.	Hormone-Refractory Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCU1KY6	DMDI269	docetaxel	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMQNWRD	oxaliplatin	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCZA6J2	DMDI269	docetaxel	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC6DYV3	DMDI269	docetaxel	Approved	34.0	DMF57DM	pazopanib	Approved	34.0	DMG281S	carboplatin	.	.	Neoplasms, Breast	ClinicalTrials.gov	Phase 1	.					3
+DCXQDVZ	DMDI269	docetaxel	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Esophagus Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC5VKGA	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Brenner Tumor	ClinicalTrials.gov	Phase 1	.					3
+DCEYJOS	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMNO38U	bortezomib	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCY0HZW	DMDI269	docetaxel	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMRICNP	vandetanib	.	.	Adenocarcinoma of the Gastroesophageal Junction	ClinicalTrials.gov	Phase 1	.					3
+DC62YHJ	DM2YGNW	dactinomycin	Approved	34.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMINOX3	vincristine	.	.	Rhabdomyosarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCHFR1L	DM2YGNW	dactinomycin	Approved	34.0	DMCT3I8	ifosfamide	Approved	34.0	DMINOX3	vincristine	.	.	Rhabdomyosarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCRMGBA	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMFH15Z	bendamustine hydrochloride	Approved	34.0	DMNO38U	bortezomib	.	.	Lymphoma	ClinicalTrials.gov	Phase 1	.					3
+DCR20ZK	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMM0XGL	idarubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Myelodysplastic Syndrome	ClinicalTrials.gov	Phase 1	.					3
+DC08DRK	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMMZSXQ	azathioprine	Approved	34.0	DMTQXS7	mercaptopurine	.	.	Crohn's Disease	ClinicalTrials.gov	Phase 4	.					3
+DC3OAEB	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Hematopoietic Stem Cell Transplantation	ClinicalTrials.gov	Phase 4	.					3
+DC4YGOL	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMICA9H	sulfasalazine	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Rheumatoid Arthritis	ClinicalTrials.gov	Phase 4	.					3
+DC5KP7N	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMICA9H	sulfasalazine	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Arthritis, Rheumatoid	ClinicalTrials.gov	Phase 4	.					3
+DC61B0K	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Beta-Thalassemia Major	ClinicalTrials.gov	Phase 4	.					3
+DC9EHO7	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMICA9H	sulfasalazine	Approved	34.0	DMR8ONJ	leflunomide	.	.	Psoriatic Arthritis	ClinicalTrials.gov	Phase 4	.					3
+DCJN91L	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DM8BKU9	acitretin	Approved	34.0	DMUYKBZ	cyclosporin A	.	.	Plaque Psoriasis	ClinicalTrials.gov	Phase 4	.					3
+DCA69PQ	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 3	.					3
+DCXC09Y	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Chronic Myelogenous Leukemia	ClinicalTrials.gov	Phase 3	.					3
+DC31FMS	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMKECZD	temozolomide	Approved	34.0	DMYZJGB	ibrutinib	.	.	Primary Central Nervous System Lymphoma	ClinicalTrials.gov	Phase 2	.					3
+DC838W5	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Acute Myelogenous Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCJI1O7	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMNO38U	bortezomib	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCL4PX4	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMMZSXQ	azathioprine	Approved	34.0	DMU65NK	mycophenolic acid	.	.	Mucous Membrane Pemphigoid	ClinicalTrials.gov	Phase 2	.					3
+DCMHPS9	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMWMPD4	vorinostat	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Graft vs Host Disease	ClinicalTrials.gov	Phase 2	.					3
+DCWL1XT	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMTL94F	maraviroc	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Acute Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCWQ945	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DM7NKEV	thioguanine	Preclinical	2.1	DMUAZWG	leucovorin	.	.	Hodgkin's Disease	ClinicalTrials.gov	Phase 2	.					3
+DC0GFSX	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMOTQ1I	ondansetron	Approved	34.0	DMUAZWG	leucovorin	.	.	Juvenile Idiopathic Arthritis	ClinicalTrials.gov	Phase 1	.					3
+DC0MTOY	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMNO38U	bortezomib	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Graft Versus Host Disease	ClinicalTrials.gov	Phase 1	.					3
+DC1N5HJ	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMXZAL2	hydroxychloroquine	.	.	Recurrence (Disease Attribute)	ClinicalTrials.gov	Phase 1	.					3
+DC2P00C	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Acute Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCL7YBJ	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMICA9H	sulfasalazine	Approved	34.0	DMR8ONJ	leflunomide	.	.	Chronic Nonbacterial Osteomyelitis	ClinicalTrials.gov	Phase 1	.					3
+DCLPML3	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMMZSXQ	azathioprine	Approved	34.0	DMTQXS7	mercaptopurine	.	.	Inflammatory Bowel Disease	ClinicalTrials.gov	Phase 1	.					3
+DC26KNS	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMCVJ86	clofarabine	Approved	34.0	DMZD5QR	cytarabine	.	.	Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCEAFKR	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DM5DSFZ	rifampicin	Approved	34.0	DMDEXQ0	febuxostat	.	.	Drug Interaction	ClinicalTrials.gov	Phase 1	.					3
+DCEQO1B	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMNO38U	bortezomib	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Hematologic Malignancies	ClinicalTrials.gov	Phase 1	.					3
+DCRVSCR	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMIZKOP	thiotepa	Approved	34.0	DMVRLT7	fludarabine	.	.	Lymphoma	ClinicalTrials.gov	Phase 1	.					3
+DC576S1	DM4O2Z7	cyclophosphamide	Approved	34.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMMZSXQ	azathioprine	.	.	Lupus Nephritis	ClinicalTrials.gov	Phase 4	.					3
+DCEEEZI	DM4O2Z7	cyclophosphamide	Approved	34.0	DMINOX3	vincristine	Approved	34.0	DMMWSUL	lomustine	.	.	Untreated Childhood Medulloblastoma	ClinicalTrials.gov	Phase 3	.					3
+DCSD3XA	DM4O2Z7	cyclophosphamide	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCW552D	DM4O2Z7	cyclophosphamide	Approved	34.0	DMIZKOP	thiotepa	Approved	34.0	DMXZRW0	dTI-015	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC3CAQE	DM4O2Z7	cyclophosphamide	Approved	34.0	DMGW1ID	sirolimus	Phase 3	25.0	DMUYKBZ	cyclosporin A	.	.	Acute Lymphoblastic Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC3JKQJ	DM4O2Z7	cyclophosphamide	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC9WCRN	DM4O2Z7	cyclophosphamide	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Acute Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCBAHA8	DM4O2Z7	cyclophosphamide	Approved	34.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Kidney Transplantation	ClinicalTrials.gov	Phase 2	.					3
+DCCBX4E	DM4O2Z7	cyclophosphamide	Approved	34.0	DMCVJ86	clofarabine	Approved	34.0	DME4TH4	etoposide	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCCFQRU	DM4O2Z7	cyclophosphamide	Approved	34.0	DMZ7XNQ	tacrolimus	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Graft Vs Host Disease	ClinicalTrials.gov	Phase 2	.					3
+DCCX6PZ	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMXZRW0	dTI-015	.	.	Lymphoma	ClinicalTrials.gov	Phase 2	.					3
+DCECI3I	DM4O2Z7	cyclophosphamide	Approved	34.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMQ7WL7	prednisone	.	.	Lymphoproliferative Disorder	ClinicalTrials.gov	Phase 2	.					3
+DCENLKG	DM4O2Z7	cyclophosphamide	Approved	34.0	DMSE3I7	gemcitabine	Preclinical	2.1	DMXYJ9C	busulfan	.	.	Acute Lymphoblastic Leukemia, Adult	ClinicalTrials.gov	Phase 2	.					3
+DCI2UFM	DM4O2Z7	cyclophosphamide	Approved	34.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Chronic Myelogenous Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCJP2JH	DM4O2Z7	cyclophosphamide	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Hematologic Malignancy	ClinicalTrials.gov	Phase 2	.					3
+DCKOQ5H	DM4O2Z7	cyclophosphamide	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Hematological Malignancies	ClinicalTrials.gov	Phase 2	.					3
+DCN7EZ7	DM4O2Z7	cyclophosphamide	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMIZKOP	thiotepa	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCNHQ9W	DM4O2Z7	cyclophosphamide	Approved	34.0	DMP6G8T	topotecan	Approved	34.0	DMSQLZJ	nifurtimox	.	.	Neuroblastoma	ClinicalTrials.gov	Phase 2	.					3
+DCQG4P0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMXZRW0	dTI-015	.	.	Non-Hodgkin Lymphoma	ClinicalTrials.gov	Phase 2	.					3
+DCQY0XW	DM4O2Z7	cyclophosphamide	Approved	34.0	DMIZKOP	thiotepa	Approved	34.0	DMVRLT7	fludarabine	.	.	Lymphoma	ClinicalTrials.gov	Phase 2	.					3
+DCR907N	DM4O2Z7	cyclophosphamide	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Hematopoietic and Lymphoid Cell Neoplasm	ClinicalTrials.gov	Phase 2	.					3
+DCVLUL9	DM4O2Z7	cyclophosphamide	Approved	34.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMUYKBZ	cyclosporin A	.	.	Aplastic Anemia	ClinicalTrials.gov	Phase 2	.					3
+DC009BJ	DM4O2Z7	cyclophosphamide	Approved	34.0	DMXDHHH	mesna	Approved	34.0	DMZD5QR	cytarabine	.	.	Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DC04R48	DM4O2Z7	cyclophosphamide	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMIZKOP	thiotepa	.	.	Adult Acute Lymphoblastic Leukemia in Remission	ClinicalTrials.gov	Phase 1	.					3
+DCRAUA1	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMXZRW0	dTI-015	.	.	Adult Acute Lymphoblastic Leukemia in Remission	ClinicalTrials.gov	Phase 1	.					3
+DCU9D0Y	DM4O2Z7	cyclophosphamide	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCYPH5P	DM4O2Z7	cyclophosphamide	Approved	34.0	DMVRLT7	fludarabine	Approved	34.0	DMXYJ9C	busulfan	.	.	Epidermolysis Bullosa	ClinicalTrials.gov	Phase 1	.					3
+DC0J5JV	DM4O2Z7	cyclophosphamide	Approved	34.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Acute Myelogenous Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DC3JOEX	DM4O2Z7	cyclophosphamide	Approved	34.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMZ7XNQ	tacrolimus	.	.	Adult Acute Lymphoblastic Leukemia in Remission	ClinicalTrials.gov	Phase 1	.					3
+DC3YMDJ	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMXYJ9C	busulfan	.	.	Adult Grade III Lymphomatoid Granulomatosis	ClinicalTrials.gov	Phase 1	.					3
+DC7F9O2	DM4O2Z7	cyclophosphamide	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMXDHHH	mesna	.	.	Liver Transplant	ClinicalTrials.gov	Phase 1	.					3
+DC877LM	DM4O2Z7	cyclophosphamide	Approved	34.0	DME8FZ9	methoxsalen	Approved	34.0	DMIZKOP	thiotepa	.	.	Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCC4UBO	DM4O2Z7	cyclophosphamide	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMXZRW0	dTI-015	.	.	Lymphoma	ClinicalTrials.gov	Phase 1	.					3
+DCDS5IT	DM4O2Z7	cyclophosphamide	Approved	34.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMTS85L	capecitabine	.	.	Breast Cancer Female	ClinicalTrials.gov	Phase 1	.					3
+DCHXAOZ	DM4O2Z7	cyclophosphamide	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCLZQC3	DM4O2Z7	cyclophosphamide	Approved	34.0	DMVRLT7	fludarabine	Approved	34.0	DMXDHHH	mesna	.	.	Acute Lymphoblastic Leukemia, in Relapse	ClinicalTrials.gov	Phase 1	.					3
+DCQAZQR	DM4O2Z7	cyclophosphamide	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Hematologic Malignancies	ClinicalTrials.gov	Phase 1	.					3
+DCQYR1O	DM4O2Z7	cyclophosphamide	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Aplastic Anemia	ClinicalTrials.gov	Phase 1	.					3
+DCUG6NF	DM4O2Z7	cyclophosphamide	Approved	34.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMU4RVS	melphalan	.	.	Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC3BI0L	DM89QE1	metformin	Investigative	0.0	DMGDKXN	sitagliptin	Approved	34.0	DMRM3AW	acarbose	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 4	.					3
+DC8L29B	DM89QE1	metformin	Investigative	0.0	DM28UJG	dapagliflozin	Phase 3 Trial	25.0	DMGXENV	saxagliptin	.	.	Type 2 Diabetes	ClinicalTrials.gov	Phase 3	.					3
+DCHU4XJ	DM89QE1	metformin	Investigative	0.0	DMWFJTR	linagliptin	Phase 3 Trial	25.0	DMRF9YK	empagliflozin	.	.	Diabetic complication	TTD Database	Phase 1	.					3
+DC3UILR	DM89QE1	metformin	Investigative	0.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Ovarian Papillary Serous Carcinoma	ClinicalTrials.gov	Phase 1	.					3
+DC5P04O	DMINOX3	vincristine	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Brain and Central Nervous System Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCU3LWE	DMINOX3	vincristine	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Rhabdomyosarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCYZZS0	DMH07Y3	letrozole	Approved	34.0	DMK0O7U	flutamide	Approved	34.0	DMMZMOC	hydrocortisone	.	.	Congenital Adrenal Hyperplasia (CAH)	ClinicalTrials.gov	Phase 4	.					3
+DCU90CT	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	Approved	34.0	DMVXFYE	vinorelbine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCF5OEQ	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	Approved	34.0	DMVXFYE	vinorelbine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCIMZA7	DMH07Y3	letrozole	Approved	34.0	DMIXC7G	zoledronate	Approved	34.0	DMTK4LS	triptorelin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC4RUW5	DM0YZC6	fulvestrant	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DM9HPW3	exemestane	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC94AA9	DM0YZC6	fulvestrant	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DM9HPW3	exemestane	.	.	Advanced or Metastatic Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCDKVGD	DM0YZC6	fulvestrant	Approved	34.0	DMBL3VD	pF-05212384	Phase 2	21.0	DMD7L94	palbociclib	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCHLNDL	DM0YZC6	fulvestrant	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC9JUZ2	DM0YZC6	fulvestrant	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCDAWVA	DM0YZC6	fulvestrant	Approved	34.0	DMD7L94	palbociclib	Approved	34.0	DMH07Y3	letrozole	.	.	Metastatic Breast Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCJSKSZ	DM0YZC6	fulvestrant	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMH07Y3	letrozole	.	.	Breast Cancer Metastatic	ClinicalTrials.gov	Phase 2	.					3
+DCV8UQ1	DM0YZC6	fulvestrant	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMEXMYK	alpelisib	.	.	Advanced Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCXNTQ2	DM0YZC6	fulvestrant	Approved	34.0	DMEXMYK	alpelisib	Approved	34.0	DMFRM1I	canagliflozin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC1WHOV	DM0YZC6	fulvestrant	Approved	34.0	DMEXMYK	alpelisib	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC24EA7	DM0YZC6	fulvestrant	Approved	34.0	DMBESUA	tucatinib	Approved	34.0	DMMX75K	lEE011	.	.	Anatomic Stage II Breast Cancer AJCC v8	ClinicalTrials.gov	Phase 1	.					3
+DC2YQEC	DM0YZC6	fulvestrant	Approved	34.0	DM1WEHC	buparlisib	Phase 3	25.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCMDIAN	DM0YZC6	fulvestrant	Approved	34.0	DMBESUA	tucatinib	Approved	34.0	DMEXMYK	alpelisib	.	.	HER2-positive Metastatic Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCISY1G	DM8X2EH	everolimus	Approved	34.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Transplant; Failure, Kidney	ClinicalTrials.gov	Phase 3	.					3
+DC1L2BB	DM8X2EH	everolimus	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC23AQP	DM8X2EH	everolimus	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Metastatic Melanoma	ClinicalTrials.gov	Phase 2	.					3
+DC6K1NQ	DM8X2EH	everolimus	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Delayed Graft Function	ClinicalTrials.gov	Phase 2	.					3
+DC8R6NG	DM8X2EH	everolimus	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMMX75K	lEE011	.	.	Recurrent Endometrial Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCEOUMC	DM8X2EH	everolimus	Approved	34.0	DMCMBHA	erlotinib	Approved	34.0	DMZ4Q0B	dasatinib	.	.	Diffuse Intrinsic Pontine Glioma	ClinicalTrials.gov	Phase 2	.					3
+DC6JCXF	DM8X2EH	everolimus	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMKECZD	temozolomide	.	.	Recurrent Childhood Brain Tumor	ClinicalTrials.gov	Phase 1	.					3
+DCHRH0E	DM8X2EH	everolimus	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DM9HPW3	exemestane	.	.	Breast Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCHZ936	DM8X2EH	everolimus	Approved	34.0	DM9HPW3	exemestane	Approved	34.0	DMEXMYK	alpelisib	.	.	Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCI4ZQF	DM8X2EH	everolimus	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMG281S	carboplatin	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCKTQTO	DM8X2EH	everolimus	Approved	34.0	DM9HPW3	exemestane	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCCRTDU	DM7HXWT	nilotinib	Approved	34.0	DM7RJXL	imatinib	Phase 3 Trial	25.0	DMZ4Q0B	dasatinib	.	.	Leukemia, Chronic Myeloid	ClinicalTrials.gov	Phase 3	.					3
+DC5CVAU	DMRBMAU	mycophenolic acid	Investigative	0.0	DMVRLT7	fludarabine	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Systemic Scleroderma	ClinicalTrials.gov	Phase 1	.					3
+DCFHBQS	DMRBMAU	mycophenolic acid	Investigative	0.0	DMWMPD4	vorinostat	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Hematologic Malignancies	ClinicalTrials.gov	Phase 1	.					3
+DCI1QMJ	DM4IF32	pyrazinamide	Approved	34.0	DMDYA31	pretomanid	Approved	34.0	DMU8V4S	moxifloxacin	.	.	Tuberculosis, Pulmonary, Drug Sensitive	ClinicalTrials.gov	Phase 3	.					3
+DC0032N	DM4IF32	pyrazinamide	Approved	34.0	DM5DSFZ	rifampicin	Approved	34.0	DMR87LC	ethambutol	.	.	Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DC08G4C	DM4IF32	pyrazinamide	Approved	34.0	DMDYA31	pretomanid	Approved	34.0	DMU8V4S	moxifloxacin	.	.	Pulmonary Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DCP9KAD	DM4IF32	pyrazinamide	Approved	34.0	DM5DSFZ	rifampicin	Approved	34.0	DM5JVS3	isoniazid	.	.	Pulmonary Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DCW719W	DM4IF32	pyrazinamide	Approved	34.0	DM5DSFZ	rifampicin	Approved	34.0	DM5JVS3	isoniazid	.	.	Tuberculosis, Pulmonary	ClinicalTrials.gov	Phase 2	.					3
+DCIOOE9	DMTA5OE	azacitidine	Approved	34.0	DMZD5QR	cytarabine	Approved	34.0	DMZKYIV	amsacrine	.	.	Relapsed or Refractory Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 3	.					3
+DCVN0FN	DMTA5OE	azacitidine	Approved	34.0	DMTA5OE	azacitidine	Approved	34.0	DMTA5OE	azacitidine	.	.	Ovarian Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCSTBKH	DMNE56X	aBT-263	Phase 3	25.0	DMP6SC2	irinotecan	Approved	34.0	DMP6SC2	irinotecan	.	.	Solid Tumors	ClinicalTrials.gov	Phase 1	.					3
+DC0MOL2	DM3KJBC	epinephrine	Approved	34.0	DM6RZ9Q	clonidine	Approved	34.0	DMSPJG2	ropivacaine	.	.	Hip Dysplasia	ClinicalTrials.gov	Phase 4	.					3
+DCBOIVX	DM3KJBC	epinephrine	Approved	34.0	DMI4EL5	ketorolac	Approved	34.0	DMSPJG2	ropivacaine	.	.	Pain	ClinicalTrials.gov	Phase 4	.					3
+DCRNZRX	DM58WKG	panobinostat	Approved	34.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCU30FZ	DM1TJ8F	diethylcarbamazine	Approved	34.0	DMDBX5F	ivermectin	Phase 2/3 Trial	24.0	DMYZ57N	albendazole	.	.	Lymphatic Filariasis	ClinicalTrials.gov	Phase 3	.					3
+DCXL8IX	DM1TJ8F	diethylcarbamazine	Approved	34.0	DMYGHX5	moxidectin	Approved	34.0	DMYZ57N	albendazole	.	.	Lymphatic Filariasis	ClinicalTrials.gov	Phase 3	.					3
+DCOEL2G	DM1TJ8F	diethylcarbamazine	Approved	34.0	DMDBX5F	ivermectin	Phase 2/3 Trial	24.0	DMYZ57N	albendazole	.	.	Lymphatic Filariasis	ClinicalTrials.gov	Phase 1	.					3
+DCOI6AY	DM2JGQ3	trametinib	Approved	34.0	DM3O8QY	degarelix	Approved	34.0	DMGL19D	enzalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCOYZ54	DM2JGQ3	trametinib	Approved	34.0	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	.	.	Recurrent Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC82VD5	DM2JGQ3	trametinib	Approved	34.0	DM7HXWT	nilotinib	Approved	34.0	DMX6OE3	dabrafenib	.	.	Metastatic Melanoma	ClinicalTrials.gov	Phase 1	.					3
+DCRRRIO	DM2JGQ3	trametinib	Approved	34.0	DMX6OE3	dabrafenib	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Melanoma	ClinicalTrials.gov	Phase 1	.					3
+DCSFEUK	DM2JGQ3	trametinib	Approved	34.0	DMD9RV3	iNCB039110	Phase 2	21.0	DMX6OE3	dabrafenib	.	.	Melanoma	ClinicalTrials.gov	Phase 1	.					3
+DCVO1IC	DM2JGQ3	trametinib	Approved	34.0	DMQCTIH	digoxin	Approved	34.0	DMX6OE3	dabrafenib	.	.	Melanoma	ClinicalTrials.gov	Phase 1	.					3
+DCVX3FV	DM2JGQ3	trametinib	Approved	34.0	DMQ52JG	phenformin	Withdrawn from market	12.0	DMX6OE3	dabrafenib	.	.	Melanoma	ClinicalTrials.gov	Phase 1	.					3
+DCXN8SO	DM2JGQ3	trametinib	Approved	34.0	DMDASC6	metformin	Investigative	0.0	DMX6OE3	dabrafenib	.	.	Melanoma	ClinicalTrials.gov	Phase 1	.					3
+DCQ1JJP	DMJAPE7	methylene blue	Phase 2 Trial	21.0	DMXJ7O8	vitamin C	Approved	34.0	DMWSXI4	acetylcysteine	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 1	.					3
+DC11XZ3	DM8WAHT	fentanyl	Approved	34.0	DMXOELT	midazolam	Approved	34.0	DMXOELT	midazolam	.	.	Mechanical Ventilation	ClinicalTrials.gov	Phase 4	.					3
+DC5M9CK	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMXOELT	midazolam	.	.	C.Surgical Procedure; Cardiac	ClinicalTrials.gov	Phase 4	.					3
+DCA86WI	DM8WAHT	fentanyl	Approved	34.0	DMSPJG2	ropivacaine	Approved	34.0	DMXOELT	midazolam	.	.	Upper Extremity	ClinicalTrials.gov	Phase 4	.					3
+DCAB76M	DM8WAHT	fentanyl	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	.	.	Oocyte Retrieval	ClinicalTrials.gov	Phase 4	.					3
+DCBE5BH	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMY9BMK	rocuronium	.	.	Intubation, Intratracheal	ClinicalTrials.gov	Phase 4	.					3
+DCBYVR4	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMXOELT	midazolam	.	.	Mechanical Ventilation	ClinicalTrials.gov	Phase 4	.					3
+DCCPQTH	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMUIE76	acetaminophen	.	.	Opioid Use	ClinicalTrials.gov	Phase 4	.					3
+DCFEH6M	DM8WAHT	fentanyl	Approved	34.0	DML4ZOT	lidocaine	Approved	34.0	DMXOELT	midazolam	.	.	Coronary Artery Disease	ClinicalTrials.gov	Phase 4	.					3
+DCNW9WI	DM8WAHT	fentanyl	Approved	34.0	DMGN4BY	flurbiprofen	Approved	34.0	DMLVSYX	remimazolam	.	.	Sedation Complication	ClinicalTrials.gov	Phase 4	.					3
+DCTXB3E	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMXOELT	midazolam	.	.	Patient Satisfaction	ClinicalTrials.gov	Phase 4	.					3
+DCW2UU8	DM8WAHT	fentanyl	Approved	34.0	DMGN4BY	flurbiprofen	Approved	34.0	DMXOELT	midazolam	.	.	Sedation Complication	ClinicalTrials.gov	Phase 4	.					3
+DC4G38Y	DM8WAHT	fentanyl	Approved	34.0	DMLVSYX	remimazolam	Approved	34.0	DMY9BMK	rocuronium	.	.	General Anaesthesia	ClinicalTrials.gov	Phase 3	.					3
+DCHINVQ	DM8WAHT	fentanyl	Approved	34.0	DMHP21E	hydromorphone	Approved	34.0	DMXLKHV	oxycodone	.	.	Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCSB3HE	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMXOELT	midazolam	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCZXTLI	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMY9BMK	rocuronium	.	.	General Anaesthesia	ClinicalTrials.gov	Phase 3	.					3
+DC6Q8SQ	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMZNRU6	sevoflurane	.	.	Hip Fractures	ClinicalTrials.gov	Phase 1	.					3
+DCA9P4G	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMZNRU6	sevoflurane	.	.	Urinary Bladder Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCAERTR	DM8WAHT	fentanyl	Approved	34.0	DMXOELT	midazolam	Approved	34.0	DMZNRU6	sevoflurane	.	.	Prostatic Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCKIRKQ	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMX4GND	meperidine	.	.	Renal Failure	ClinicalTrials.gov	Phase 1	.					3
+DCQ804I	DM8WAHT	fentanyl	Approved	34.0	DMSPJG2	ropivacaine	Approved	34.0	DMTXIYM	propofol	.	.	Horner's Syndrome	ClinicalTrials.gov	Phase 1	.					3
+DCEOJQ4	DMF57DM	pazopanib	Approved	34.0	DM0HS92	merimepodib	Approved	34.0	DM0HS92	merimepodib	.	.	Inflammatory breast cancer	TTD Database	Phase 1	.					3
+DCTHJOF	DMF57DM	pazopanib	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Sarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCTXXK8	DM48K0X	carfilzomib	Approved	34.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMT5GNL	romidepsin	.	.	T-cell Lymphomas	ClinicalTrials.gov	Phase 1	.					3
+DCIZ4US	DMT5HA4	ketamine	Phase 2 Trial	21.0	DM6RZ9Q	clonidine	Approved	34.0	DML4ZOT	lidocaine	.	.	Postoperative Pain	ClinicalTrials.gov	Phase 4	.					3
+DCMUQ47	DMT5HA4	ketamine	Phase 2 Trial	21.0	DMOTQ1I	ondansetron	Approved	34.0	DMU7YEL	sufentanil	.	.	Trigeminal Neuralgia	ClinicalTrials.gov	Phase 4	.					3
+DCQPY5H	DMT5HA4	ketamine	Phase 2 Trial	21.0	DM3PD2C	fluoxetine	Phase 3 Trial	25.0	DMT1I52	cycloserine	.	.	Bipolar Disorder	ClinicalTrials.gov	Phase 4	.					3
+DCSVZZV	DMT5HA4	ketamine	Phase 2 Trial	21.0	DM8WAHT	fentanyl	Approved	34.0	DMTXIYM	propofol	.	.	Ketamine	ClinicalTrials.gov	Phase 4	.					3
+DCVAZPS	DMT5HA4	ketamine	Phase 2 Trial	21.0	DM8WAHT	fentanyl	Approved	34.0	DMXOELT	midazolam	.	.	Prostatic Cancer	ClinicalTrials.gov	Phase 4	.					3
+DCECJVF	DMT5HA4	ketamine	Phase 2 Trial	21.0	DML4ZOT	lidocaine	Approved	34.0	DMXOELT	midazolam	.	.	Septic Shock	ClinicalTrials.gov	Phase 3	.					3
+DCN8JGT	DMT5HA4	ketamine	Phase 2 Trial	21.0	DMI4EL5	ketorolac	Approved	34.0	DMUIE76	acetaminophen	.	.	Pain Management	ClinicalTrials.gov	Phase 2	.					3
+DCTFQ3X	DMT5HA4	ketamine	Phase 2 Trial	21.0	DMRMS0L	morphine	Approved	34.0	DMZTXCH	remifentanil	.	.	Progressive Infantile Idiopathic Scoliosis	ClinicalTrials.gov	Phase 2	.					3
+DCFJOV0	DMT5HA4	ketamine	Phase 2 Trial	21.0	DM8WAHT	fentanyl	Approved	34.0	DMTXIYM	propofol	.	.	Procedural Sedation and Analgesia	ClinicalTrials.gov	Phase 1	.					3
+DCHENMG	DMT5HA4	ketamine	Phase 2 Trial	21.0	DMB4OLE	propofol	Investigative	0.0	DMZI3WO	etomidate	.	.	Trauma	ClinicalTrials.gov	Phase 1	.					3
+DCSDUHM	DMT5HA4	ketamine	Phase 2 Trial	21.0	DMT5HA4	ketamine	Phase 2 Trial	21.0	DM3WP66	ketamine	.	.	Postoperative Pain Management	ClinicalTrials.gov	Phase 1	.					3
+DCU67YY	DMT5HA4	ketamine	Phase 2 Trial	21.0	DM8SXYG	lamotrigine	Approved	34.0	DMECBWN	riluzole	.	.	Major Depression	ClinicalTrials.gov	Phase 1	.					3
+DCHX9YY	DMVS9WQ	nitisinone	Approved	34.0	DMVS9WQ	nitisinone	Approved	34.0	DMVS9WQ	nitisinone	.	.	Hereditary Tyrosinemia, Type I	ClinicalTrials.gov	Phase 1	.					3
+DCBLK4G	DMPU2WX	omacetaxine mepesuccinate	Approved	34.0	DMQL8XJ	decitabine	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia With Multilineage Dysplasia Following Myelodysplastic Syndrome	ClinicalTrials.gov	Phase 2	.					3
+DCOMIIC	DM8I94Y	venetoclax	Approved	34.0	DMHZCPO	ibrutinib	Phase 2 Trial	21.0	DMYZJGB	ibrutinib	.	.	Leukemia, Lymphocytic, Chronic, B-Cell	ClinicalTrials.gov	Phase 3	.					3
+DCIR4BI	DM8I94Y	venetoclax	Approved	34.0	DMPU2WX	omacetaxine mepesuccinate	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC4UD35	DM8I94Y	venetoclax	Approved	34.0	DM8Y4JS	aC220	Approved	34.0	DMZD5QR	cytarabine	.	.	Leukemia, Myeloid, Acute	ClinicalTrials.gov	Phase 1	.					3
+DCCG0Q9	DM8I94Y	venetoclax	Approved	34.0	DMNE56X	aBT-263	Phase 3	25.0	DMQL8XJ	decitabine	.	.	Myeloid Malignancy	ClinicalTrials.gov	Phase 1	.					3
+DCGGTZ7	DM8I94Y	venetoclax	Approved	34.0	DM8S6T7	ivosidenib	Approved	34.0	DMTA5OE	azacitidine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCHCDTI	DM8I94Y	venetoclax	Approved	34.0	DMQL8XJ	decitabine	Approved	34.0	DMUL5EW	posaconazole	.	.	Acute Myelogenous Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCHOPE8	DM8I94Y	venetoclax	Approved	34.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCLNFXB	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	Approved	34.0	DMWQ4MZ	gilteritinib	.	.	Recurrent Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCMRE6O	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	Approved	34.0	DMWQ4MZ	gilteritinib	.	.	Acute Myeloid Leukemia (AML)	ClinicalTrials.gov	Phase 1	.					3
+DCNERRM	DM8I94Y	venetoclax	Approved	34.0	DM8Y4JS	aC220	Approved	34.0	DMTA5OE	azacitidine	.	.	Leukemia, Myeloid, Acute	ClinicalTrials.gov	Phase 1	.					3
+DCVHB79	DM8I94Y	venetoclax	Approved	34.0	DMNFADH	aPR-246	Phase 2	21.0	DMTA5OE	azacitidine	.	.	Myeloid Malignancy	ClinicalTrials.gov	Phase 1	.					3
+DCIQIMI	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMY3VGC	promethazine	.	.	Postoperative Nausea and Vomiting (PONV)	ClinicalTrials.gov	Phase 4	.					3
+DC91BX6	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBHMOX	palonosetron	.	.	Chemotherapy-induced Nausea and Vomiting (CINV)	ClinicalTrials.gov	Phase 3	.					3
+DCIZP75	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMOTQ1I	ondansetron	.	.	Chemotherapy-Induced Nausea and Vomiting (CINV)	ClinicalTrials.gov	Phase 3	.					3
+DCSH5XJ	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBHMOX	palonosetron	.	.	Chemotherapy-induced Nausea and Vomiting	ClinicalTrials.gov	Phase 3	.					3
+DCLDEDP	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMBHMOX	palonosetron	.	.	Myeloma, Plasma-Cell	ClinicalTrials.gov	Phase 2	.					3
+DCW8R42	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMOTQ1I	ondansetron	.	.	Chemotherapy-induced Nausea and Vomiting	ClinicalTrials.gov	Phase 2	.					3
+DC5Z165	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMOTQ1I	ondansetron	.	.	Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC9H6TV	DM053KT	aprepitant	Approved	34.0	DM56YN7	desloratadine	Approved	34.0	DMOVY05	ketotifen	.	.	Pruritus	ClinicalTrials.gov	Phase 1	.					3
+DCJ12PH	DM053KT	aprepitant	Approved	34.0	DMXLKHV	oxycodone	Approved	34.0	DMXLKHV	oxycodone	.	.	Narcotic Abuse	ClinicalTrials.gov	Phase 1	.					3
+DCX0H9M	DM053KT	aprepitant	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMOTQ1I	ondansetron	.	.	Nausea	ClinicalTrials.gov	Phase 1	.					3
+DC05BRR	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM7BN0X	esomeprazole	Approved	34.0	DMTIVEN	metronidazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DC155DP	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM7BN0X	esomeprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DC2PC9B	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM7BN0X	esomeprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DC9K90S	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMTIVEN	metronidazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Peptic Ulcer	ClinicalTrials.gov	Phase 4	.					3
+DCCFCI5	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMMZXIW	rabeprazole	Approved	34.0	DMS60RB	levofloxacin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DCEORIT	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMTIVEN	metronidazole	Approved	34.0	DMXYLQ3	lansoprazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DCJ5WBT	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMMZXIW	rabeprazole	Approved	34.0	DMTIVEN	metronidazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DCQQMYT	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMUYNEI	amoxicillin	Approved	34.0	DMXYLQ3	lansoprazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DC3BGTZ	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMUYNEI	amoxicillin	Approved	34.0	DMXYLQ3	lansoprazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 3	.					3
+DC6ZIB7	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM5SK9O	clarithromycin	.	.	Otitis Media	ClinicalTrials.gov	Phase 3	.					3
+DC8N0YC	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMUYNEI	amoxicillin	Approved	34.0	DMXYLQ3	lansoprazole	.	.	H. Pylori Infection	ClinicalTrials.gov	Phase 3	.					3
+DCK6IOU	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMO6315	vonoprazan	Phase 4	31.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 3	.					3
+DCO0PI4	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM7BN0X	esomeprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Treatment Effectiveness	ClinicalTrials.gov	Phase 3	.					3
+DCSNZ5N	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMO6315	vonoprazan	Phase 4	31.0	DMUYNEI	amoxicillin	.	.	Treatment Effectiveness	ClinicalTrials.gov	Phase 3	.					3
+DC1GAFQ	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMUYNEI	amoxicillin	Approved	34.0	DMXYLQ3	lansoprazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 2	.					3
+DC6QPNU	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM7BN0X	esomeprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 1	.					3
+DCQ9MIX	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMSVOCZ	pantoprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Dyspepsia	ClinicalTrials.gov	Phase 1	.					3
+DC52MW8	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMO6315	vonoprazan	Phase 4	31.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori	ClinicalTrials.gov	Phase 1	.					3
+DC8MTNA	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMSVOCZ	pantoprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Drug Interaction	ClinicalTrials.gov	Phase 1	.					3
+DCIDFPG	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DM7BN0X	esomeprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori	ClinicalTrials.gov	Phase 1	.					3
+DCWR1YI	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMAOL2S	voriconazole	Approved	34.0	DMM4WAK	zanubrutinib	.	.	B-cell Malignancies	ClinicalTrials.gov	Phase 1	.					3
+DCKTT31	DMLPAOB	allopurinol	Approved	34.0	DM2POTE	colchicine	Phase 3 Trial	25.0	DMZ5RGV	naproxen	.	.	Gout	ClinicalTrials.gov	Phase 4	.					3
+DC3S2QP	DMLPAOB	allopurinol	Approved	34.0	DMUFIO9	m102	Preclinical	2.1	DMYMS40	colchicine	.	.	Gout	ClinicalTrials.gov	Phase 2	.					3
+DCIVDAV	DM1BV7W	aliskiren	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Essential Hypertension ( Mild to Moderate)	ClinicalTrials.gov	Phase 4	.					3
+DC40W1W	DM1BV7W	aliskiren	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCEQJAX	DM1BV7W	aliskiren	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Essential Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCI88F3	DM1BV7W	aliskiren	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMO2TYL	ramipril	.	.	Hypertension With Metabolic Syndrome	ClinicalTrials.gov	Phase 1	.					3
+DCNKDMM	DM1BV7W	aliskiren	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 1	.					3
+DCS7PNS	DM1BV7W	aliskiren	Approved	34.0	DMREUQ6	valsartan	Phase 3 Trial	25.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 1	.					3
+DC7F3G3	DM1BV7W	aliskiren	Approved	34.0	DM2AQ5N	spironolactone	Phase 3 Trial	25.0	DMUSZHD	hydrochlorothiazide	.	.	Metabolic Diseases	ClinicalTrials.gov	Phase 1	.					3
+DCMRGW9	DM1BV7W	aliskiren	Approved	34.0	DM1BV7W	aliskiren	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Metabolic Diseases	ClinicalTrials.gov	Phase 1	.					3
+DC9C9SC	DM5XPIJ	leuprolide	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMK0O7U	flutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCW1ETX	DM5XPIJ	leuprolide	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMZMSPF	bicalutamide	.	.	Gastrointestinal Complications	ClinicalTrials.gov	Phase 3	.					3
+DC4262U	DM5XPIJ	leuprolide	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMH07Y3	letrozole	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC43XRL	DM5XPIJ	leuprolide	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMGL19D	enzalutamide	.	.	Adenocarcinoma of the Prostate	ClinicalTrials.gov	Phase 2	.					3
+DC4L1H1	DM5XPIJ	leuprolide	Approved	34.0	DM7HUNW	testosterone	Approved	34.0	DMQ4TJK	dutasteride	.	.	Contraception	ClinicalTrials.gov	Phase 2	.					3
+DCB32SG	DM5XPIJ	leuprolide	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMIXC7G	zoledronate	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCHM8XH	DM5XPIJ	leuprolide	Approved	34.0	DM8V75C	aBIRATERONE	Approved	34.0	DMT81LZ	arn-509	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCLI0V7	DM5XPIJ	leuprolide	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMC1TEV	testosterone cypionate	.	.	Recurrent Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCUVPRW	DM5XPIJ	leuprolide	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCVMLM2	DM5XPIJ	leuprolide	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCWFB6E	DM5XPIJ	leuprolide	Approved	34.0	DM8V75C	aBIRATERONE	Approved	34.0	DMT81LZ	arn-509	.	.	Newly Diagnosed Oligometastatic Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCZAT12	DM5XPIJ	leuprolide	Approved	34.0	DMGL19D	enzalutamide	Approved	34.0	DMQ4TJK	dutasteride	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCMOQG0	DM5XPIJ	leuprolide	Approved	34.0	DMW7K39	pyrotinib	Phase 1	17.0	DMZMSPF	bicalutamide	.	.	Acute HIV Infection	ClinicalTrials.gov	Phase 1	.					3
+DC3ZHAA	DM5XPIJ	leuprolide	Approved	34.0	DMBGWPH	medroxyprogesterone	Approved	34.0	DMUNTE3	estradiol	.	.	Cognitive Impairment	ClinicalTrials.gov	Phase 1	.					3
+DC87F2J	DM5XPIJ	leuprolide	Approved	34.0	DMUY35B	progesterone	Phase 1 Trial	17.0	DMUNTE3	estradiol	.	.	Coronary Heart Disease	ClinicalTrials.gov	Phase 1	.					3
+DCBLK3Y	DM5XPIJ	leuprolide	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostatic Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCB97BQ	DM5XPIJ	leuprolide	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCC5P8T	DM5XPIJ	leuprolide	Approved	34.0	DM8V75C	aBIRATERONE	Approved	34.0	DMLYGH4	mK-4827	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCD7XMI	DM5XPIJ	leuprolide	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMGL19D	enzalutamide	.	.	Adenocarcinoma of the Prostate	ClinicalTrials.gov	Phase 1	.					3
+DCJ7016	DM5XPIJ	leuprolide	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCFV0UE	DM0HXDS	pentostatin	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Acute Lymphoblastic Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC67YIW	DM0HXDS	pentostatin	Approved	34.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMZ7XNQ	tacrolimus	.	.	Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCTTE4F	DM5DSFZ	rifampicin	Approved	34.0	DMR87LC	ethambutol	Approved	34.0	DMS6UOE	azithromycin	.	.	Nontuberculous Mycobacterial Lung Disease	ClinicalTrials.gov	Phase 4	.					3
+DCLFKJ7	DM5DSFZ	rifampicin	Approved	34.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMR87LC	ethambutol	.	.	Lung Infection	ClinicalTrials.gov	Phase 3	.					3
+DCVPBCS	DM5DSFZ	rifampicin	Approved	34.0	DMR87LC	ethambutol	Approved	34.0	DMS6UOE	azithromycin	.	.	Lung Infection	ClinicalTrials.gov	Phase 3	.					3
+DC2BHD2	DM5DSFZ	rifampicin	Approved	34.0	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DC3GF8W	DM5DSFZ	rifampicin	Approved	34.0	DMCLWDJ	lumacaftor	Phase 2	21.0	DMZC1HS	ivacaftor	.	.	Cystic Fibrosis	ClinicalTrials.gov	Phase 1	.					3
+DCAS3RT	DM5DSFZ	rifampicin	Approved	34.0	DMR87LC	ethambutol	Approved	34.0	DMS6UOE	azithromycin	.	.	Cystic Fibrosis	ClinicalTrials.gov	Phase 1	.					3
+DC9T6KK	DM5DSFZ	rifampicin	Approved	34.0	DM62UG5	vemurafenib	Approved	34.0	DMCR1MV	itraconazole	.	.	Metastatic Melanoma, BRAF V600 Mutation Positive	ClinicalTrials.gov	Phase 1	.					3
+DCRLENZ	DM5DSFZ	rifampicin	Approved	34.0	DMOWZ6B	fluconazole	Approved	34.0	DMPZI3Q	ketoconazole	.	.	Drug Interactions	ClinicalTrials.gov	Phase 1	.					3
+DCVSNPC	DMKECZD	temozolomide	Approved	34.0	DMMWSUL	lomustine	Approved	34.0	DMXZRW0	dTI-015	.	.	Anaplastic Astrocytoma	ClinicalTrials.gov	Phase 3	.					3
+DC43VWF	DMKECZD	temozolomide	Approved	34.0	DMOEARH	azd2014	Phase 2	21.0	DMP6G8T	topotecan	.	.	Pediatric Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC7ILW1	DMKECZD	temozolomide	Approved	34.0	DMO8PT9	mLN8237	Phase 3	25.0	DMP6SC2	irinotecan	.	.	Neuroblastoma	ClinicalTrials.gov	Phase 1	.					3
+DCDQPZ4	DMKECZD	temozolomide	Approved	34.0	DMMX75K	lEE011	Phase 3	25.0	DMP6G8T	topotecan	.	.	Neuroblastoma	ClinicalTrials.gov	Phase 1	.					3
+DCGCGMS	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	Approved	34.0	DMQM2FH	rRx-001	.	.	Brain Tumor, Recurrent	ClinicalTrials.gov	Phase 1	.					3
+DCV5VC5	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	Approved	34.0	DMS104F	temsirolimus	.	.	Unspecified Childhood Solid Tumor, Protocol Specific	ClinicalTrials.gov	Phase 1	.					3
+DCVU19I	DMKECZD	temozolomide	Approved	34.0	DMLYGH4	mK-4827	Phase 3	25.0	DMP6SC2	irinotecan	.	.	Ewing Sarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCY7510	DMKECZD	temozolomide	Approved	34.0	DMMX75K	lEE011	Phase 3	25.0	DMP6G8T	topotecan	.	.	Pediatric Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCALIJ0	DM7HUNW	testosterone	Approved	34.0	DM82JP0	lynestrenol	Phase 4	31.0	DMTK4LS	triptorelin	.	.	Gender Dysphoria	ClinicalTrials.gov	Phase 4	.					3
+DC1IGM6	DM7HUNW	testosterone	Approved	34.0	DMQ4TJK	dutasteride	Approved	34.0	DMQ4TJK	dutasteride	.	.	Contraception	ClinicalTrials.gov	Phase 1	.					3
+DCFNP3R	DM7HUNW	testosterone	Approved	34.0	DM9GRTK	aCYLINE	Phase 2	21.0	DMH07Y3	letrozole	.	.	Insulin Resistance	ClinicalTrials.gov	Phase 1	.					3
+DC040OJ	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMRICNP	vandetanib	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC38483	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMNO38U	bortezomib	.	.	Ciliary Body and Choroid Melanoma, Medium/Large Size	ClinicalTrials.gov	Phase 2	.					3
+DCGC4XT	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMWMPD4	vorinostat	.	.	Stage IIIB or IV Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCJN8ZV	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMN4IW5	suramin	.	.	Recurrent Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCLVC7T	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCVZVCR	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMSZ7WW	saracatinib	.	.	Ovarian Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DCXBPQG	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCETI1X	DMG281S	carboplatin	Approved	34.0	DMINOX3	vincristine	Approved	34.0	DMKECZD	temozolomide	.	.	Brain Tumor	ClinicalTrials.gov	Phase 1	.					3
+DC1GYK7	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMNKBEC	bGJ398	.	.	Cancer of Cervix	ClinicalTrials.gov	Phase 1	.					3
+DC3HXFI	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMWO5ZR	cediranib	.	.	Carcinoma, Non-Small-Cell Lung	ClinicalTrials.gov	Phase 1	.					3
+DC5SIEV	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMSZ7WW	saracatinib	.	.	Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC88YCK	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMREDYP	aBT-869	.	.	Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCA8U3B	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMS104F	temsirolimus	.	.	Ovarian Sarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCC3X45	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMWMPD4	vorinostat	.	.	HIV Infection	ClinicalTrials.gov	Phase 1	.					3
+DCGAKVT	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMNO38U	bortezomib	.	.	Unspecified Adult Solid Tumor, Protocol Specific	ClinicalTrials.gov	Phase 1	.					3
+DCM5G2L	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMLHEU7	ridaforolimus	.	.	Endometrial Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCTA74T	DMG281S	carboplatin	Approved	34.0	DMS49KH	valproic Acid	Investigative	0.0	DMTA5OE	azacitidine	.	.	Solid Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCVAU54	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMWMPD4	vorinostat	.	.	Unspecified Adult Solid Tumor, Protocol Specific	ClinicalTrials.gov	Phase 1	.					3
+DCYLUJZ	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMTS85L	capecitabine	.	.	Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCUP0OH	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMYBQQ0	endoAngio-GT	.	.	Lung cancer	TTD Database	Investigative	.					3
+DCFZ98T	DM15HL8	clindamycin	Approved	34.0	DM3JFIH	vancomycin	Approved	34.0	DMF8DNE	framycetin	.	.	Pre-Diabetes	ClinicalTrials.gov	Phase 2	.					3
+DCFSHIX	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	Approved	34.0	DMYURI6	raltegravir	.	.	HIV Infections	ClinicalTrials.gov	Phase 4	.					3
+DCPAGJO	DMN3GCH	darunavir	Approved	34.0	DMTL94F	maraviroc	Approved	34.0	DMU764S	ritonavir	.	.	HIV-1 Infection	ClinicalTrials.gov	Phase 2	.					3
+DCWAMCZ	DMN3GCH	darunavir	Approved	34.0	DMSFK9V	daclatasvir	Approved	34.0	DMU764S	ritonavir	.	.	Hepatitis C	ClinicalTrials.gov	Phase 1	.					3
+DC9DJGY	DM672AH	aspirin	Phase 3 Trial	25.0	DMOL54H	clopidogrel	Phase 2 Trial	21.0	DMLFO8K	rivaroxaban	.	.	Acute Coronary Syndrome	ClinicalTrials.gov	Phase 4	.					3
+DCN14WX	DM672AH	aspirin	Phase 3 Trial	25.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMLFO8K	rivaroxaban	.	.	Coronary Syndrome	ClinicalTrials.gov	Phase 4	.					3
+DCZZ2VC	DM672AH	aspirin	Phase 3 Trial	25.0	DMOL54H	clopidogrel	Phase 2 Trial	21.0	DMPWSEM	lercanidipine	.	.	Hypertension	ClinicalTrials.gov	Phase 4	.					3
+DCAMCIS	DM672AH	aspirin	Phase 3 Trial	25.0	DMKBJWP	caffeine	Approved	34.0	DMUIE76	acetaminophen	.	.	Migraine Disorders	ClinicalTrials.gov	Phase 3	.					3
+DCDSKNN	DM672AH	aspirin	Phase 3 Trial	25.0	DMQMBZ1	rivaroxaban	Phase 3 Trial	25.0	DMLFO8K	rivaroxaban	.	.	Transcatheter Aortic Valve Replacement	ClinicalTrials.gov	Phase 3	.					3
+DCSLS4O	DM672AH	aspirin	Phase 3 Trial	25.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMDL2OZ	aspirin	.	.	Pulmonary Disease, Chronic Obstructive	ClinicalTrials.gov	Phase 3	.					3
+DCX5XDB	DM672AH	aspirin	Phase 3 Trial	25.0	DMGLP6S	sarpogrelate	Approved	34.0	DMHKAF4	clopidogrel	.	.	Coronary Artery Disease	ClinicalTrials.gov	Phase 3	.					3
+DCC89IY	DM672AH	aspirin	Phase 3 Trial	25.0	DMECRX1	bivalirudin	Approved	34.0	DMHKAF4	clopidogrel	.	.	Coronary Artery Disease	ClinicalTrials.gov	Phase 1	.					3
+DCQH23M	DM672AH	aspirin	Phase 3 Trial	25.0	DMOL54H	clopidogrel	Phase 2 Trial	21.0	DMLFO8K	rivaroxaban	.	.	Atrial Fibrillation	ClinicalTrials.gov	Phase 1	.					3
+DC6TP5I	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMCGATN	apabetalone	Phase 3	25.0	DMMIQ7G	rosuvastatin	.	.	Diabetes Mellitus, Type 2	ClinicalTrials.gov	Phase 3	.					3
+DC6H6B8	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMO2TYL	ramipril	.	.	Hypertension	TTD Database	Phase 1	.					3
+DCVVTEI	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DML8KTN	danazol	Approved	34.0	DMWSXI4	acetylcysteine	.	.	Immune Thrombocytopenia	ClinicalTrials.gov	Phase 1	.					3
+DC1NHUI	DMGO72P	oseltamivir	Phase 3 Trial	25.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMXZAL2	hydroxychloroquine	.	.	COVID 19	ClinicalTrials.gov	Phase 3	.					3
+DCUHJ5X	DMGO72P	oseltamivir	Phase 3 Trial	25.0	DMU764S	ritonavir	Approved	34.0	DMW145U	tMC-310911	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 3	.					3
+DCERTZX	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DCXMXNB	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 3	.					3
+DC5DBY0	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	.	.	Multiple Myeloma, Refractory	ClinicalTrials.gov	Phase 2	.					3
+DC7R8Y5	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM73A5J	lenalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DC8ZTR0	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma in Relapse	ClinicalTrials.gov	Phase 2	.					3
+DCAKB2J	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma, Refractory	ClinicalTrials.gov	Phase 2	.					3
+DCD4CLW	DMBD4K3	selinexor	Phase 2 Trial	21.0	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	.	.	AML	ClinicalTrials.gov	Phase 2	.					3
+DCV3MVY	DMBD4K3	selinexor	Phase 2 Trial	21.0	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	.	.	AML, Adult	ClinicalTrials.gov	Phase 2	.					3
+DCVY538	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM8I94Y	venetoclax	.	.	Relapsed and Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCW7GQD	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMM0XGL	idarubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia (Relapsed/Refractory)	ClinicalTrials.gov	Phase 2	.					3
+DCWX30C	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 2	.					3
+DCZGR39	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM48K0X	carfilzomib	.	.	Multiple Myeloma in Relapse	ClinicalTrials.gov	Phase 2	.					3
+DC4GGQ5	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMNO38U	bortezomib	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC7VXON	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM73A5J	lenalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DC8H0S7	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWSUL	lomustine	Approved	34.0	DMXZRW0	dTI-015	.	.	Glioblastoma Multiforme	ClinicalTrials.gov	Phase 1	.					3
+DCWBO0J	DMBD4K3	selinexor	Phase 2 Trial	21.0	DM6Q7U4	lenalidomide	Phase 3 Trial	25.0	DMMIU2C	methylprednisolone	.	.	Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCZP0J4	DMBD4K3	selinexor	Phase 2 Trial	21.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMTGBAX	pomalidomide	.	.	Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCD5329	DM7A8TW	ezetimibe	Approved	34.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMFKXDY	fenofibrate	.	.	Pharmacokinetics	ClinicalTrials.gov	Phase 1	.					3
+DC6TWJR	DM30SGU	simvastatin	Approved	34.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMMIQ7G	rosuvastatin	.	.	Hypercholesterolemia	ClinicalTrials.gov	Phase 3	.					3
+DCFJ0RA	DM30SGU	simvastatin	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMTL5Q0	losartan	.	.	Covid-19	ClinicalTrials.gov	Phase 3	.					3
+DCFE6EK	DM30SGU	simvastatin	Approved	34.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMMIQ7G	rosuvastatin	.	.	Hypercholesterolemia	ClinicalTrials.gov	Phase 1	.					3
+DCYILLX	DM30SGU	simvastatin	Approved	34.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMMIQ7G	rosuvastatin	.	.	Diabetes Mellitus, Type 2	ClinicalTrials.gov	Phase 1	.					3
+DC0A32A	DM30SGU	simvastatin	Approved	34.0	DMDASC6	metformin	Investigative	0.0	DMQCTIH	digoxin	.	.	Advanced Pancreatic Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC9FS1F	DM8VCBE	ibuprofen	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	.	.	Sinusitis	ClinicalTrials.gov	Phase 4	.					3
+DCFTU1T	DM8VCBE	ibuprofen	Approved	34.0	DMQ2JO5	hydrocodone	Approved	34.0	DMUIE76	acetaminophen	.	.	Nail Diseases	ClinicalTrials.gov	Phase 4	.					3
+DCGUXXA	DM8VCBE	ibuprofen	Approved	34.0	DMTK234	piroxicam	Approved	34.0	DMUIE76	acetaminophen	.	.	Hypertension	ClinicalTrials.gov	Phase 4	.					3
+DC3IHWC	DM8VCBE	ibuprofen	Approved	34.0	DM8VCBE	ibuprofen	Approved	34.0	DM8VCBE	ibuprofen	.	.	Fever	ClinicalTrials.gov	Phase 3	.					3
+DCUYRGY	DM8VCBE	ibuprofen	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	.	.	Surgery	ClinicalTrials.gov	Phase 2	.					3
+DCXO3AB	DM8VCBE	ibuprofen	Approved	34.0	DMP9HBO	sucralfate	Approved	34.0	DMUIE76	acetaminophen	.	.	Herpangina	ClinicalTrials.gov	Phase 2	.					3
+DCYH03A	DM8VCBE	ibuprofen	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	.	.	Chronic Rhinosinusitis (Diagnosis)	ClinicalTrials.gov	Phase 2	.					3
+DCP2633	DM8VCBE	ibuprofen	Approved	34.0	DMRMS0L	morphine	Approved	34.0	DMUIE76	acetaminophen	.	.	Postoperative Pain	ClinicalTrials.gov	Phase 1	.					3
+DC0U7CU	DM8VCBE	ibuprofen	Approved	34.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMUIE76	acetaminophen	.	.	Osteoarthritis	ClinicalTrials.gov	Phase 1	.					3
+DC3MGX3	DM8VCBE	ibuprofen	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	.	.	Adenotonsillectomy	ClinicalTrials.gov	Phase 1	.					3
+DC66M1D	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMZ7XNQ	tacrolimus	.	.	Kidney Transplantation	ClinicalTrials.gov	Phase 4	.					3
+DC9852W	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Kidney Transplantation	ClinicalTrials.gov	Phase 4	.					3
+DC9C9H9	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Renal Transplantation	ClinicalTrials.gov	Phase 4	.					3
+DCNKNWM	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMZ7XNQ	tacrolimus	.	.	Liver Transplantation	ClinicalTrials.gov	Phase 4	.					3
+DCOUY5O	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Liver Transplantation	ClinicalTrials.gov	Phase 4	.					3
+DC81D3X	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMQ8FR2	prednisolone	.	.	Systemic Lupus Erythematosus, Lupus Nephritis	ClinicalTrials.gov	Phase 3	.					3
+DC2TH11	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMGW1ID	sirolimus	Phase 3	25.0	DMUYKBZ	cyclosporin A	.	.	Acute Lymphoblastic Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCXMKNG	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities	ClinicalTrials.gov	Phase 2	.					3
+DCZDO0K	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMUYKBZ	cyclosporin A	.	.	Familial Lipoprotein Lipase Deficiency	ClinicalTrials.gov	Phase 2	.					3
+DC20QJN	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMQ8FR2	prednisolone	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Lupus Nephritis	ClinicalTrials.gov	Phase 1	.					3
+DC6CQ1B	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Accelerated Phase Chronic Myelogenous Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCMN5XC	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Acute Myeloid Leukemia/Transient Myeloproliferative Disorder	ClinicalTrials.gov	Phase 1	.					3
+DCQ65OC	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMQ8FR2	prednisolone	Approved	34.0	DMUYKBZ	cyclosporin A	.	.	Heart Transplantation	ClinicalTrials.gov	Phase 1	.					3
+DCS54G5	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMVRLT7	fludarabine	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Systemic Scleroderma	ClinicalTrials.gov	Phase 1	.					3
+DC1564L	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Adult Acute Myeloid Leukemia in Remission	ClinicalTrials.gov	Phase 1	.					3
+DCGZFSP	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMRBMAU	mycophenolic acid	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Kidney Transplant	ClinicalTrials.gov	Phase 1	.					3
+DCINNR2	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMOLNHF	melphalan	Phase 2 Trial	21.0	DMUYKBZ	cyclosporin A	.	.	Refractory Multiple Myeloma	ClinicalTrials.gov	Phase 1	.					3
+DCJKVRN	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMLPAOB	allopurinol	Approved	34.0	DMP6SC2	irinotecan	.	.	Small-cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCUTAIB	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Recurrent Renal Cell Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC9UEN0	DM6LOQU	celecoxib	Approved	34.0	DM6T924	gabapentin	Approved	34.0	DMMQ8ZG	furosemide	.	.	Colorectal Disorders	ClinicalTrials.gov	Phase 4	.					3
+DC5PGB5	DM6LOQU	celecoxib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCKALKM	DM6LOQU	celecoxib	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	.	.	Tonsillectomy	ClinicalTrials.gov	Phase 2	.					3
+DCL7TZ8	DM6LOQU	celecoxib	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Gastric Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCCD0PN	DM6LOQU	celecoxib	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMI4EL5	ketorolac	.	.	Postoperative Pain, Acute	ClinicalTrials.gov	Phase 1	.					3
+DCT30B6	DM6LOQU	celecoxib	Approved	34.0	DM4QTBN	isotretinoin	Phase 3 Trial	25.0	DMKECZD	temozolomide	.	.	Brain and Central Nervous System Tumors	ClinicalTrials.gov	Phase 1	.					3
+DC4265Y	DM6LOQU	celecoxib	Approved	34.0	DMQL8XJ	decitabine	Approved	34.0	DMR5GSB	tetrahydrouridine	.	.	Neoplasm Metastasis	ClinicalTrials.gov	Phase 1	.					3
+DC75JV6	DM6LOQU	celecoxib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC7LCRZ	DM7IW9J	ramelteon	Approved	34.0	DM8RZ9H	eszopiclone	Approved	34.0	DMWOSKJ	zolpidem	.	.	Marijuana Dependence	ClinicalTrials.gov	Phase 1	.					3
+DCJEHWA	DM2AQ5N	spironolactone	Phase 3 Trial	25.0	DM2AQ5N	spironolactone	Phase 3 Trial	25.0	DMUSZHD	hydrochlorothiazide	.	.	Metabolic Diseases	ClinicalTrials.gov	Phase 1	.					3
+DCCPSYD	DM93VBZ	lY2835219	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC24QBY	DM93VBZ	lY2835219	Approved	34.0	DMNP60F	anastrozole	Approved	34.0	DMTEOOS	loperamide	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC3V2G3	DM93VBZ	lY2835219	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Recurrent Endometrial Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DC5BMCN	DM93VBZ	lY2835219	Approved	34.0	DMAQ469	gonadorelin	Approved	34.0	DMH07Y3	letrozole	.	.	Early Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCEM6V9	DM93VBZ	lY2835219	Approved	34.0	DMDASC6	metformin	Investigative	0.0	DMH07Y3	letrozole	.	.	Endometrial Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCEQDY1	DM93VBZ	lY2835219	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DCNVPW7	DM93VBZ	lY2835219	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Sarcoma, Ewing	ClinicalTrials.gov	Phase 2	.					3
+DCL0TJ2	DM93VBZ	lY2835219	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DM93VBZ	lY2835219	.	.	HR+/HER2- Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCNZB8A	DM93VBZ	lY2835219	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Relapsed Solid Tumor	ClinicalTrials.gov	Phase 1	.					3
+DC48Q2N	DMPFN6Y	olanzapine	Approved	34.0	DMPRI8G	buprenorphine	Approved	34.0	DMTO13J	clonazepam	.	.	Suicide Crisis Syndrome	ClinicalTrials.gov	Phase 4	.					3
+DC98V7V	DMIK367	procarbazine	Approved	34.0	DMINOX3	vincristine	Approved	34.0	DMMWSUL	lomustine	.	.	Brain and Central Nervous System Tumors	ClinicalTrials.gov	Phase 3	.					3
+DC487YF	DMIK367	procarbazine	Approved	34.0	DMINOX3	vincristine	Approved	34.0	DMMWSUL	lomustine	.	.	Brain and Central Nervous System Tumors	ClinicalTrials.gov	Phase 2	.					3
+DC61XKW	DM8QB1D	olaparib	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Ewing Sarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCBJPXX	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMMN36E	abacavir	.	.	HIV-1-infection	ClinicalTrials.gov	Phase 4	.					3
+DCFT2DA	DMCZGRE	dolutegravir	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV-infection/Aids	ClinicalTrials.gov	Phase 4	.					3
+DCNCFTE	DMCZGRE	dolutegravir	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 4	.					3
+DCGBRQN	DMCZGRE	dolutegravir	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV-Infection	ClinicalTrials.gov	Phase 3	.					3
+DC0VZMQ	DMCZGRE	dolutegravir	Approved	34.0	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	.	.	HIV-1 Infection	ClinicalTrials.gov	Phase 2	.					3
+DC6I3RZ	DMCZGRE	dolutegravir	Approved	34.0	DMMEAGO	bMS-955176	Phase 2	21.0	DMSYRBX	atazanavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DCK6V4R	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMSYRBX	atazanavir	.	.	HIV-1 Infection	ClinicalTrials.gov	Phase 2	.					3
+DC3W8PO	DMCZGRE	dolutegravir	Approved	34.0	DMTL94F	maraviroc	Approved	34.0	DMWE2N4	auranofin	.	.	Chronic Infection	ClinicalTrials.gov	Phase 1	.					3
+DC6FEJE	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMMN36E	abacavir	.	.	HIV	ClinicalTrials.gov	Phase 1	.					3
+DC7HBSZ	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMJ0QOW	rilpivirine	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DCC6D7R	DMCZGRE	dolutegravir	Approved	34.0	DMTL94F	maraviroc	Approved	34.0	DMUPE07	nicotinamide	.	.	Chronic Infection	ClinicalTrials.gov	Phase 1	.					3
+DCLFU0F	DMCZGRE	dolutegravir	Approved	34.0	DMUPE07	nicotinamide	Approved	34.0	DMWE2N4	auranofin	.	.	Chronic Infection	ClinicalTrials.gov	Phase 1	.					3
+DCUEQ7V	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMMN36E	abacavir	.	.	Human immunodeficiency virus infection	TTD Database	Phase 1	.					3
+DCB3E7O	DMCZGRE	dolutegravir	Approved	34.0	DMMIQ7G	rosuvastatin	Approved	34.0	DMN4H8N	kAF156	.	.	Malaria	ClinicalTrials.gov	Phase 1	.					3
+DCZ372P	DML4ZOT	lidocaine	Approved	34.0	DMUZPJ5	cisatracurium	Approved	34.0	DMVEK07	magnesium Sulfate	.	.	Neuromuscular Block	ClinicalTrials.gov	Phase 4	.					3
+DC4WQ21	DML4ZOT	lidocaine	Approved	34.0	DMU7YEL	sufentanil	Approved	34.0	DMXOELT	midazolam	.	.	Bronchoscopy	ClinicalTrials.gov	Phase 1	.					3
+DCQ4S6G	DML4ZOT	lidocaine	Approved	34.0	DMOSQGU	nalbuphine	Approved	34.0	DMXOELT	midazolam	.	.	Conscious Sedation Failure During Procedure	ClinicalTrials.gov	Phase 1	.					3
+DCZ6JLT	DML4ZOT	lidocaine	Approved	34.0	DMOSQGU	nalbuphine	Approved	34.0	DMTXIYM	propofol	.	.	Conscious Sedation Failure During Procedure	ClinicalTrials.gov	Phase 1	.					3
+DC04BGN	DM5SXUV	repaglinide	Approved	34.0	DMDASC6	metformin	Investigative	0.0	DMGDKXN	sitagliptin	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 4	.					3
+DC71KZN	DM5SXUV	repaglinide	Approved	34.0	DMKBJWP	caffeine	Approved	34.0	DMSV12M	isavuconazole	.	.	Pharmacokinetics of Repaglinide	ClinicalTrials.gov	Phase 1	.					3
+DCCHOBT	DMBDAZV	amlodipine	Approved	34.0	DM2R68E	ramipril	Phase 2 Trial	21.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 4	.					3
+DCIBFV5	DMBDAZV	amlodipine	Approved	34.0	DM72JXH	losartan	Phase 3 Trial	25.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 4	.					3
+DCF4LLD	DMBDAZV	amlodipine	Approved	34.0	DM2R68E	ramipril	Phase 2 Trial	21.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCGCOKA	DMBDAZV	amlodipine	Approved	34.0	DMREUQ6	valsartan	Phase 3 Trial	25.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCT5GO7	DMBDAZV	amlodipine	Approved	34.0	DMNKG1Z	atenolol	Approved	34.0	DMTL5Q0	losartan	.	.	Cerebral Small Vessel Diseases	ClinicalTrials.gov	Phase 3	.					3
+DC2QQ2G	DMBDAZV	amlodipine	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMS3GX2	telmisartan	.	.	Hypertension	ClinicalTrials.gov	Phase 1	.					3
+DC547K2	DMBDAZV	amlodipine	Approved	34.0	DMMIQ7G	rosuvastatin	Approved	34.0	DMS3GX2	telmisartan	.	.	Hypertension and Dyslipidemia	ClinicalTrials.gov	Phase 1	.					3
+DC77UG3	DMQL8XJ	decitabine	Approved	34.0	DMTA5OE	azacitidine	Approved	34.0	DMTD7AB	pracinostat	.	.	Myelodysplastic Syndrome	ClinicalTrials.gov	Phase 2	.					3
+DCOST64	DM1DX4Q	eribulin	Approved	34.0	DMF57DM	pazopanib	Approved	34.0	DMG3Y89	trabectedin	.	.	Sarcoma,Soft Tissue	ClinicalTrials.gov	Phase 3	.					3
+DCUAJZ7	DM1DX4Q	eribulin	Approved	34.0	DMTS85L	capecitabine	Approved	34.0	DMVXFYE	vinorelbine	.	.	Advanced Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCHQSTE	DM1DX4Q	eribulin	Approved	34.0	DM4HYMS	aBT-888	Phase 3	25.0	DMG281S	carboplatin	.	.	Breast Cancer Stage IV	ClinicalTrials.gov	Phase 2	.					3
+DCD96VH	DM1DX4Q	eribulin	Approved	34.0	DM1DX4Q	eribulin	Approved	34.0	DM5DSFZ	rifampicin	.	.	Tumor	ClinicalTrials.gov	Phase 1	.					3
+DCN7CE3	DM1DX4Q	eribulin	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMP6SC2	irinotecan	.	.	Refractory Solid Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCBSVZL	DM471KJ	omeprazole	Approved	34.0	DM4EGV0	linaclotide	Approved	34.0	DM7MLTR	itopride	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DCN9TTW	DM471KJ	omeprazole	Approved	34.0	DM7MLTR	itopride	Phase 3	25.0	DMSAOWQ	lactulose	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DCXJHN7	DM471KJ	omeprazole	Approved	34.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMYJUNT	indomethacin	.	.	Squamous Cell Carcinoma of the Oral Cavity	ClinicalTrials.gov	Phase 2	.					3
+DC0MNTM	DM471KJ	omeprazole	Approved	34.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 1	.					3
+DCRV9OK	DM471KJ	omeprazole	Approved	34.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMYJUNT	indomethacin	.	.	Breast Neoplasm	ClinicalTrials.gov	Phase 1	.					3
+DC5VI5Z	DM7ICNU	doxycycline	Approved	34.0	DMMZXIW	rabeprazole	Approved	34.0	DMTIVEN	metronidazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DC8MZW4	DM7ICNU	doxycycline	Approved	34.0	DMD5JU8	cephalexin	Approved	34.0	DMMC345	cefadroxil	.	.	Infections Joint Prosthetic	ClinicalTrials.gov	Phase 4	.					3
+DC8NTS1	DM7ICNU	doxycycline	Approved	34.0	DM9AJRB	zinc Sulfate	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	COVID-19	ClinicalTrials.gov	Phase 4	.					3
+DCBP0V8	DM7ICNU	doxycycline	Approved	34.0	DMI6HUW	terbinafine	Approved	34.0	DMTIVEN	metronidazole	.	.	Ulcerative Colitis	ClinicalTrials.gov	Phase 2	.					3
+DCKWPHW	DM7ICNU	doxycycline	Approved	34.0	DMCEW64	ceftriaxone	Approved	34.0	DMTIVEN	metronidazole	.	.	Pelvic Inflammatory Disease	ClinicalTrials.gov	Phase 2	.					3
+DCY6JTI	DM2OZ3G	ixabepilone	Approved	34.0	DMTS85L	capecitabine	Approved	34.0	DMZAL8C	motesanib	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCOADDT	DM3OWT4	tindamax	Approved	34.0	DM7BN0X	esomeprazole	Approved	34.0	DMS60RB	levofloxacin	.	.	Helicobacter Infection	ClinicalTrials.gov	Phase 4	.					3
+DC35L9F	DM1WEHC	buparlisib	Phase 3	25.0	DMH07Y3	letrozole	Approved	34.0	DMMX75K	lEE011	.	.	Advanced or Metastatic Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC52YI1	DM3P6V7	furazolidone	Approved	34.0	DMUYNEI	amoxicillin	Approved	34.0	DMXYLQ3	lansoprazole	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DCOC1TJ	DM3P6V7	furazolidone	Approved	34.0	DMXYLQ3	lansoprazole	Approved	34.0	DMZA017	tetracycline	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DC1WIT6	DMB4OLE	propofol	Investigative	0.0	DMY9BMK	rocuronium	Approved	34.0	DMZTXCH	remifentanil	.	.	Anesthesia	ClinicalTrials.gov	Phase 4	.					3
+DCETHLE	DMB4OLE	propofol	Investigative	0.0	DMC9O43	sevoflurane	Phase 3 Trial	25.0	DMZTXCH	remifentanil	.	.	PONV	ClinicalTrials.gov	Phase 4	.					3
+DCZL14Y	DMB4OLE	propofol	Investigative	0.0	DMY9BMK	rocuronium	Approved	34.0	DMZTXCH	remifentanil	.	.	Postoperative Confusion	ClinicalTrials.gov	Phase 4	.					3
+DCMBZUB	DMB4OLE	propofol	Investigative	0.0	DMY9BMK	rocuronium	Approved	34.0	DMY9BMK	rocuronium	.	.	Anesthesia	ClinicalTrials.gov	Phase 3	.					3
+DC80MV1	DMB4OLE	propofol	Investigative	0.0	DMVU687	esketamine	Phase 3	25.0	DMZTXCH	remifentanil	.	.	Drug Effect	ClinicalTrials.gov	Phase 1	.					3
+DCC6E9S	DMB4OLE	propofol	Investigative	0.0	DMU7YEL	sufentanil	Approved	34.0	DMY9BMK	rocuronium	.	.	Hemodynamic Instability	ClinicalTrials.gov	Phase 1	.					3
+DCCT8DH	DMB4OLE	propofol	Investigative	0.0	DMVO0UB	alfentanil	Approved	34.0	DMY9BMK	rocuronium	.	.	Cerebral Ischemia	ClinicalTrials.gov	Phase 1	.					3
+DCFKA2J	DMB4OLE	propofol	Investigative	0.0	DMXOELT	midazolam	Approved	34.0	DMZTXCH	remifentanil	.	.	Bronchoscopy	ClinicalTrials.gov	Phase 1	.					3
+DCGNM8B	DMB4OLE	propofol	Investigative	0.0	DMVO0UB	alfentanil	Approved	34.0	DMXOELT	midazolam	.	.	Pharmacodynamics	ClinicalTrials.gov	Phase 1	.					3
+DCMLHMD	DMB4OLE	propofol	Investigative	0.0	DMXOELT	midazolam	Approved	34.0	DMZTXCH	remifentanil	.	.	Anesthesia	ClinicalTrials.gov	Phase 1	.					3
+DCVWGZ1	DMB4OLE	propofol	Investigative	0.0	DMX4GND	meperidine	Approved	34.0	DMXOELT	midazolam	.	.	Disorders of Gallbladder, Biliary Tract and Pancrease	ClinicalTrials.gov	Phase 1	.					3
+DCW74C2	DMNKG1Z	atenolol	Approved	34.0	DMNKG1Z	atenolol	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Essential Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCCJENO	DMAI7ZV	diltiazem	Approved	34.0	DMM4WAK	zanubrutinib	Phase 2 Trial	21.0	DMOWZ6B	fluconazole	.	.	B-cell Malignancies	ClinicalTrials.gov	Phase 1	.					3
+DCAV7KA	DMI6E0R	midostaurin	Approved	34.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia With FLT3/ITD Mutation	ClinicalTrials.gov	Phase 3	.					3
+DCGGLSN	DMI6E0R	midostaurin	Approved	34.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC0E91Q	DM1IS6U	tenofovir	Approved	34.0	DMBMUWZ	emtricitabine	Approved	34.0	DMCZGRE	dolutegravir	.	.	HIV-1-infection	ClinicalTrials.gov	Phase 4	.					3
+DCC72B6	DM1IS6U	tenofovir	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMI347A	lamivudine	.	.	HIV Infections	ClinicalTrials.gov	Phase 4	.					3
+DCSIUUP	DM1IS6U	tenofovir	Approved	34.0	DMBMUWZ	emtricitabine	Approved	34.0	DMYURI6	raltegravir	.	.	HIV	ClinicalTrials.gov	Phase 4	.					3
+DCEBNVB	DM1IS6U	tenofovir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMITQS0	lopinavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 3	.					3
+DCFVOSL	DM1IS6U	tenofovir	Approved	34.0	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	.	.	Human Immunodeficiency Virus	ClinicalTrials.gov	Phase 3	.					3
+DC3BWC7	DM1IS6U	tenofovir	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMI347A	lamivudine	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DCK1LPD	DM1IS6U	tenofovir	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMI347A	lamivudine	.	.	HIV-1 Infection	ClinicalTrials.gov	Phase 2	.					3
+DCLY8CK	DM1IS6U	tenofovir	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMM5WQL	elvucitabine	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DCMJWN4	DM1IS6U	tenofovir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMYURI6	raltegravir	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DC2VD8I	DMKSUOI	flavopiridol	Phase 2	21.0	DMM39BF	mitoxantrone	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Basophilic Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC8MWRX	DMKSUOI	flavopiridol	Phase 2	21.0	DMM39BF	mitoxantrone	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia With Multilineage Dysplasia Following Myelodysplastic Syndrome	ClinicalTrials.gov	Phase 2	.					3
+DCX5ANI	DMKSUOI	flavopiridol	Phase 2	21.0	DMM39BF	mitoxantrone	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCPHSFU	DMKSUOI	flavopiridol	Phase 2	21.0	DMM39BF	mitoxantrone	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Megakaryoblastic Leukemia (M7)	ClinicalTrials.gov	Phase 1	.					3
+DCPZJ07	DMKSUOI	flavopiridol	Phase 2	21.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCXLGKE	DMKSUOI	flavopiridol	Phase 2	21.0	DMM39BF	mitoxantrone	Approved	34.0	DMZD5QR	cytarabine	.	.	Recurrent Adult Acute Lymphoblastic Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DC17N1X	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DMHKAF4	clopidogrel	.	.	COVID-19	ClinicalTrials.gov	Phase 4	.					3
+DC6VD2X	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DMWS3FH	fondaparinux sodium	.	.	COVID-19	ClinicalTrials.gov	Phase 4	.					3
+DCHH2QQ	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DMECRX1	bivalirudin	.	.	STEMI - ST Elevation Myocardial Infarction	ClinicalTrials.gov	Phase 4	.					3
+DCJGS0N	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DMCA9QP	papaverine	Approved	34.0	DMCA9QP	papaverine	.	.	Pediatrics	ClinicalTrials.gov	Phase 4	.					3
+DCKWF9C	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DMCUT21	ursodeoxycholic acid	Approved	34.0	DMU3DNC	pentoxifylline	.	.	Colorectal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCCAQT0	DM4ZP3W	heparin	Phase 2/3 Trial	24.0	DMECRX1	bivalirudin	Approved	34.0	DMM2NSK	adenosine	.	.	Coronary Microvascular Disease	ClinicalTrials.gov	Phase 1	.					3
+DCSYM2Q	DMGFPU2	linezolid	Investigative	0.0	DM3906J	bedaquiline	Approved	34.0	DMDYA31	pretomanid	.	.	Pulmonary Tuberculosis	ClinicalTrials.gov	Phase 3	.					3
+DCZ9CJN	DMGFPU2	linezolid	Investigative	0.0	DM3XNUI	tazobactam	Approved	34.0	DMTBKF3	piperacillin	.	.	Bacterial Pneumonia	ClinicalTrials.gov	Phase 3	.					3
+DC7VMU1	DMGFPU2	linezolid	Investigative	0.0	DM3906J	bedaquiline	Approved	34.0	DMDYA31	pretomanid	.	.	Tuberculosis, Multidrug-Resistant	ClinicalTrials.gov	Phase 2	.					3
+DCMV1JA	DMGFPU2	linezolid	Investigative	0.0	DM3906J	bedaquiline	Approved	34.0	DMDYA31	pretomanid	.	.	Multi-drug Resistant Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DC41R78	DMFI8A7	tranexamic acid	Phase 2 Trial	21.0	DMFI8A7	tranexamic acid	Phase 2 Trial	21.0	DMLFO8K	rivaroxaban	.	.	Osteoarthritis, Knee	ClinicalTrials.gov	Phase 4	.					3
+DCQI5VE	DMC0GSJ	efavirenz	Approved	34.0	DMJ0QOW	rilpivirine	Approved	34.0	DMJ0QOW	rilpivirine	.	.	HIV	ClinicalTrials.gov	Phase 1	.					3
+DC93Z3D	DM9HPW3	exemestane	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCUQK86	DM9HPW3	exemestane	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Estrogen Receptor Negative	ClinicalTrials.gov	Phase 2	.					3
+DCZHHUA	DM9HPW3	exemestane	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCL9I4L	DM9HPW3	exemestane	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCF7E5Y	DM9HPW3	exemestane	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Stage IV Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCTFJPR	DMCT3I8	ifosfamide	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMG281S	carboplatin	.	.	Recurrent Nasopharynx Carcinoma	ClinicalTrials.gov	Phase 3	.					3
+DCG2D6V	DMCT3I8	ifosfamide	Approved	34.0	DMNO38U	bortezomib	Approved	34.0	DMVXFYE	vinorelbine	.	.	Adult Lymphocyte Depletion Hodgkin Lymphoma	ClinicalTrials.gov	Phase 2	.					3
+DC5UYFN	DMCT3I8	ifosfamide	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMG281S	carboplatin	.	.	Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC7YBSY	DMCT3I8	ifosfamide	Approved	34.0	DMF57DM	pazopanib	Approved	34.0	DMVP5YE	doxorubicin	.	.	Non-rhabdomyosarcoma	ClinicalTrials.gov	Phase 1	.					3
+DCLCDE1	DMCT3I8	ifosfamide	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMP6G8T	topotecan	.	.	Solid Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCGKLRH	DM28UJG	dapagliflozin	Phase 3 Trial	25.0	DMFRM1I	canagliflozin	Approved	34.0	DMRF9YK	empagliflozin	.	.	Diabetes Mellitus, Type 2	ClinicalTrials.gov	Phase 1	.					3
+DCRF4SL	DM3JDRP	cladribine	Approved	34.0	DMXYJ9C	busulfan	Approved	34.0	DMZD5QR	cytarabine	.	.	High Risk Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 3	.					3
+DC5SGO6	DM3JDRP	cladribine	Approved	34.0	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCVCUPT	DM3JDRP	cladribine	Approved	34.0	DMQL8XJ	decitabine	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCW1O6P	DM3JDRP	cladribine	Approved	34.0	DM62UG5	vemurafenib	Approved	34.0	DMZD5QR	cytarabine	.	.	Langerhans Cell Histiocytosis	ClinicalTrials.gov	Phase 2	.					3
+DCLMC3G	DM3JDRP	cladribine	Approved	34.0	DMIJGT9	iNCB24360	Phase 3	25.0	DMZD5QR	cytarabine	.	.	AML	ClinicalTrials.gov	Phase 1	.					3
+DCASAWS	DM6QOVN	hKI-272	Phase 3	25.0	DMIRPD8	colestipol	Approved	34.0	DMTEOOS	loperamide	.	.	Early Stage HER2+ Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCM4LRJ	DM6QOVN	hKI-272	Phase 3	25.0	DMJIBAW	budesonide	Phase 3 Trial	25.0	DMTEOOS	loperamide	.	.	Early Stage HER2+ Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCS2X5I	DM6QOVN	hKI-272	Phase 3	25.0	DMOJZQ9	loperamide	Preclinical	2.1	DMTS85L	capecitabine	.	.	HER2 Amplified Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCUX4QR	DM6QOVN	hKI-272	Phase 3	25.0	DMMUFKM	colesevelam	Approved	34.0	DMTEOOS	loperamide	.	.	Early-stage Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCUR6PZ	DMBHMOX	palonosetron	Approved	34.0	DMEKAYI	netupitant	Phase 3	25.0	DMPFN6Y	olanzapine	.	.	Nausea Post Chemotherapy	ClinicalTrials.gov	Phase 2	.					3
+DC1M9DP	DMP6SC2	irinotecan	Approved	34.0	DMTS85L	capecitabine	Approved	34.0	DMTS85L	capecitabine	.	.	Rectal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC1XR8L	DMP6SC2	irinotecan	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Small Intestine Adenocarcinoma	ClinicalTrials.gov	Phase 2	.					3
+DC6ALSO	DMP6SC2	irinotecan	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Pancreatic Adenocarcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCX3992	DMP6SC2	irinotecan	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Adenocarcinoma of the Gastroesophageal Junction	ClinicalTrials.gov	Phase 2	.					3
+DCZ66Q6	DMP6SC2	irinotecan	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Metastatic Colorectal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC7IZS3	DMP6SC2	irinotecan	Approved	34.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMXZOCG	phenobarbital	.	.	Drug/Agent Toxicity by Tissue/Organ	ClinicalTrials.gov	Phase 1	.					3
+DCIA2YB	DMP6SC2	irinotecan	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Unspecified Adult Solid Tumor, Protocol Specific	ClinicalTrials.gov	Phase 1	.					3
+DCCFALE	DMDBX5F	ivermectin	Phase 2/3 Trial	24.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMZ0Q1G	permethrin	.	.	Scabies	ClinicalTrials.gov	Phase 4	.					3
+DCW6S9Y	DMDBX5F	ivermectin	Phase 2/3 Trial	24.0	DMXZ84M	malathion	Approved	34.0	DMZ0Q1G	permethrin	.	.	Scabies	ClinicalTrials.gov	Phase 3	.					3
+DC2PVOE	DMDBX5F	ivermectin	Phase 2/3 Trial	24.0	DMD157S	montelukast	Phase 3 Trial	25.0	DMXZAL2	hydroxychloroquine	.	.	Covid19	ClinicalTrials.gov	Phase 1	.					3
+DC9XWDV	DMMQ2OW	nintedanib	Phase 2 Trial	21.0	DMMQ2OW	nintedanib	Phase 2 Trial	21.0	DMMQ2OW	nintedanib	.	.	Carcinoma, Hepatocellular	ClinicalTrials.gov	Phase 1	.					3
+DCCD4F9	DM13V0P	rivoceranib	Phase 3	25.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Gastroesophageal Junction Adenocarcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCYPGPQ	DM13V0P	rivoceranib	Phase 3	25.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC6ENQ2	DM13V0P	rivoceranib	Phase 3	25.0	DM13V0P	rivoceranib	Phase 3	25.0	DM13V0P	rivoceranib	.	.	Lung Adenocarcinoma	ClinicalTrials.gov	Phase 1	.					3
+DCERO03	DM13V0P	rivoceranib	Phase 3	25.0	DM5PCS7	bupropion	Approved	34.0	DM5SXUV	repaglinide	.	.	Advanced Solid Tumor	ClinicalTrials.gov	Phase 1	.					3
+DC9NWQQ	DMA12HL	azelnidipine	Phase 4	31.0	DMOPZDT	perindopril	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Cerebral Small Vessel Diseases	ClinicalTrials.gov	Phase 4	.					3
+DCG4V5F	DMLB81S	paclitaxel	Approved	34.0	DMPDW6T	epirubicin	Approved	34.0	DMTS85L	capecitabine	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC2E6KU	DMDO279	phenprocoumon	Approved	34.0	DMH75KV	acenocoumarol	Approved	34.0	DMJYCVW	warfarin	.	.	Atrial Fibrillation	ClinicalTrials.gov	Phase 3	.					3
+DC3EC39	DM7MT6E	prasugrel	Approved	34.0	DMBR01X	brilinta	Approved	34.0	DMHKAF4	clopidogrel	.	.	Cardiovascular Diseases	ClinicalTrials.gov	Phase 4	.					3
+DC97619	DM7MT6E	prasugrel	Approved	34.0	DMA16BR	vorapaxar	Approved	34.0	DMBR01X	brilinta	.	.	Myocardial Infarction	ClinicalTrials.gov	Phase 4	.					3
+DCKXNMR	DM7MT6E	prasugrel	Approved	34.0	DMBR01X	brilinta	Approved	34.0	DMDL2OZ	aspirin	.	.	Myocardial Infarction	ClinicalTrials.gov	Phase 4	.					3
+DCB552G	DM7MT6E	prasugrel	Approved	34.0	DMOL54H	clopidogrel	Phase 2 Trial	21.0	DMQG17S	tirofiban	.	.	Coronary Artery Disease	ClinicalTrials.gov	Phase 3	.					3
+DCCCD3W	DM53SRA	prochlorperazine	Approved	34.0	DMI4EL5	ketorolac	Approved	34.0	DMKQTBA	diphenhydramine	.	.	Headache, Migraine	ClinicalTrials.gov	Phase 2	.					3
+DC9DCHC	DM53SRA	prochlorperazine	Approved	34.0	DMI4EL5	ketorolac	Approved	34.0	DMKQTBA	diphenhydramine	.	.	Migraine	ClinicalTrials.gov	Phase 1	.					3
+DCZE5I7	DM53SRA	prochlorperazine	Approved	34.0	DM53SRA	prochlorperazine	Approved	34.0	DM53SRA	prochlorperazine	.	.	Migraine	ClinicalTrials.gov	Phase 1	.					3
+DC066AG	DM3906J	bedaquiline	Approved	34.0	DM4M1SG	clarithromycin	Phase 2 Trial	21.0	DMR87LC	ethambutol	.	.	Treatment-refractory Mycobacterium Avium Complex-lung Disease (MAC-LD)	ClinicalTrials.gov	Phase 2	.					3
+DCCKTXG	DM3906J	bedaquiline	Approved	34.0	DM4IF32	pyrazinamide	Approved	34.0	DMEBOFW	clofazimine	.	.	Pulmonary Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DCDBKWI	DM3906J	bedaquiline	Approved	34.0	DM4IF32	pyrazinamide	Approved	34.0	DMDYA31	pretomanid	.	.	Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DCDV78F	DM3906J	bedaquiline	Approved	34.0	DMU8V4S	moxifloxacin	Approved	34.0	DMXE76K	delamanid	.	.	Tuberculosis, Pulmonary	ClinicalTrials.gov	Phase 2	.					3
+DCQR6Q4	DM3906J	bedaquiline	Approved	34.0	DM4IF32	pyrazinamide	Approved	34.0	DMDYA31	pretomanid	.	.	Pulmonary Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DCTEABV	DM3906J	bedaquiline	Approved	34.0	DMDYA31	pretomanid	Approved	34.0	DMEBOFW	clofazimine	.	.	Pulmonary Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DCVMZGP	DM3906J	bedaquiline	Approved	34.0	DMU8V4S	moxifloxacin	Approved	34.0	DMXE76K	delamanid	.	.	Pulmonary Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DC0WUY4	DMCBJSR	sunitinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMP6SC2	irinotecan	.	.	Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCNGANV	DMCBJSR	sunitinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCZLM62	DM62IPN	tenofovir disoproxil	Phase 4	31.0	DMC0GSJ	efavirenz	Approved	34.0	DMI347A	lamivudine	.	.	HIV Infections	ClinicalTrials.gov	Phase 4	.					3
+DC688W3	DM62IPN	tenofovir disoproxil	Phase 4	31.0	DMBMUWZ	emtricitabine	Approved	34.0	DMJ0QOW	rilpivirine	.	.	Human Immunodeficiency Virus-type 1 Infection	ClinicalTrials.gov	Phase 3	.					3
+DC8CXAS	DM62IPN	tenofovir disoproxil	Phase 4	31.0	DMBMUWZ	emtricitabine	Approved	34.0	DMC0GSJ	efavirenz	.	.	Human Immunodeficiency Virus-type 1 Infection	ClinicalTrials.gov	Phase 3	.					3
+DC1OKMA	DM62IPN	tenofovir disoproxil	Phase 4	31.0	DMBMUWZ	emtricitabine	Approved	34.0	DMYURI6	raltegravir	.	.	Acute HIV Infection	ClinicalTrials.gov	Phase 1	.					3
+DCJWKXM	DM62IPN	tenofovir disoproxil	Phase 4	31.0	DM6HX9B	nevirapine	Approved	34.0	DMC0GSJ	efavirenz	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DC0IC7N	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMMX75K	lEE011	.	.	Advanced Metastatic Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC2MNA6	DMAT8CG	goserelin	Approved	34.0	DMQ4TJK	dutasteride	Approved	34.0	DMZMSPF	bicalutamide	.	.	Salivary Duct Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCCJUSF	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Estrogen Receptor-positive Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCHIMNL	DMAT8CG	goserelin	Approved	34.0	DMD7L94	palbociclib	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DCLZPT8	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMMPTLH	entrectinib	.	.	Invasive Lobular Breast Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DC520FJ	DMAT8CG	goserelin	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCY6J0F	DMHSY1I	regorafenib	Approved	34.0	DMIYDT4	cabozantinib	Approved	34.0	DMTKD7Q	afatinib	.	.	Non-small Cell Lung Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DC2UKR6	DMHSY1I	regorafenib	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Metastatic Colorectal Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC6NGTV	DMHSY1I	regorafenib	Approved	34.0	DMINOX3	vincristine	Approved	34.0	DMP6SC2	irinotecan	.	.	Pediatric Oncology	ClinicalTrials.gov	Phase 1	.					3
+DCY85D6	DMHSY1I	regorafenib	Approved	34.0	DMINOX3	vincristine	Approved	34.0	DMP6SC2	irinotecan	.	.	Rhabdomyosarcoma	ClinicalTrials.gov	Phase 1	.					3
+DC4FYY3	DM4KI7O	zidovudine	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMI2QPE	didanosine	.	.	HIV	ClinicalTrials.gov	Phase 4	.					3
+DCIO1M4	DM4KI7O	zidovudine	Approved	34.0	DMI2QPE	didanosine	Approved	34.0	DMITQS0	lopinavir	.	.	HIV	ClinicalTrials.gov	Phase 4	.					3
+DC4OLI4	DM4KI7O	zidovudine	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMITQS0	lopinavir	.	.	Malaria	ClinicalTrials.gov	Phase 3	.					3
+DCAVBL4	DM4KI7O	zidovudine	Approved	34.0	DMCZGRE	dolutegravir	Approved	34.0	DMI347A	lamivudine	.	.	Human Immunodeficiency Virus	ClinicalTrials.gov	Phase 3	.					3
+DCWUOC4	DM4KI7O	zidovudine	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMI347A	lamivudine	.	.	Malaria	ClinicalTrials.gov	Phase 3	.					3
+DC88ICA	DM4KI7O	zidovudine	Approved	34.0	DM6HX9B	nevirapine	Approved	34.0	DMI347A	lamivudine	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DCGON3K	DM4KI7O	zidovudine	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMITQS0	lopinavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DCISV1I	DM4KI7O	zidovudine	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMI347A	lamivudine	.	.	HIV-1 Infection	ClinicalTrials.gov	Phase 2	.					3
+DC15WZD	DM4KI7O	zidovudine	Approved	34.0	DMNO38U	bortezomib	Approved	34.0	DMS2IUH	valganciclovir	.	.	Lymphoproliferative Disorder	ClinicalTrials.gov	Phase 1	.					3
+DC1FNAS	DMBR01X	brilinta	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMHKAF4	clopidogrel	.	.	Stable Coronary Syndrome	ClinicalTrials.gov	Phase 4	.					3
+DC4U6GN	DMBR01X	brilinta	Approved	34.0	DMRMS0L	morphine	Approved	34.0	DMZTGN2	methylnaltrexone bromide	.	.	Coronary Artery Disease	ClinicalTrials.gov	Phase 4	.					3
+DCUMZH1	DMBR01X	brilinta	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMHKAF4	clopidogrel	.	.	Coronary Artery Disease (CAD)	ClinicalTrials.gov	Phase 3	.					3
+DCIVTKZ	DMBR01X	brilinta	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMHKAF4	clopidogrel	.	.	De Novo Stenosis	ClinicalTrials.gov	Phase 1	.					3
+DCSMUT0	DMBR01X	brilinta	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMDL2OZ	aspirin	.	.	Antiplatelet Drug	ClinicalTrials.gov	Phase 1	.					3
+DC0QQ5U	DM7BN0X	esomeprazole	Approved	34.0	DM7BN0X	esomeprazole	Approved	34.0	DMHSY1I	regorafenib	.	.	Colorectal Neoplasms	ClinicalTrials.gov	Phase 4	.					3
+DC48T1G	DM7BN0X	esomeprazole	Approved	34.0	DMU8V4S	moxifloxacin	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Infections	ClinicalTrials.gov	Phase 4	.					3
+DCM2TO6	DM7BN0X	esomeprazole	Approved	34.0	DMTIVEN	metronidazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DCPJ5KC	DM7BN0X	esomeprazole	Approved	34.0	DMS60RB	levofloxacin	Approved	34.0	DMTIVEN	metronidazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DC5OPJP	DM7BN0X	esomeprazole	Approved	34.0	DMS60RB	levofloxacin	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 1	.					3
+DCTCCRU	DM7BN0X	esomeprazole	Approved	34.0	DM7ICNU	doxycycline	Approved	34.0	DMS60RB	levofloxacin	.	.	GASTRITIS	ClinicalTrials.gov	Phase 1	.					3
+DC78K1O	DM1YBHK	rifabutin	Approved	34.0	DMO6315	vonoprazan	Phase 4	31.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DCA81FZ	DM1YBHK	rifabutin	Approved	34.0	DM7BN0X	esomeprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Infections	ClinicalTrials.gov	Phase 3	.					3
+DC6OKQQ	DM1YBHK	rifabutin	Approved	34.0	DM5JVS3	isoniazid	Approved	34.0	DMM9JEF	imatinib	.	.	Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DCAOYYN	DMEXMYK	alpelisib	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC1GX0X	DMCVJ86	clofarabine	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DC2J2YF	DMCVJ86	clofarabine	Approved	34.0	DMVRLT7	fludarabine	Approved	34.0	DMXYJ9C	busulfan	.	.	Myeloid Malignancy	ClinicalTrials.gov	Phase 2	.					3
+DC949GI	DMCVJ86	clofarabine	Approved	34.0	DMQL8XJ	decitabine	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCHJ30J	DMCVJ86	clofarabine	Approved	34.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Leukemia Lymphoblastic, Acute	ClinicalTrials.gov	Phase 1	.					3
+DCJEYW1	DMCVJ86	clofarabine	Approved	34.0	DMM0XGL	idarubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCMXE98	DMD7L94	palbociclib	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Anatomic Stage I Breast Cancer AJCC v8	ClinicalTrials.gov	Phase 1	.					3
+DC0CVYJ	DMMZXIW	rabeprazole	Approved	34.0	DMTIVEN	metronidazole	Approved	34.0	DMZA017	tetracycline	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DC0NGF9	DMMZXIW	rabeprazole	Approved	34.0	DMTIVEN	metronidazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DC695L1	DMMZXIW	rabeprazole	Approved	34.0	DMS60RB	levofloxacin	Approved	34.0	DMTIVEN	metronidazole	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DCXHMWM	DM1KS78	talazoparib	Approved	34.0	DMSE3I7	gemcitabine	Preclinical	2.1	DMP6G8T	topotecan	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCPJCJW	DM3WP0N	al3818	Phase 3	25.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Colorectal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC993H4	DM1P6FR	arry-162	Approved	34.0	DMMX75K	lEE011	Phase 3	25.0	DMNQXV8	lGX818	.	.	Solid Tumors Harboring a BRAF V600 Mutation	ClinicalTrials.gov	Phase 1	.					3
+DC3EEZD	DMMZSXQ	azathioprine	Approved	34.0	DMQ8FR2	prednisolone	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Lupus Nephritis	ClinicalTrials.gov	Phase 1	.					3
+DCVMCOT	DMMZSXQ	azathioprine	Approved	34.0	DMOL5IU	mesalazine	Approved	34.0	DMQ8FR2	prednisolone	.	.	Colitis, Ulcerative	ClinicalTrials.gov	Phase 1	.					3
+DC9SER2	DM2NLS9	ciprofloxacin XR	Approved	34.0	DME1LQN	streptomycin	Approved	34.0	DMKINJO	gentamicin	.	.	Plague, Bubonic	ClinicalTrials.gov	Phase 3	.					3
+DCA04R0	DM2NLS9	ciprofloxacin XR	Approved	34.0	DMCEW64	ceftriaxone	Approved	34.0	DMY60I8	cefixime	.	.	Gonorrhea Male	ClinicalTrials.gov	Phase 2	.					3
+DCTTCKY	DM2NLS9	ciprofloxacin XR	Approved	34.0	DM7ICNU	doxycycline	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Crohn's Disease	ClinicalTrials.gov	Phase 2	.					3
+DCI59ZK	DM2NLS9	ciprofloxacin XR	Approved	34.0	DMCLWDJ	lumacaftor	Phase 2	21.0	DMZC1HS	ivacaftor	.	.	Cystic Fibrosis	ClinicalTrials.gov	Phase 1	.					3
+DC4Z8NL	DM2NLS9	ciprofloxacin XR	Approved	34.0	DMCEW64	ceftriaxone	Approved	34.0	DMS6UOE	azithromycin	.	.	Gonococcal Infection	ClinicalTrials.gov	Phase 1	.					3
+DCIKDQ8	DM2NLS9	ciprofloxacin XR	Approved	34.0	DMCEW64	ceftriaxone	Approved	34.0	DMY60I8	cefixime	.	.	Gonococcal Infection	ClinicalTrials.gov	Phase 1	.					3
+DC68Z3S	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	Approved	34.0	DMTS85L	capecitabine	.	.	Rectal Neoplasms Malignant	ClinicalTrials.gov	Phase 3	.					3
+DC0QPQ3	DMQNWRD	oxaliplatin	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCCEH20	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	Approved	34.0	DMVA5NS	bAY-57-9352	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCJQWDF	DMQNWRD	oxaliplatin	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMQNWRD	oxaliplatin	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC01CHR	DMQNWRD	oxaliplatin	Approved	34.0	DMTA5OE	azacitidine	Approved	34.0	DMTS85L	capecitabine	.	.	Colorectal Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCSKBNL	DMQNWRD	oxaliplatin	Approved	34.0	DMT3D5I	aflibercept	Approved	34.0	DMTS85L	capecitabine	.	.	Colorectal Cancer Metastatic	ClinicalTrials.gov	Phase 1	.					3
+DCH9H5Q	DM4YDAJ	sildenafil	Phase 3 Trial	25.0	DMD1QXW	ambrisentan	Approved	34.0	DMJZHT1	tadalafil	.	.	Pulmonary Arterial Hypertension	ClinicalTrials.gov	Phase 4	.					3
+DCBTMZ7	DM4YDAJ	sildenafil	Phase 3 Trial	25.0	DMIOGBU	bosentan	Approved	34.0	DMVPZBE	iloprost	.	.	Pulmonary Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCE3E40	DM4YDAJ	sildenafil	Phase 3 Trial	25.0	DMIOGBU	bosentan	Approved	34.0	DMM9JEF	imatinib	.	.	Pulmonary Arterial Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCZ1DCR	DM4YDAJ	sildenafil	Phase 3 Trial	25.0	DMIOGBU	bosentan	Approved	34.0	DMJZHT1	tadalafil	.	.	Persistent Pulmonary Hypertension of the Newborn	ClinicalTrials.gov	Phase 1	.					3
+DCVB53E	DM5PCS7	bupropion	Approved	34.0	DMMUOLJ	varenicline	Approved	34.0	DMWX5CO	nicotine	.	.	Smoking Cessation	ClinicalTrials.gov	Phase 4	.					3
+DCSWZ7S	DM5PCS7	bupropion	Approved	34.0	DMMUOLJ	varenicline	Approved	34.0	DMWX5CO	nicotine	.	.	Smoking Cessation	ClinicalTrials.gov	Phase 3	.					3
+DCS8X9W	DM5PCS7	bupropion	Approved	34.0	DMGB035	armodafinil	Approved	34.0	DMQPH29	curcumin	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCY0TDX	DM5PCS7	bupropion	Approved	34.0	DMMUOLJ	varenicline	Approved	34.0	DMWX5CO	nicotine	.	.	Nicotine Dependence	ClinicalTrials.gov	Phase 1	.					3
+DCADO04	DM4DMBT	chlorthalidone	Approved	34.0	DMUOK4C	lisinopril	Investigative	0.0	DMBDAZV	amlodipine	.	.	Hypertension	ClinicalTrials.gov	Phase 4	.					3
+DCASCDK	DM4DMBT	chlorthalidone	Approved	34.0	DMGN1PW	indapamide	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Kidney Stone	ClinicalTrials.gov	Phase 2	.					3
+DCPZY7H	DM4DMBT	chlorthalidone	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMTL5Q0	losartan	.	.	Hypertension	ClinicalTrials.gov	Phase 1	.					3
+DC5AOCT	DM4DMBT	chlorthalidone	Approved	34.0	DMBDAZV	amlodipine	Approved	34.0	DMS3GX2	telmisartan	.	.	Hypertension	ClinicalTrials.gov	Phase 1	.					3
+DCG2FK7	DM5FSJA	glimepiride	Approved	34.0	DMDASC6	metformin	Investigative	0.0	DMGDKXN	sitagliptin	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 4	.					3
+DC9T0X0	DM5FSJA	glimepiride	Approved	34.0	DMGDKXN	sitagliptin	Approved	34.0	DMRM3AW	acarbose	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 3	.					3
+DCGTXL7	DM5FSJA	glimepiride	Approved	34.0	DM79VXT	pF-04971729	Approved	34.0	DMGDKXN	sitagliptin	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 3	.					3
+DCNMR1W	DM5FSJA	glimepiride	Approved	34.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMDASC6	metformin	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 3	.					3
+DC2LI4D	DMQ8FR2	prednisolone	Approved	34.0	DMSIVND	hydroxychloroquine	Phase 3 Trial	25.0	DMZ7XNQ	tacrolimus	.	.	Lupus Nephritis	ClinicalTrials.gov	Phase 1	.					3
+DCMINDQ	DMQ8FR2	prednisolone	Approved	34.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMXZAL2	hydroxychloroquine	.	.	Lupus Nephritis	ClinicalTrials.gov	Phase 1	.					3
+DCKTUWU	DM3JFIH	vancomycin	Approved	34.0	DMI9FBP	imipenem	Approved	34.0	DMS6UOE	azithromycin	.	.	Cirrhosis	ClinicalTrials.gov	Phase 4	.					3
+DCHTNFE	DM3JFIH	vancomycin	Approved	34.0	DMOJZQ9	loperamide	Preclinical	2.1	DMTIVEN	metronidazole	.	.	Clostridium Difficile Infection	ClinicalTrials.gov	Phase 2	.					3
+DCMO25P	DMC5Q8X	berberine	Phase 4	31.0	DMMZXIW	rabeprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DCY9GMT	DMC5Q8X	berberine	Phase 4	31.0	DMO6315	vonoprazan	Phase 4	31.0	DMUYNEI	amoxicillin	.	.	Helicobacter Pylori Infection	ClinicalTrials.gov	Phase 4	.					3
+DCN801X	DMB920Z	ceritinib	Approved	34.0	DMJYCVW	warfarin	Approved	34.0	DMXOELT	midazolam	.	.	ALK-positive Advanced Tumors	ClinicalTrials.gov	Phase 1	.					3
+DCDM84V	DMBMUWZ	emtricitabine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV	ClinicalTrials.gov	Phase 4	.					3
+DCG0IYQ	DMBMUWZ	emtricitabine	Approved	34.0	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV	ClinicalTrials.gov	Phase 4	.					3
+DCN2MPA	DMBMUWZ	emtricitabine	Approved	34.0	DMI2QPE	didanosine	Approved	34.0	DMSYRBX	atazanavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 4	.					3
+DCZ4OHF	DMBMUWZ	emtricitabine	Approved	34.0	DMTQF4A	tenofovir alafenamide	Phase 3	25.0	DMMF5IE	gS-9883	.	.	HIV	ClinicalTrials.gov	Phase 3	.					3
+DC0YJIS	DMBMUWZ	emtricitabine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DC2A9FF	DMBMUWZ	emtricitabine	Approved	34.0	DMTQF4A	tenofovir alafenamide	Phase 3	25.0	DMMF5IE	gS-9883	.	.	Human immunodeficiency virus-1 infection	TTD Database	Phase 1	.					3
+DCZZPAN	DM04LR2	floxuridine	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Colorectal Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCG3WT9	DM04LR2	floxuridine	Approved	34.0	DMP6SC2	irinotecan	Approved	34.0	DMQNWRD	oxaliplatin	.	.	Colo-rectal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC87X4Q	DM04LR2	floxuridine	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM832TJ	gemcitabine	.	.	Intrahepatic Cholangiocarcinoma	ClinicalTrials.gov	Phase 1	.					3
+DCW0VKM	DM04LR2	floxuridine	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DM832TJ	gemcitabine	.	.	Nasopharyngeal Carcinoma	ClinicalTrials.gov	Phase 1	.					3
+DCCYZZ8	DMRMS0L	morphine	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	.	.	Head and Neck Cancer	ClinicalTrials.gov	Phase 4	.					3
+DCIKSEG	DMRMS0L	morphine	Approved	34.0	DMSPJG2	ropivacaine	Approved	34.0	DMUIE76	acetaminophen	.	.	Postoperative Pain	ClinicalTrials.gov	Phase 4	.					3
+DCU1UMB	DMRMS0L	morphine	Approved	34.0	DMU7YEL	sufentanil	Approved	34.0	DMU7YEL	sufentanil	.	.	Post Operative Pain Management	ClinicalTrials.gov	Phase 1	.					3
+DC82630	DMREUQ6	valsartan	Phase 3 Trial	25.0	DMNKG1Z	atenolol	Approved	34.0	DMUSZHD	hydrochlorothiazide	.	.	Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DC7YLAY	DMREUQ6	valsartan	Phase 3 Trial	25.0	DMQYLGP	levocetirizine	Approved	34.0	DMRF9YK	empagliflozin	.	.	Diabetic Nephropathies	ClinicalTrials.gov	Phase 2	.					3
+DCDFJIE	DMUIE76	acetaminophen	Approved	34.0	DMWSXI4	acetylcysteine	Approved	34.0	DMZHUO5	phenylephrine	.	.	Common Cold	ClinicalTrials.gov	Phase 3	.					3
+DCGCF6W	DMUIE76	acetaminophen	Approved	34.0	DMXLKHV	oxycodone	Approved	34.0	DMZ5RGV	naproxen	.	.	Pain, Postoperative	ClinicalTrials.gov	Phase 3	.					3
+DCYJ6Y9	DMIYDT4	cabozantinib	Approved	34.0	DMIYDT4	cabozantinib	Approved	34.0	DMIYDT4	cabozantinib	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCARI40	DM6RZ9Q	clonidine	Approved	34.0	DM783CH	levobupivacaine	Approved	34.0	DMU7YEL	sufentanil	.	.	Anesthesia, Epidural	ClinicalTrials.gov	Phase 3	.					3
+DC648ND	DM6RZ9Q	clonidine	Approved	34.0	DM84ZXF	lorazepam	Approved	34.0	DMSSCFY	naltrexone	.	.	Opiate Addiction	ClinicalTrials.gov	Phase 1	.					3
+DCNJP9A	DM2M3ZA	glycopyrrolate	Approved	34.0	DM6T2J3	neostigmine	Approved	34.0	DMY9BMK	rocuronium	.	.	Surgery	ClinicalTrials.gov	Phase 4	.					3
+DC0I7J9	DM2M3ZA	glycopyrrolate	Approved	34.0	DM6T2J3	neostigmine	Approved	34.0	DMY9BMK	rocuronium	.	.	Anesthesia, General	ClinicalTrials.gov	Phase 3	.					3
+DCX75WN	DM2M3ZA	glycopyrrolate	Approved	34.0	DM6T2J3	neostigmine	Approved	34.0	DMP0UK2	vecuronium	.	.	Anesthesia, General	ClinicalTrials.gov	Phase 3	.					3
+DCU0JTG	DM4QTBN	isotretinoin	Phase 3 Trial	25.0	DMKECZD	temozolomide	Approved	34.0	DMWMPD4	vorinostat	.	.	Glioblastoma Multiforme	ClinicalTrials.gov	Phase 1	.					3
+DC7TBXK	DMI347A	lamivudine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	Patient Compliance	ClinicalTrials.gov	Phase 4	.					3
+DCHS312	DMI347A	lamivudine	Approved	34.0	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV	ClinicalTrials.gov	Phase 3	.					3
+DCWVXBK	DMI347A	lamivudine	Approved	34.0	DMSY4ZG	tenofovir disoproxil fumarate	Approved	34.0	DM215WE	mK-1439	.	.	Human immunodeficiency virus-1 infection	TTD Database	Phase 1	.					3
+DCX6GZ8	DM783CH	levobupivacaine	Approved	34.0	DMI4EL5	ketorolac	Approved	34.0	DMRMS0L	morphine	.	.	Total Knee Arthroplasty	ClinicalTrials.gov	Phase 4	.					3
+DC2EF2A	DM783CH	levobupivacaine	Approved	34.0	DMPIHLS	diclofenac	Approved	34.0	DMUIE76	acetaminophen	.	.	Pain, Postoperative	ClinicalTrials.gov	Phase 1	.					3
+DCY82ZV	DM5QF9V	tamsulosin	Approved	34.0	DMS1GYT	mirabegron	Approved	34.0	DMUIE76	acetaminophen	.	.	Nephrolithiasis	ClinicalTrials.gov	Phase 4	.					3
+DC4RFMB	DMF30HL	zarnestra	Phase 3	25.0	DMM0XGL	idarubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Basophilic Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DC707XK	DM4HYMS	aBT-888	Phase 3	25.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Cancer - Ovarian	ClinicalTrials.gov	Phase 1	.					3
+DCCR21I	DM4HYMS	aBT-888	Phase 3	25.0	DMKECZD	temozolomide	Approved	34.0	DMTS85L	capecitabine	.	.	Functional Pancreatic Neuroendocrine Tumor	ClinicalTrials.gov	Phase 1	.					3
+DCEE9HL	DM4HYMS	aBT-888	Phase 3	25.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Adenocarcinoma of the Pancreas	ClinicalTrials.gov	Phase 1	.					3
+DCMZGP1	DMTKD7Q	afatinib	Approved	34.0	DMTKD7Q	afatinib	Approved	34.0	DMVXFYE	vinorelbine	.	.	Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCGBGII	DM6L4H2	cobicistat	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	AIDS-related Dementia Complex	ClinicalTrials.gov	Phase 4	.					3
+DC3CL07	DM6L4H2	cobicistat	Approved	34.0	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	.	.	AML, Adult	ClinicalTrials.gov	Phase 2	.					3
+DCHB3VE	DM6L4H2	cobicistat	Approved	34.0	DMTQF4A	tenofovir alafenamide	Phase 3	25.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DCHZZAH	DM6L4H2	cobicistat	Approved	34.0	DMSFK9V	daclatasvir	Approved	34.0	DMSYRBX	atazanavir	.	.	Hepatitis C	ClinicalTrials.gov	Phase 1	.					3
+DCVZ9OE	DM6L4H2	cobicistat	Approved	34.0	DMAOL2S	voriconazole	Approved	34.0	DMG5C8D	gS-9620	.	.	Human Immunodeficiency Virus Type 1 (HIV-1) Infection	ClinicalTrials.gov	Phase 1	.					3
+DCKWNXK	DMQUSBT	daunorubicin	Approved	34.0	DMTA5OE	azacitidine	Approved	34.0	DMZD5QR	cytarabine	.	.	MDS	ClinicalTrials.gov	Phase 2	.					3
+DCU9GCL	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	Approved	34.0	DMZIM37	cP-868596	.	.	Newly Diagnosed AML With FLT3 Activating Mutations	ClinicalTrials.gov	Phase 2	.					3
+DCXW8J5	DMQUSBT	daunorubicin	Approved	34.0	DMTI0ZO	gilteritinib	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCD4PRD	DMQUSBT	daunorubicin	Approved	34.0	DMSB068	pF-04449913	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCS4SCA	DMQUSBT	daunorubicin	Approved	34.0	DMJV2EK	dasatinib	Investigative	0.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia (AML)	ClinicalTrials.gov	Phase 1	.					3
+DC6FL5U	DMS60RB	levofloxacin	Approved	34.0	DMUYNEI	amoxicillin	Approved	34.0	DMXYLQ3	lansoprazole	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DC2K64F	DMS60RB	levofloxacin	Approved	34.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMW1TV2	rifaximin	.	.	Acute Watery Diarrhea	ClinicalTrials.gov	Phase 1	.					3
+DCFQPL3	DMS60RB	levofloxacin	Approved	34.0	DMSVOCZ	pantoprazole	Approved	34.0	DMUYNEI	amoxicillin	.	.	Melatonin Deficiency	ClinicalTrials.gov	Phase 1	.					3
+DCC8PUG	DMITQS0	lopinavir	Approved	34.0	DMITQS0	lopinavir	Approved	34.0	DMYURI6	raltegravir	.	.	HIV-1 Infection	ClinicalTrials.gov	Phase 3	.					3
+DCMK65W	DMITQS0	lopinavir	Approved	34.0	DMGO72P	oseltamivir	Phase 3 Trial	25.0	DMU764S	ritonavir	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 3	.					3
+DCE11ZR	DMITQS0	lopinavir	Approved	34.0	DMTL94F	maraviroc	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DCCA3OM	DMITQS0	lopinavir	Approved	34.0	DMU764S	ritonavir	Approved	34.0	DMXU6IJ	interferon beta	.	.	Middle East Respiratory Syndrome (MERS)	TTD Database	Investigative	.					3
+DCHBQC5	DMITQS0	lopinavir	Approved	34.0	DMPYYQP	interferon alpha	Phase 1/2	19.0	DMU764S	ritonavir	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Investigative	.					3
+DC4D4U5	DMOWLVG	nitazoxanide	Phase 3 Trial	25.0	DMDBX5F	ivermectin	Phase 2/3 Trial	24.0	DMSI5CB	chloroquine	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 3	.					3
+DC4CA4D	DMOWLVG	nitazoxanide	Phase 3 Trial	25.0	DM7ICNU	doxycycline	Approved	34.0	DMU3DNC	pentoxifylline	.	.	Sexually Transmitted Diseases	ClinicalTrials.gov	Phase 2	.					3
+DCXCQLL	DMOWLVG	nitazoxanide	Phase 3 Trial	25.0	DMQ4TJK	dutasteride	Approved	34.0	DMS6UOE	azithromycin	.	.	Covid19	ClinicalTrials.gov	Phase 2	.					3
+DCWSC1S	DMJIBAW	budesonide	Phase 3 Trial	25.0	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMZ7XNQ	tacrolimus	.	.	Acute Cellular Graft Rejection	ClinicalTrials.gov	Phase 4	.					3
+DCIRMI3	DMJIBAW	budesonide	Phase 3 Trial	25.0	DMSOURV	formoterol	Approved	34.0	DM5EN79	levamisole	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 2	.					3
+DC5WV96	DM3O8QY	degarelix	Approved	34.0	DMGL19D	enzalutamide	Approved	34.0	DMZ4Q0B	dasatinib	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCNMY6P	DM3O8QY	degarelix	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMNP60F	anastrozole	.	.	Male Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC0WGVW	DMDEXQ0	febuxostat	Approved	34.0	DMUFIO9	m102	Preclinical	2.1	DMYMS40	colchicine	.	.	Gout	ClinicalTrials.gov	Phase 2	.					3
+DCGZRKA	DMDEXQ0	febuxostat	Approved	34.0	DMUFIO9	m102	Preclinical	2.1	DMYMS40	colchicine	.	.	Hyperuricemia	ClinicalTrials.gov	Phase 2	.					3
+DCDPW4T	DMI4EL5	ketorolac	Approved	34.0	DMRQD04	tramadol	Approved	34.0	DMUIE76	acetaminophen	.	.	Arthritis Knee	ClinicalTrials.gov	Phase 1	.					3
+DCX2CN8	DMDZ6Q3	napabucasin	Phase 3	25.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Advanced Gastrointestinal Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC2D81A	DMDL27I	oxytocin	Phase 2 Trial	21.0	DMDL27I	oxytocin	Phase 2 Trial	21.0	DMUSLW3	carbetocin	.	.	Postpartum Hemorrhage	ClinicalTrials.gov	Phase 1	.					3
+DC30LCB	DMDL27I	oxytocin	Phase 2 Trial	21.0	DMS3508	carboprost tromethamine	Approved	34.0	DMUSLW3	carbetocin	.	.	Postpartum Hemorrhage	ClinicalTrials.gov	Phase 1	.					3
+DCSPUVW	DMDL27I	oxytocin	Phase 2 Trial	21.0	DMUSLW3	carbetocin	Approved	34.0	DMUSLW3	carbetocin	.	.	Postpartum Hemorrhage	ClinicalTrials.gov	Phase 1	.					3
+DCZAJNU	DMAOL2S	voriconazole	Approved	34.0	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	.	.	Human Immunodeficiency Virus Type 1 (HIV-1)	ClinicalTrials.gov	Phase 1	.					3
+DC4Q6ZY	DM7GCVW	acalabrutinib	Approved	34.0	DMM4WAK	zanubrutinib	Phase 2 Trial	21.0	DMYZJGB	ibrutinib	.	.	Lymphoma, Mantle-Cell	ClinicalTrials.gov	Phase 3	.					3
+DC02PGU	DM7GCVW	acalabrutinib	Approved	34.0	DMLOS5R	bay 80-6946	Approved	34.0	DMYZJGB	ibrutinib	.	.	Chronic Lymphocytic Leukemia (CLL)	ClinicalTrials.gov	Phase 2	.					3
+DCXT5OW	DM7GCVW	acalabrutinib	Approved	34.0	DM7GCVW	acalabrutinib	Approved	34.0	DM7GCVW	acalabrutinib	.	.	Pharmacokinetics	ClinicalTrials.gov	Phase 1	.					3
+DCFX6J6	DM6T924	gabapentin	Approved	34.0	DM8VCBE	ibuprofen	Approved	34.0	DMRQD04	tramadol	.	.	Pain	ClinicalTrials.gov	Phase 4	.					3
+DCRRWHR	DM6T924	gabapentin	Approved	34.0	DMJHLSD	famciclovir	Approved	34.0	DMXLKHV	oxycodone	.	.	Herpes Zoster	ClinicalTrials.gov	Phase 1	.					3
+DCRB956	DM96SE0	haloperidol	Approved	34.0	DMA4MRX	perphenazine	Approved	34.0	DMCVPXO	lurasidone hydrochloride	.	.	Schizophrenia	ClinicalTrials.gov	Phase 4	.					3
+DCRSBCG	DMGEMB7	hydrocortisone	Phase 3 Trial	25.0	DMMZSXQ	azathioprine	Approved	34.0	DMQ8FR2	prednisolone	.	.	Ulcerative Colitis	ClinicalTrials.gov	Phase 4	.					3
+DCGH2QK	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMRBMAU	mycophenolic acid	Investigative	0.0	DMUYKBZ	cyclosporin A	.	.	Renal Transplanted Recipients	ClinicalTrials.gov	Phase 4	.					3
+DCZ0EWR	DM4BDON	methylprednisolone	Phase 3 Trial	25.0	DMMZSXQ	azathioprine	Approved	34.0	DMQ7WL7	prednisone	.	.	IgA Nephropathy	ClinicalTrials.gov	Phase 1	.					3
+DCD0UHD	DM8Y4JS	aC220	Approved	34.0	DMM0XGL	idarubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCGLUFR	DM8Y4JS	aC220	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMZD5QR	cytarabine	.	.	Lymphoblastic Leukemia, Acute, Childhood	ClinicalTrials.gov	Phase 1	.					3
+DC2DVIE	DM2EJM3	aKB-6548	Phase 3	25.0	DM30SGU	simvastatin	Approved	34.0	DMBR0QK	atorvastatin	.	.	Drug Interaction Potentiation	ClinicalTrials.gov	Phase 1	.					3
+DC38281	DM2EJM3	aKB-6548	Phase 3	25.0	DM6A0X7	pravastatin	Approved	34.0	DMICA9H	sulfasalazine	.	.	Drug Interaction Potentiation	ClinicalTrials.gov	Phase 1	.					3
+DCJG3RL	DMPRI8G	buprenorphine	Approved	34.0	DMPRI8G	buprenorphine	Approved	34.0	DMPRI8G	buprenorphine	.	.	Back Pain Lower Back Chronic	ClinicalTrials.gov	Phase 3	.					3
+DCZAKYG	DM0659E	cannabidiol	Approved	34.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMUYKBZ	cyclosporin A	.	.	Graft vs Host Disease	ClinicalTrials.gov	Phase 2	.					3
+DCU4EJU	DM0659E	cannabidiol	Approved	34.0	DM70IK5	marinol	Approved	34.0	DMC7XDN	alprazolam	.	.	Cannabis Use Disorder	ClinicalTrials.gov	Phase 1	.					3
+DCYHVK0	DM0659E	cannabidiol	Approved	34.0	DM70IK5	marinol	Approved	34.0	DMKBJWP	caffeine	.	.	Behavioral Pharmacology of Cannabinoids	ClinicalTrials.gov	Phase 1	.					3
+DCTS3O4	DMQCTIH	digoxin	Approved	34.0	DMSMFN2	gSK2140944	Phase 3	25.0	DMXOELT	midazolam	.	.	Infections, Bacterial	ClinicalTrials.gov	Phase 1	.					3
+DCH4EHW	DM9BI7M	duloxetine	Approved	34.0	DMDVP3B	pregabalin	Approved	34.0	DMK7F9S	amitriptyline	.	.	Central Sensitisation	ClinicalTrials.gov	Phase 1	.					3
+DCZ4CHL	DM9BI7M	duloxetine	Approved	34.0	DMHD4PE	desvenlafaxine	Approved	34.0	DMR6QH0	venlafaxine	.	.	Depression	ClinicalTrials.gov	Phase 1	.					3
+DCQ001S	DM7VTQO	entecavir	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMM278X	adefovir	.	.	Hepatitis B virus infection	TTD Database	Investigative	.					3
+DCIKKUK	DM5PVQE	paroxetine	Approved	34.0	DM5PVQE	paroxetine	Approved	34.0	DM5PVQE	paroxetine	.	.	Depressive Disorder	ClinicalTrials.gov	Phase 1	.					3
+DCEALG2	DMLUA9D	simeprevir	Approved	34.0	DMQI86A	sofosbuvir	Approved	34.0	DMSL3DX	gS-5885	.	.	Hepatitis C, Chronic	ClinicalTrials.gov	Phase 2	.					3
+DCF1ADA	DMLUA9D	simeprevir	Approved	34.0	DMQI86A	sofosbuvir	Approved	34.0	DMSFK9V	daclatasvir	.	.	Hepatitis C, Chronic	ClinicalTrials.gov	Phase 2	.					3
+DCH4YYZ	DMLUA9D	simeprevir	Approved	34.0	DMQI86A	sofosbuvir	Approved	34.0	DMSFK9V	daclatasvir	.	.	Hepatitis C Virus	ClinicalTrials.gov	Phase 2	.					3
+DCQGYWA	DM89JLN	apixaban	Approved	34.0	DMCIJBH	dU-176B	Approved	34.0	DMLFO8K	rivaroxaban	.	.	Aortic Stenosis	ClinicalTrials.gov	Phase 3	.					3
+DCCZT3O	DM89JLN	apixaban	Approved	34.0	DMCIJBH	dU-176B	Approved	34.0	DMLFO8K	rivaroxaban	.	.	Atrial Fibrillation	ClinicalTrials.gov	Phase 1	.					3
+DCWOISJ	DM3NUMH	aripiprazole	Approved	34.0	DM7NPJS	paliperidone	Approved	34.0	DMN6DXL	risperidone	.	.	Immunoassay	ClinicalTrials.gov	Phase 1	.					3
+DCIWS8I	DMCEW64	ceftriaxone	Approved	34.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMS6UOE	azithromycin	.	.	Community-Acquired Pneumonia (CAP)	ClinicalTrials.gov	Phase 4	.					3
+DC1PHPP	DM08E9O	diazepam	Approved	34.0	DMOTQ1I	ondansetron	Approved	34.0	DMRQD04	tramadol	.	.	Cataract	ClinicalTrials.gov	Phase 1	.					3
+DCGH818	DMMQ8ZG	furosemide	Approved	34.0	DMRTSGP	amiloride	Approved	34.0	DMTL1DH	spironolactone	.	.	Hypertension Resistant to Conventional Therapy	ClinicalTrials.gov	Phase 4	.					3
+DCQ6FPL	DMMQ8ZG	furosemide	Approved	34.0	DMRV7H0	bumetanide	Approved	34.0	DMXKJ6C	torasemide	.	.	Heart Failure, Congestive	ClinicalTrials.gov	Phase 4	.					3
+DCLDL9I	DMMQ8ZG	furosemide	Approved	34.0	DM2AQ5N	spironolactone	Phase 3 Trial	25.0	DMZD5QR	cytarabine	.	.	AML	ClinicalTrials.gov	Phase 1	.					3
+DC0XZK2	DM2NQUY	indocyanine green	Approved	34.0	DM3SLZK	guanosine-5'-Monophosphate	Investigative	0.0	DMQTFAO	fluorescein	.	.	Gastrointestinal Diseases	ClinicalTrials.gov	Phase 1	.					3
+DCCZGAQ	DM2NQUY	indocyanine green	Approved	34.0	DML4ZOT	lidocaine	Approved	34.0	DMVXFYE	vinorelbine	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCK4JJ7	DM84ZXF	lorazepam	Approved	34.0	DMTO13J	clonazepam	Approved	34.0	DMW1OQ0	clobazam	.	.	Epilepsia Partialis Continua	ClinicalTrials.gov	Phase 3	.					3
+DCTG8ZX	DMD6UKO	nedaplatin	Approved	34.0	DMINOX3	vincristine	Approved	34.0	DMKECZD	temozolomide	.	.	Central Nervous System Tumors	ClinicalTrials.gov	Phase 2	.					3
+DCARCU8	DM0VQN3	ofloxacin	Approved	34.0	DMQ8FR2	prednisolone	Approved	34.0	DMV9ADG	pilocarpine	.	.	Glaucoma	ClinicalTrials.gov	Phase 3	.					3
+DCBDOQ5	DM0VQN3	ofloxacin	Approved	34.0	DM0VQN3	ofloxacin	Approved	34.0	DMCEW64	ceftriaxone	.	.	Acute Male Urinary Tract Infection	ClinicalTrials.gov	Phase 3	.					3
+DCIJN08	DM0VQN3	ofloxacin	Approved	34.0	DMQ8FR2	prednisolone	Approved	34.0	DMV9ADG	pilocarpine	.	.	Open Angle Glaucoma	ClinicalTrials.gov	Phase 3	.					3
+DCCBV19	DM1T6ZN	pacritinib	Approved	34.0	DMVRLT7	fludarabine	Approved	34.0	DMXYJ9C	busulfan	.	.	Myeloproliferative Diseases	ClinicalTrials.gov	Phase 2	.					3
+DCDFMNE	DM1T6ZN	pacritinib	Approved	34.0	DMQL8XJ	decitabine	Approved	34.0	DMTA5OE	azacitidine	.	.	Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCVK88R	DM31ZQM	tegafur	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMQNWRD	oxaliplatin	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC6WSTH	DM31ZQM	tegafur	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMQNWRD	oxaliplatin	.	.	Gastric Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC79T9J	DMHWE7P	ampicillin	Approved	34.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMUYNEI	amoxicillin	.	.	Preterm Premature Rupture of Membranes (PPROM)	ClinicalTrials.gov	Phase 3	.					3
+DCHJI8J	DMHWE7P	ampicillin	Approved	34.0	DMKINJO	gentamicin	Approved	34.0	DMKINJO	gentamicin	.	.	Nephrolithiasis	ClinicalTrials.gov	Phase 1	.					3
+DC5MGAN	DMC40SD	darexaban maleate	Discontinued in Phase 3	9.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMHKAF4	clopidogrel	.	.	Pharmacodynamic Interaction	ClinicalTrials.gov	Phase 1	.					3
+DCIH3MU	DM2TO9R	desflurane	Approved	34.0	DMVO0UB	alfentanil	Approved	34.0	DMY9BMK	rocuronium	.	.	Cerebral Ischemia	ClinicalTrials.gov	Phase 1	.					3
+DC09AZ0	DMDRQZU	ethanol	Approved	34.0	DMF8DNE	framycetin	Approved	34.0	DMTIVEN	metronidazole	.	.	Colorectal Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCBSMK1	DMDRQZU	ethanol	Approved	34.0	DMDRQZU	ethanol	Approved	34.0	DMDRQZU	ethanol	.	.	Alcohol Drinking	ClinicalTrials.gov	Phase 1	.					3
+DC9QNZV	DMOWZ6B	fluconazole	Approved	34.0	DMS60RB	levofloxacin	Approved	34.0	DMYLOVR	aciclovir	.	.	Stem Cell Transplant Complications	ClinicalTrials.gov	Phase 2	.					3
+DC1VUOM	DM8SXYG	lamotrigine	Approved	34.0	DMR1WBZ	lithium Carbonate	Approved	34.0	DMS49KH	valproic Acid	.	.	Bipolar Disorder	ClinicalTrials.gov	Phase 1	.					3
+DCYWN5X	DMQ2AIJ	lestaurtinib	Approved (orphan drug)	34.0	DMQ2AIJ	lestaurtinib	Approved (orphan drug)	34.0	DMQ2AIJ	lestaurtinib	.	.	Psoriasis	ClinicalTrials.gov	Phase 2	.					3
+DCTPGUA	DM3FXMA	naloxone	Approved	34.0	DM3KJBC	epinephrine	Approved	34.0	DMRMS0L	morphine	.	.	Diabetes Mellitus	ClinicalTrials.gov	Phase 2	.					3
+DC23SSD	DM3FXMA	naloxone	Approved	34.0	DMH7GN8	ramosetron	Approved	34.0	DMRMS0L	morphine	.	.	Postoperative Nausea and Vomiting	ClinicalTrials.gov	Phase 1	.					3
+DC54IXR	DM3FXMA	naloxone	Approved	34.0	DMICA9H	sulfasalazine	Approved	34.0	DMTEOOS	loperamide	.	.	Intestinal Obstruction	ClinicalTrials.gov	Phase 1	.					3
+DCSVZKV	DM6HX9B	nevirapine	Approved	34.0	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 4	.					3
+DCT6FBL	DM6HX9B	nevirapine	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMYURI6	raltegravir	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DC8AEJB	DMUY35B	progesterone	Phase 1 Trial	17.0	DMK0O7U	flutamide	Approved	34.0	DMUNTE3	estradiol	.	.	Polycystic Ovary Syndrome	ClinicalTrials.gov	Phase 1	.					3
+DCXY87G	DM8RLJ5	rAD-1901	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCJEIB5	DMAGFOD	semaglutide	Approved	34.0	DMMFWOJ	probenecid	Approved	34.0	DMUYKBZ	cyclosporin A	.	.	Diabetes	ClinicalTrials.gov	Phase 1	.					3
+DCPWALV	DMAGFOD	semaglutide	Approved	34.0	DMAGFOD	semaglutide	Approved	34.0	DMAGFOD	semaglutide	.	.	Diabetes Mellitus, Type 2	ClinicalTrials.gov	Phase 1	.					3
+DCTNXZH	DMAGFOD	semaglutide	Approved	34.0	DMF28YC	atorvastatin	Phase 3 Trial	25.0	DMQCTIH	digoxin	.	.	Diabetes	ClinicalTrials.gov	Phase 1	.					3
+DC65DT3	DMMUOLJ	varenicline	Approved	34.0	DMWX5CO	nicotine	Approved	34.0	DMWX5CO	nicotine	.	.	Smoking Cessation	ClinicalTrials.gov	Phase 2	.					3
+DCRZS8N	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	Approved	34.0	DMYURI6	raltegravir	.	.	HIV, Combination Therapy	ClinicalTrials.gov	Phase 4	.					3
+DC4NSKF	DMSYRBX	atazanavir	Approved	34.0	DMTL94F	maraviroc	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DCKM8IJ	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	Approved	34.0	DMYURI6	raltegravir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DCGCCUJ	DMKBJWP	caffeine	Approved	34.0	DMPIHLS	diclofenac	Approved	34.0	DMUIE76	acetaminophen	.	.	Post-Dural Puncture Headache	ClinicalTrials.gov	Phase 4	.					3
+DC6FI90	DMBQYO0	casopitant	Withdrawn from market	12.0	DMBQYO0	casopitant	Withdrawn from market	12.0	DMPZI3Q	ketoconazole	.	.	Nausea and Vomiting, Chemotherapy-Induced	ClinicalTrials.gov	Phase 1	.					3
+DC4EXXO	DMPIHLS	diclofenac	Approved	34.0	DMRMS0L	morphine	Approved	34.0	DMUIE76	acetaminophen	.	.	Trauma	ClinicalTrials.gov	Phase 1	.					3
+DC3FDGY	DMCIJBH	dU-176B	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMHKAF4	clopidogrel	.	.	Coronary Artery Disease	ClinicalTrials.gov	Phase 4	.					3
+DC8931X	DMGV8QU	etravirine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	Acute HIV Infection	ClinicalTrials.gov	Phase 4	.					3
+DC5AHVN	DMGV8QU	etravirine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	Human Immunodeficiency Virus (HIV)	ClinicalTrials.gov	Phase 2	.					3
+DC70SA6	DMGV8QU	etravirine	Approved	34.0	DMTL94F	maraviroc	Approved	34.0	DMYURI6	raltegravir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DC7ZBPE	DMGV8QU	etravirine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DCV1JJ5	DMGV8QU	etravirine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMYURI6	raltegravir	.	.	HIV-1 Infection	ClinicalTrials.gov	Phase 1	.					3
+DCPI6UX	DMGV8QU	etravirine	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV/AIDS	ClinicalTrials.gov	Phase 1	.					3
+DCDIRKH	DM62UHC	meropenem	Approved	34.0	DMKMBES	plazomicin	Approved	34.0	DMLE7IO	tigecycline	.	.	Bloodstream Infections (BSI) Due to CRE	ClinicalTrials.gov	Phase 3	.					3
+DCL12QF	DM62UHC	meropenem	Approved	34.0	DMLE7IO	tigecycline	Approved	34.0	DMZ9BMU	colistimethate	.	.	Bloodstream Infections (BSI) Due to CRE	ClinicalTrials.gov	Phase 3	.					3
+DCUTFEA	DMM39BF	mitoxantrone	Approved	34.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia (AML)	ClinicalTrials.gov	Phase 2	.					3
+DC6TUBF	DMM39BF	mitoxantrone	Approved	34.0	DMTA5OE	azacitidine	Approved	34.0	DMZD5QR	cytarabine	.	.	Adult Acute Megakaryoblastic Leukemia (M7)	ClinicalTrials.gov	Phase 1	.					3
+DCABJX7	DMNOKBV	phenytoin	Approved	34.0	DMS49KH	valproic Acid	Investigative	0.0	DMZOLBI	carbamazepine	.	.	Drug Resistant Epilepsy	ClinicalTrials.gov	Phase 4	.					3
+DCWDX6A	DM1TKG4	rDEA3170	Phase 2	21.0	DMDEXQ0	febuxostat	Approved	34.0	DMF03DT	dapagliflozin	.	.	Asymptomatic Hyperuricemia	ClinicalTrials.gov	Phase 2	.					3
+DCBEYYR	DM1TKG4	rDEA3170	Phase 2	21.0	DMLPAOB	allopurinol	Approved	34.0	DMUYKBZ	cyclosporin A	.	.	Chronic Kidney Disease	ClinicalTrials.gov	Phase 1	.					3
+DCTK4K9	DM1TKG4	rDEA3170	Phase 2	21.0	DM5DSFZ	rifampicin	Approved	34.0	DMLPAOB	allopurinol	.	.	Chronic Kidney Disease	ClinicalTrials.gov	Phase 1	.					3
+DC8B0DI	DM2ET1M	succinylcholine	Approved	34.0	DMP0UK2	vecuronium	Approved	34.0	DMY9BMK	rocuronium	.	.	Anesthesia	ClinicalTrials.gov	Phase 4	.					3
+DC12ZVN	DM1XT4N	tafenoquine	Approved	34.0	DM48QOT	artemether	Approved	34.0	DMSI5CB	chloroquine	.	.	Plasmodium Vivax Malaria	ClinicalTrials.gov	Phase 4	.					3
+DCH4DDM	DM1XT4N	tafenoquine	Approved	34.0	DMSI5CB	chloroquine	Approved	34.0	DMSI5CB	chloroquine	.	.	Malaria, Vivax	ClinicalTrials.gov	Phase 2	.					3
+DCOJF9R	DM1D90W	tropicamide	Approved	34.0	DMLS39E	proparacaine	Approved	34.0	DMV9ADG	pilocarpine	.	.	Anisocoria	ClinicalTrials.gov	Phase 4	.					3
+DCJRD6A	DM1D90W	tropicamide	Approved	34.0	DMQLT4N	brimonidine	Approved	34.0	DMZHUO5	phenylephrine	.	.	Intraocular Pressure	ClinicalTrials.gov	Phase 1	.					3
+DCMPJLB	DM7EVUF	aBL001	Approved	34.0	DM7EVUF	aBL001	Approved	34.0	DM7EVUF	aBL001	.	.	Chronic Myelogenous Leukemia	ClinicalTrials.gov	Phase 3	.					3
+DC1333J	DM8WI3R	alogliptin	Approved	34.0	DMGDKXN	sitagliptin	Approved	34.0	DMYN59P	vildagliptin	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 1	.					3
+DCCNNIS	DM8QM5U	anidulafungin	Approved	34.0	DMAOL2S	voriconazole	Approved	34.0	DMOWZ6B	fluconazole	.	.	Invasive Candidiasis	ClinicalTrials.gov	Phase 3	.					3
+DC7YHXU	DM5NW1E	beclomethasone dipropionate	Phase 4	31.0	DMJIBAW	budesonide	Phase 3 Trial	25.0	DMSOURV	formoterol	.	.	Chronic Obstructive Pulmonary Disease	ClinicalTrials.gov	Phase 3	.					3
+DC6SBHH	DM41GRA	ceftazidime	Approved	34.0	DM62UHC	meropenem	Approved	34.0	DMUI0CH	tobramycin	.	.	Cystic Fibrosis	ClinicalTrials.gov	Phase 4	.					3
+DC687OQ	DMOMP9U	cetirizine	Approved	34.0	DMUIE76	acetaminophen	Approved	34.0	DMWXZH1	famotidine	.	.	Glycogen Storage Disease Type III	ClinicalTrials.gov	Phase 1	.					3
+DC23QN8	DMMIHVP	dextroamphetamine	Approved	34.0	DMN6DXL	risperidone	Approved	34.0	DMS49KH	valproic Acid	.	.	Attention Deficit Disorder With Hyperactivity	ClinicalTrials.gov	Phase 4	.					3
+DCKDD7Y	DM4K7GQ	erythromycin	Approved	34.0	DMHWE7P	ampicillin	Approved	34.0	DMUYNEI	amoxicillin	.	.	Preterm Premature Rupture of Membranes (PPROM)	ClinicalTrials.gov	Phase 3	.					3
+DCE4W6M	DM4K7GQ	erythromycin	Approved	34.0	DMAOL2S	voriconazole	Approved	34.0	DMYZJGB	ibrutinib	.	.	B-Cell Chronic Lymphocytic Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCZKJWP	DM2CUS0	f901318	Phase 2	21.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMZ7XNQ	tacrolimus	.	.	Invasive Aspergillosis	ClinicalTrials.gov	Phase 1	.					3
+DC0JRWJ	DMBZ27L	favipiravir	Registered	33.0	DMITQS0	lopinavir	Approved	34.0	DMU764S	ritonavir	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 3	.					3
+DCRI0V4	DM17ONX	fexofenadine	Approved	34.0	DMXOELT	midazolam	Approved	34.0	DMYMS40	colchicine	.	.	Gout Flare	ClinicalTrials.gov	Phase 4	.					3
+DCUFLUR	DMAQ469	gonadorelin	Approved	34.0	DMBY56U	eXISULIND	Phase 3	25.0	DMK0O7U	flutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCGWYPM	DMK8U72	labetalol	Approved	34.0	DMNFUZR	enalapril	Approved	34.0	DMU8JGH	hydralazine	.	.	Stroke, Acute	ClinicalTrials.gov	Phase 2	.					3
+DCFSHSV	DMK8U72	labetalol	Approved	34.0	DMNKG1Z	atenolol	Approved	34.0	DMSVOZT	nifedipine	.	.	Obesity, Morbid	ClinicalTrials.gov	Phase 1	.					3
+DC51VK7	DM6IR3P	liothyronine	Approved	34.0	DMGB5RE	tranylcypromine	Approved	34.0	DMMIHVP	dextroamphetamine	.	.	Major Depression	ClinicalTrials.gov	Phase 4	.					3
+DCFHZH4	DM6IR3P	liothyronine	Approved	34.0	DMGN5QD	protirelin	Approved	34.0	DMHN027	levothyroxine	.	.	Subclinical Hypothyroidism	ClinicalTrials.gov	Phase 1	.					3
+DCTURSU	DMCLWDJ	lumacaftor	Phase 2	21.0	DMCR1MV	itraconazole	Approved	34.0	DMZC1HS	ivacaftor	.	.	Cystic Fibrosis	ClinicalTrials.gov	Phase 1	.					3
+DCFCWYM	DM0798Z	nLG8189	Phase 2/3	24.0	DMKECZD	temozolomide	Approved	34.0	DMMWSUL	lomustine	.	.	Glioblastoma	ClinicalTrials.gov	Phase 2	.					3
+DC28T66	DMOUC09	norepinephrine	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMZTXCH	remifentanil	.	.	Hemodynamic Instability	ClinicalTrials.gov	Phase 4	.					3
+DC5CI57	DM3Q1SM	obeticholic acid	Approved	34.0	DM3Q1SM	obeticholic acid	Approved	34.0	DM3Q1SM	obeticholic acid	.	.	Biliary Atresia	ClinicalTrials.gov	Phase 2	.					3
+DC2FWU4	DM4N7BT	paritaprevir	Phase 2	21.0	DMQIMTK	ombitasvir	Phase 4	31.0	DMU764S	ritonavir	.	.	Hepatitis C virus infection	TTD Database	Approved	.					3
+DC3CYMQ	DM4N7BT	paritaprevir	Phase 2	21.0	DMQIMTK	ombitasvir	Phase 4	31.0	DMU764S	ritonavir	.	.	Hepatitis C Virus	ClinicalTrials.gov	Phase 2	.					3
+DCC5U45	DM1N62C	quetiapine	Approved	34.0	DMN6DXL	risperidone	Approved	34.0	DMPFN6Y	olanzapine	.	.	Bipolar Disorder	ClinicalTrials.gov	Phase 4	.					3
+DCCGTQH	DM1N62C	quetiapine	Approved	34.0	DMN6DXL	risperidone	Approved	34.0	DMPFN6Y	olanzapine	.	.	Schizophrenia	ClinicalTrials.gov	Phase 4	.					3
+DCXCB60	DM1N62C	quetiapine	Approved	34.0	DM3NUMH	aripiprazole	Approved	34.0	DMPFN6Y	olanzapine	.	.	Schizophrenia	ClinicalTrials.gov	Phase 1	.					3
+DCJHKTX	DM6DEK9	stavudine	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMITQS0	lopinavir	.	.	HIV	ClinicalTrials.gov	Phase 4	.					3
+DCZFBRA	DM6DEK9	stavudine	Approved	34.0	DMC0GSJ	efavirenz	Approved	34.0	DMI347A	lamivudine	.	.	HIV	ClinicalTrials.gov	Phase 4	.					3
+DCHL064	DM6DEK9	stavudine	Approved	34.0	DMI347A	lamivudine	Approved	34.0	DMITQS0	lopinavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 1	.					3
+DC04760	DMC7XDN	alprazolam	Approved	34.0	DMKBJWP	caffeine	Approved	34.0	DMWOSKJ	zolpidem	.	.	Psychotropic Drugs Effects	ClinicalTrials.gov	Phase 1	.					3
+DC37J6Q	DM2LU8M	aP1903	Phase 1/2	19.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMVRLT7	fludarabine	.	.	Lymphoma	ClinicalTrials.gov	Phase 1	.					3
+DC7IT1W	DM2LU8M	aP1903	Phase 1/2	19.0	DM4O2Z7	cyclophosphamide	Approved	34.0	DMVRLT7	fludarabine	.	.	Myeloma-Multiple	ClinicalTrials.gov	Phase 1	.					3
+DCTW8J5	DM1CI9R	bempedoic acid	Approved	34.0	DM7A8TW	ezetimibe	Approved	34.0	DMBR0QK	atorvastatin	.	.	Hypercholesterolemia	ClinicalTrials.gov	Phase 2	.					3
+DCJW560	DM7W94S	brigatinib	Approved	34.0	DMB920Z	ceritinib	Approved	34.0	DMICDLV	lorlatinib	.	.	Lung Non-Squamous Non-Small Cell Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCL0ZQE	DM0L6E1	cycloleucine	Investigative	0.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMP6SC2	irinotecan	.	.	Extensive Stage Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCPSSFJ	DM0L6E1	cycloleucine	Investigative	0.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMP6G8T	topotecan	.	.	Extensive Stage Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC6PKYB	DMF8DNE	framycetin	Approved	34.0	DMLE7IO	tigecycline	Approved	34.0	DMVGPMX	fosfomycin	.	.	Antibiotic Resistant Infection	ClinicalTrials.gov	Phase 1	.					3
+DCKKHBI	DMKWCTR	gS-9973	Phase 2	21.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Hematologic Malignancy	ClinicalTrials.gov	Phase 1	.					3
+DCKP0X6	DMKWCTR	gS-9973	Phase 2	21.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCRCOBS	DMKWCTR	gS-9973	Phase 2	21.0	DMQL8XJ	decitabine	Approved	34.0	DMTA5OE	azacitidine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCPQ5DJ	DM4O90W	insulin-lispro	Approved	34.0	DMGDKXN	sitagliptin	Approved	34.0	DMR4HIW	insulin-glargine	.	.	Type 2 Diabetes	ClinicalTrials.gov	Phase 4	.					3
+DCEMS9W	DMMX75K	lEE011	Phase 3	25.0	DMMX75K	lEE011	Phase 3	25.0	DMZMSPF	bicalutamide	.	.	Triple Negative Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCKZ2RP	DMTGDN8	levetiracetam	Approved	34.0	DMTGDN8	levetiracetam	Approved	34.0	DMTGDN8	levetiracetam	.	.	Generalized Epilepsy	ClinicalTrials.gov	Phase 3	.					3
+DCASDHE	DMTGDN8	levetiracetam	Approved	34.0	DMVRLT7	fludarabine	Approved	34.0	DMXYJ9C	busulfan	.	.	Hematologic Disorders	ClinicalTrials.gov	Phase 1	.					3
+DCXEDGK	DM79GRO	metamizole	Withdrawn from market	12.0	DMRQD04	tramadol	Approved	34.0	DMSPJG2	ropivacaine	.	.	Lumbar Disc Disease	ClinicalTrials.gov	Phase 1	.					3
+DC1N1VM	DM25FL8	methimazole	Approved	34.0	DM6IR3P	liothyronine	Approved	34.0	DMMWSUL	lomustine	.	.	Recurrent Glioblastoma	ClinicalTrials.gov	Phase 1	.					3
+DC50VO4	DMTIVEN	metronidazole	Approved	34.0	DMXYLQ3	lansoprazole	Approved	34.0	DMZA017	tetracycline	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DCR8JVT	DMGZQEF	mifepristone	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMHVJFK	misoprostol	.	.	Complete Abortion	ClinicalTrials.gov	Phase 1	.					3
+DCKTBEW	DM7PQIK	nitrofurantoin	Approved	34.0	DMHWE7P	ampicillin	Approved	34.0	DMKINJO	gentamicin	.	.	Nephrolithiasis	ClinicalTrials.gov	Phase 1	.					3
+DC93IT0	DM62B78	olodaterol	Approved	34.0	DM62B78	olodaterol	Approved	34.0	DM62B78	olodaterol	.	.	Pulmonary Disease, Chronic Obstructive	ClinicalTrials.gov	Phase 3	.					3
+DCJ5RWE	DM6VZFQ	pirfenidone	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCYXR41	DMD4XOS	povidone-iodine	Approved	34.0	DMQ9MVG	chlorhexidine	Approved	34.0	DMWX683	mupirocin	.	.	Staphylococcus Aureus	ClinicalTrials.gov	Phase 1	.					3
+DCJVCIS	DMD4XOS	povidone-iodine	Approved	34.0	DML5O0H	2-Propanol, Isopropanol	Investigative	0.0	DMQ9MVG	chlorhexidine	.	.	Cleaning Product Causing Toxic Effect	ClinicalTrials.gov	Phase 1	.					3
+DC8ESGK	DM6D7N8	propylthiouracil	Approved	34.0	DMA4MRX	perphenazine	Approved	34.0	DMXBLMP	riociguat	.	.	Ischemic Stroke, Acute	ClinicalTrials.gov	Phase 2	.					3
+DCMBRZA	DM6D7N8	propylthiouracil	Approved	34.0	DMHN027	levothyroxine	Approved	34.0	DMULAI4	carbimazole	.	.	Paediatric Thyrotoxicosis	ClinicalTrials.gov	Phase 1	.					3
+DC5KN8C	DM0GUSX	ranitidine	Approved	34.0	DM471KJ	omeprazole	Approved	34.0	DMSVOCZ	pantoprazole	.	.	Eustachian Tube Dysfunction	ClinicalTrials.gov	Phase 4	.					3
+DC5B6G0	DM0GUSX	ranitidine	Approved	34.0	DM6AUHV	fostamatinib	Approved	34.0	DM6AUHV	fostamatinib	.	.	Pharmacokinetics	ClinicalTrials.gov	Phase 1	.					3
+DCV6J8R	DMLVSYX	remimazolam	Approved	34.0	DMVU687	esketamine	Phase 3	25.0	DMZTXCH	remifentanil	.	.	Drug Effect	ClinicalTrials.gov	Phase 1	.					3
+DC3ZDJY	DMF5GZI	rG7388	Phase 3	25.0	DMQUSBT	daunorubicin	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCZOJRY	DMY9BMK	rocuronium	Approved	34.0	DMY9BMK	rocuronium	Approved	34.0	DMZNRU6	sevoflurane	.	.	Anesthesia	ClinicalTrials.gov	Phase 3	.					3
+DCICI62	DMG814N	saquinavir	Approved	34.0	DMTL94F	maraviroc	Approved	34.0	DMU764S	ritonavir	.	.	Human Immunodeficiency Virus (HIV) Infection	ClinicalTrials.gov	Phase 4	.					3
+DCEB4LO	DMGXENV	saxagliptin	Approved	34.0	DMGXENV	saxagliptin	Approved	34.0	DMGXENV	saxagliptin	.	.	Diabetes Mellitus, Non-Insulin-Dependent	ClinicalTrials.gov	Phase 4	.					3
+DCZRT6E	DMG592Q	solifenacin	Approved	34.0	DMG592Q	solifenacin	Approved	34.0	DMZNO79	trospium	.	.	Urge Urinary Incontinence	ClinicalTrials.gov	Phase 3	.					3
+DC5SDH7	DM2KQ71	sutezolid	Phase 2	21.0	DM3906J	bedaquiline	Approved	34.0	DMDYA31	pretomanid	.	.	Tuberculosis	ClinicalTrials.gov	Phase 2	.					3
+DC0T79H	DM3G74J	tamibarotene	Phase 3	25.0	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 2	.					3
+DCIR270	DMGP8AX	thiopental	Approved	34.0	DMY9BMK	rocuronium	Approved	34.0	DMZTXCH	remifentanil	.	.	Adverse Effect of Other General Anesthetics	ClinicalTrials.gov	Phase 1	.					3
+DCEDCHE	DMIZKOP	thiotepa	Approved	34.0	DMVRLT7	fludarabine	Approved	34.0	DMXYJ9C	busulfan	.	.	Acute Myeloid Leukaemia	ClinicalTrials.gov	Phase 2	.					3
+DCL1TVN	DMIZKOP	thiotepa	Approved	34.0	DMOLNHF	melphalan	Phase 2 Trial	21.0	DMVRLT7	fludarabine	.	.	Hematologic Malignancies	ClinicalTrials.gov	Phase 1	.					3
+DCHRRAY	DMFDC0Q	tiotropium	Approved	34.0	DMGCSVF	fluticasone	Approved	34.0	DMIEU69	salmeterol	.	.	Pulmonary Disease, Chronic Obstructive	ClinicalTrials.gov	Phase 2	.					3
+DCYVSS2	DMA16BR	vorapaxar	Approved	34.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMHKAF4	clopidogrel	.	.	Myocardial Infarction	ClinicalTrials.gov	Phase 4	.					3
+DCBID3N	DM0DTF7	zonisamide	Approved	34.0	DM0DTF7	zonisamide	Approved	34.0	DMPFN6Y	olanzapine	.	.	Weight Gain	ClinicalTrials.gov	Phase 3	.					3
+DCKOFPV	DM0DTF7	zonisamide	Approved	34.0	DM8SXYG	lamotrigine	Approved	34.0	DMTGDN8	levetiracetam	.	.	Epilepsy	ClinicalTrials.gov	Phase 1	.					3
+DC37XA4	DM6SGUB	amrubicin	Phase 3	25.0	DMEFRTZ	lurbinectedin	Approved	34.0	DMP6G8T	topotecan	.	.	Small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC8P6ID	DM6SGUB	amrubicin	Phase 3	25.0	DMEFRTZ	lurbinectedin	Approved	34.0	DMP6G8T	topotecan	.	.	Small Cell Lung Cancer (SCLC)	ClinicalTrials.gov	Phase 3	.					3
+DCA20IL	DM42HXN	atracurium	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMZNRU6	sevoflurane	.	.	Pediatric Patients	ClinicalTrials.gov	Phase 1	.					3
+DCPE2SO	DM3UZ95	bisoprolol	Approved	34.0	DMN9CWF	salbutamol	Approved	34.0	DMQ2491	nitroglycerin	.	.	Primary Hypertension	ClinicalTrials.gov	Phase 1	.					3
+DCT2R6D	DMMEAGO	bMS-955176	Phase 2	21.0	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	.	.	Infection, Human Immunodeficiency Virus	ClinicalTrials.gov	Phase 2	.					3
+DC477CF	DM2NA4K	ciclesonide	Phase 3 Trial	25.0	DMFDC0Q	tiotropium	Approved	34.0	DMIEU69	salmeterol	.	.	Pulmonary Disease, Chronic Obstructive	ClinicalTrials.gov	Phase 2	.					3
+DCGA62Z	DMLMOIJ	cyproterone acetate	Phase 4	31.0	DMTK4LS	triptorelin	Approved	34.0	DMUNTE3	estradiol	.	.	Gender Dysphoria	ClinicalTrials.gov	Phase 4	.					3
+DCN9CYR	DMLMOIJ	cyproterone acetate	Phase 4	31.0	DMUNTE3	estradiol	Approved	34.0	DMWV3TZ	finasteride	.	.	Transsexualism	ClinicalTrials.gov	Phase 4	.					3
+DC0QK6O	DMSFK9V	daclatasvir	Approved	34.0	DMSYRBX	atazanavir	Approved	34.0	DMU764S	ritonavir	.	.	Hepatitis C	ClinicalTrials.gov	Phase 1	.					3
+DCGDKFQ	DM4LT8A	dapsone	Approved	34.0	DMMZSXQ	azathioprine	Approved	34.0	DMYMS40	colchicine	.	.	Primary Cutaneous Vasculitis	ClinicalTrials.gov	Phase 2	.					3
+DC8YVY0	DM5YF4M	droxidopa	Approved	34.0	DMHRG8Q	carbidopa	Approved	34.0	DMLBVKQ	entacapone	.	.	Parkinson Disease	ClinicalTrials.gov	Phase 1	.					3
+DCRENW9	DMQ4TJK	dutasteride	Approved	34.0	DMWV3TZ	finasteride	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCCTODU	DMB2C0E	elagolix	Phase 3	25.0	DMUY35B	progesterone	Phase 1 Trial	17.0	DMUNTE3	estradiol	.	.	Heavy Uterine Bleeding	ClinicalTrials.gov	Phase 2	.					3
+DCCD494	DM7YPM1	enfuvirtide	Approved	34.0	DM8HJX6	tipranavir	Approved	34.0	DMU764S	ritonavir	.	.	HIV Infections	ClinicalTrials.gov	Phase 3	.					3
+DCZU0QS	DMMPTLH	entrectinib	Approved	34.0	DMMPTLH	entrectinib	Approved	34.0	DMMPTLH	entrectinib	.	.	Solid Tumor	ClinicalTrials.gov	Phase 1	.					3
+DCHNIUN	DM8MC6O	estradiol valerate	Approved	34.0	DMUY35B	progesterone	Phase 1 Trial	17.0	DMTK4LS	triptorelin	.	.	Infertility	ClinicalTrials.gov	Phase 4	.					3
+DCY4KNM	DM0G5O6	flumatinib	Phase 2	21.0	DM8I94Y	venetoclax	Approved	34.0	DMTA5OE	azacitidine	.	.	Philadelphia Chromosome	ClinicalTrials.gov	Phase 2	.					3
+DCCY14E	DM2HKC4	fluorometholone	Approved	34.0	DMUI0CH	tobramycin	Approved	34.0	DMYLOVR	aciclovir	.	.	Corneal Ulcer	ClinicalTrials.gov	Phase 1	.					3
+DCW83WS	DMQTJSX	fluvoxamine	Phase 2 Trial	21.0	DMPZI3Q	ketoconazole	Approved	34.0	DMTGBAX	pomalidomide	.	.	Pharmacology, Clinical	ClinicalTrials.gov	Phase 1	.					3
+DCJN7YB	DM1B3UM	gDC-0152	Phase 1	17.0	DMKBJWP	caffeine	Approved	34.0	DMXOELT	midazolam	.	.	Amyotrophic Lateral Sclerosis	ClinicalTrials.gov	Phase 1	.					3
+DCIATLI	DMHY3IP	lobeglitazone	Approved	34.0	DMRF9YK	empagliflozin	Approved	34.0	DMRF9YK	empagliflozin	.	.	Diabetes Mellitus, Type II	ClinicalTrials.gov	Phase 1	.					3
+DCZBO4J	DM215WE	mK-1439	Approved	34.0	DM5JVS3	isoniazid	Approved	34.0	DMCHV4I	rifapentine	.	.	Latent Tuberculosis	ClinicalTrials.gov	Phase 1	.					3
+DCB58IY	DMF98Q0	momelotinib	Approved	34.0	DMQNWRD	oxaliplatin	Approved	34.0	DMTS85L	capecitabine	.	.	Relapsed/Refractory Metastatic Pancreatic Ductal Adenocarcinoma	ClinicalTrials.gov	Phase 1	.					3
+DCMYOWJ	DM1XBHS	pentazocine	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMZI3WO	etomidate	.	.	Induced Abortion	ClinicalTrials.gov	Phase 4	.					3
+DCGSO65	DMQMBZ1	rivaroxaban	Phase 3 Trial	25.0	DMQMBZ1	rivaroxaban	Phase 3 Trial	25.0	DMLFO8K	rivaroxaban	.	.	Atrial Fibrillation	ClinicalTrials.gov	Phase 1	.					3
+DCD3PZ2	DMMC45B	teriparatide	Approved	34.0	DMMC45B	teriparatide	Approved	34.0	DMY2KX9	alendronate	.	.	Osteoporosis	ClinicalTrials.gov	Phase 1	.					3
+DCN44GQ	DM02AWV	tolbutamide	Approved	34.0	DMS2J0Z	pexidartinib	Approved	34.0	DMXOELT	midazolam	.	.	Drug Interaction Potential	ClinicalTrials.gov	Phase 1	.					3
+DC2XDAZ	DMSHPW8	tolterodine	Approved	34.0	DMTO13J	clonazepam	Approved	34.0	DMW1OQ0	clobazam	.	.	Pain	ClinicalTrials.gov	Phase 3	.					3
+DC4U2ZP	DM98IXF	triamcinolone	Approved	34.0	DML4ZOT	lidocaine	Approved	34.0	DMPT8KQ	ethyl chloride	.	.	Shoulder Pain	ClinicalTrials.gov	Phase 4	.					3
+DCMUHUU	DM5FL14	amifostine	Approved	34.0	DMP6SC2	irinotecan	Approved	34.0	DMTS85L	capecitabine	.	.	Locally Advanced Rectal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCMYP1Y	DM5FL14	amifostine	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Chemotherapeutic Agent Toxicity	ClinicalTrials.gov	Phase 2	.					3
+DC78BD9	DMUYNEI	amoxicillin	Approved	34.0	DMXYLQ3	lansoprazole	Approved	34.0	DMZA017	tetracycline	.	.	Functional Dyspepsia	ClinicalTrials.gov	Phase 4	.					3
+DC13J29	DMDI43Y	bGB-324	Phase 2	21.0	DMQL8XJ	decitabine	Approved	34.0	DMZD5QR	cytarabine	.	.	Acute Myeloid Leukemia	ClinicalTrials.gov	Phase 1	.					3
+DCZ8GI2	DMEB837	cefotaxime	Approved	34.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMUYNEI	amoxicillin	.	.	Cirrhosis	ClinicalTrials.gov	Phase 4	.					3
+DC0X60D	DM4V8WF	cenicriviroc	Phase 2	21.0	DMCZGRE	dolutegravir	Approved	34.0	DMXOELT	midazolam	.	.	HIV-infection/AIDS	ClinicalTrials.gov	Phase 1	.					3
+DC83NZ2	DMFC71L	clozapine	Approved	34.0	DMPFN6Y	olanzapine	Approved	34.0	DMS3GX2	telmisartan	.	.	Schizophrenia	ClinicalTrials.gov	Phase 4	.					3
+DCMIAKM	DM20MDU	danoprevir	Phase 2	21.0	DMU764S	ritonavir	Approved	34.0	DMYTKF5	interferon	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 2	.					3
+DC9KTN8	DMUQE2A	dexmethylphenidate	Approved	34.0	DMUQE2A	dexmethylphenidate	Approved	34.0	DMUQE2A	dexmethylphenidate	.	.	ADHD	ClinicalTrials.gov	Phase 3	.					3
+DCXKHL5	DM0VEC1	ergonovine	Approved	34.0	DMDL27I	oxytocin	Phase 2 Trial	21.0	DMUSLW3	carbetocin	.	.	Postpartum Hemorrhage	ClinicalTrials.gov	Phase 1	.					3
+DCQY3BG	DMAIL4L	fludeoxyglucose F 18	Approved	34.0	DMCBJSR	sunitinib	Approved	34.0	DMJ62BV	gadopentetate dimeglumine	.	.	Kidney Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCN6T6Z	DM0JETC	genistein	Phase 2/3	24.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Carcinoma, Non-Small-Cell Lung	ClinicalTrials.gov	Phase 1	.					3
+DC0G5CJ	DMQ2JO5	hydrocodone	Approved	34.0	DMRQD04	tramadol	Approved	34.0	DMXLKHV	oxycodone	.	.	Intra-abdominal Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCHANHN	DMF8Y74	hydroxyzine	Approved	34.0	DMX4GND	meperidine	Approved	34.0	DMXOELT	midazolam	.	.	Dental Caries in Children	ClinicalTrials.gov	Phase 4	.					3
+DCF750H	DMIGFOR	i3C	Phase 3	25.0	DMSH4DG	silibinin	Phase 2/3	24.0	DMSH4DG	silibinin	.	.	Smoking	ClinicalTrials.gov	Phase 1	.					3
+DC9J6WW	DM88FNL	meglumine gadoterate	Approved	34.0	DMRGSKK	gadoteridol	Approved	34.0	DMYQ9SX	gadobutrol	.	.	Motor Function	ClinicalTrials.gov	Phase 4	.					3
+DCFFSPE	DM5I621	methyldopa	Approved	34.0	DMK8U72	labetalol	Approved	34.0	DMSVOZT	nifedipine	.	.	Hypertension, Pregnancy-Induced	ClinicalTrials.gov	Phase 4	.					3
+DCH06VR	DM3PSUF	mK-3102	Phase 3	25.0	DM5FSJA	glimepiride	Approved	34.0	DMDASC6	metformin	.	.	Type 2 Diabetes Mellitus	ClinicalTrials.gov	Phase 3	.					3
+DC8XNAO	DMCDYW7	nicardipine	Approved	34.0	DMK8U72	labetalol	Approved	34.0	DMU8JGH	hydralazine	.	.	Acute Stroke	ClinicalTrials.gov	Phase 2	.					3
+DC45YKA	DMHIDCJ	octreotide	Approved	34.0	DMKECZD	temozolomide	Approved	34.0	DMTS85L	capecitabine	.	.	Midgut Neuroendocrine Tumours	ClinicalTrials.gov	Phase 2	.					3
+DCJXIS7	DM5PU6O	oxcarbazepine	Approved	34.0	DM8SXYG	lamotrigine	Approved	34.0	DMW1OQ0	clobazam	.	.	Drug Resistant Epilepsy	ClinicalTrials.gov	Phase 4	.					3
+DCZY7N4	DMKQF4U	oxilan iohexol	Approved	34.0	DML4ZOT	lidocaine	Approved	34.0	DMMIU2C	methylprednisolone	.	.	Chronic Low-back Pain	ClinicalTrials.gov	Phase 1	.					3
+DCIPJIR	DMRAFBK	pF-04958242	Phase 2	21.0	DMRAFBK	pF-04958242	Phase 2	21.0	DMRAFBK	pF-04958242	.	.	Schizophrenia	ClinicalTrials.gov	Phase 1	.					3
+DCJ3HP0	DMJH792	pitavastatin	Approved	34.0	DMN3GCH	darunavir	Approved	34.0	DMU764S	ritonavir	.	.	Hyperlipidemia	ClinicalTrials.gov	Phase 1	.					3
+DCL9R5K	DMRTD16	talinolol	Investigative	0.0	DMUIE76	acetaminophen	Approved	34.0	DMUYNEI	amoxicillin	.	.	Gastrointestinal Motility Disorder	ClinicalTrials.gov	Phase 1	.					3
+DCBQPX7	DMMRV29	telaprevir	Approved	34.0	DMZ7XNQ	tacrolimus	Approved	34.0	DMZ7XNQ	tacrolimus	.	.	Hepatitis C	ClinicalTrials.gov	Phase 1	.					3
+DCDSQM9	DMMRV29	telaprevir	Approved	34.0	DMUYKBZ	cyclosporin A	Phase 2 Trial	21.0	DMUYKBZ	cyclosporin A	.	.	Hepatitis C	ClinicalTrials.gov	Phase 1	.					3
+DCHL0RG	DM7Q4EX	temanogrel	Phase 1	17.0	DM672AH	aspirin	Phase 3 Trial	25.0	DMHKAF4	clopidogrel	.	.	Acute Coronary Syndrome	ClinicalTrials.gov	Phase 1	.					3
+DCV09V7	DM7J6OR	tocilizumab	Phase 3 Trial	25.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMXZAL2	hydroxychloroquine	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 2	.					3
+DCXKIA6	DM7J6OR	tocilizumab	Phase 3 Trial	25.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMV23CY	mefloquine	.	.	Coronavirus Disease 2019 (COVID-19)	TTD Database	Phase 2	.					3
+DCXRSDN	DM20K91	travoprost	Approved	34.0	DMMWZET	dexamethasone	Phase 3 Trial	25.0	DMUI0CH	tobramycin	.	.	Open-angle Glaucoma	ClinicalTrials.gov	Phase 4	.					3
+DC981UX	DM0KCV1	trientine Hydrochloride	Approved	34.0	DM0KCV1	trientine Hydrochloride	Approved	34.0	DM40EF6	penicillamine	.	.	Wilson Disease	ClinicalTrials.gov	Phase 3	.					3
+DCR8D4X	DM0KCV1	trientine Hydrochloride	Approved	34.0	DM40EF6	penicillamine	Approved	34.0	DM40EF6	penicillamine	.	.	Wilson Disease	ClinicalTrials.gov	Phase 3	.					3
+DC7XZZ6	DMFMBZ4	zanamivir	Investigative	0.0	DMFMBZ4	zanamivir	Investigative	0.0	DM8RBZT	zanamivir	.	.	Influenza A Virus, H1N1 Subtype	ClinicalTrials.gov	Phase 1	.					3
+DCDHS4Z	DM9AJRB	zinc Sulfate	Approved	34.0	DMS6UOE	azithromycin	Phase 3 Trial	25.0	DMXZAL2	hydroxychloroquine	.	.	COVID-19	ClinicalTrials.gov	Phase 4	.					3
+DCUJ236	DM5L6HI	atomoxetine	Approved	34.0	DM5L6HI	atomoxetine	Approved	34.0	DM5L6HI	atomoxetine	.	.	Attention Deficit Hyperactivity Disorder	ClinicalTrials.gov	Phase 3	.					3
+DCCQ9YE	DMHRG8Q	carbidopa	Approved	34.0	DMLBVKQ	entacapone	Approved	34.0	DMN3E57	levodopa	.	.	Restless legs syndrome; Parkinson disease	TTD Database	Phase 1	.					3
+DCP0SF9	DMCN61Z	interferon beta-1b	Approved	34.0	DMITQS0	lopinavir	Approved	34.0	DMU764S	ritonavir	.	.	Middle East Respiratory Syndrome (MERS)	TTD Database	Phase 2	.					3
+DCIEKTI	DMYVU47	methylenedioxymethamphetamine	Investigative	0.0	DMYVU47	methylenedioxymethamphetamine	Investigative	0.0	DMYVU47	methylenedioxymethamphetamine	.	.	Schizophrenia	ClinicalTrials.gov	Phase 1	.					3
+DCH0QWY	DMOB58Q	mK-8228	Approved	34.0	DMOB58Q	mK-8228	Approved	34.0	DMR27C8	artesunate	.	.	HIV Infections	ClinicalTrials.gov	Phase 2	.					3
+DCMQL0X	DMBX2RE	mN-221	Phase 2	21.0	DMBX2RE	mN-221	Phase 2	21.0	DMBX2RE	mN-221	.	.	Asthma	ClinicalTrials.gov	Phase 2	.					3
+DCDH4ZU	DMEJKRF	motexafin gadolinium	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Stage IIIA Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC4G9YW	DMFN07X	nilutamide	Approved	34.0	DMK0O7U	flutamide	Approved	34.0	DMZMSPF	bicalutamide	.	.	Prostate Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCAA4S6	DMQ2491	nitroglycerin	Approved	34.0	DMQ2491	nitroglycerin	Approved	34.0	DMQ2491	nitroglycerin	.	.	Rectal Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCY8YDU	DM05WIU	pBI-05204	Phase 2	21.0	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	.	.	Chemotherapeutic Agent Toxicity	ClinicalTrials.gov	Phase 1	.					3
+DCUQHXW	DMUP5Z0	pF-03084014	Approved	34.0	DMUP5Z0	pF-03084014	Approved	34.0	DMUP5Z0	pF-03084014	.	.	Triple Negative Breast Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DCR127T	DMJ7IKW	pF-4494700	Phase 3	25.0	DMJ7IKW	pF-4494700	Phase 3	25.0	DMJ7IKW	pF-4494700	.	.	Glioblastoma	ClinicalTrials.gov	Phase 1	.					3
+DCI49DI	DMP7X6Q	rotigotine	Approved	34.0	DMP7X6Q	rotigotine	Approved	34.0	DMP7X6Q	rotigotine	.	.	Restless Legs Syndrome	ClinicalTrials.gov	Phase 3	.					3
+DCEZKCP	DMAHSU0	selexipag	Approved	34.0	DMJZHT1	tadalafil	Approved	34.0	DMP79A1	macitentan	.	.	Pulmonary Arterial Hypertension	ClinicalTrials.gov	Phase 3	.					3
+DCTY45U	DMFY0MX	sivextro	Phase 3	25.0	DMMIQ7G	rosuvastatin	Approved	34.0	DMXOELT	midazolam	.	.	Skin Diseases, Bacterial	ClinicalTrials.gov	Phase 1	.					3
+DCAZX4O	DME1LQN	streptomycin	Approved	34.0	DMF8DNE	framycetin	Approved	34.0	DMKINJO	gentamicin	.	.	Patients Colonized by Klebsiella Pneumoniae.	ClinicalTrials.gov	Phase 1	.					3
+DC6ZN1P	DMICA9H	sulfasalazine	Approved	34.0	DMOJZQ9	loperamide	Preclinical	2.1	DMZTGN2	methylnaltrexone bromide	.	.	Intestinal Obstruction	ClinicalTrials.gov	Phase 1	.					3
+DCD5Z3S	DMYOAKS	teduglutide	Approved	34.0	DMYOAKS	teduglutide	Approved	34.0	DMYOAKS	teduglutide	.	.	Crohn's Disease	ClinicalTrials.gov	Phase 2	.					3
+DC0OJ1L	DMAI83D	voxilaprevir	Phase 1	17.0	DMGF8ZQ	velpatasvir	Phase 1	17.0	DMQI86A	sofosbuvir	.	.	Hepatitis C virus infection	TTD Database	Approved	.					3

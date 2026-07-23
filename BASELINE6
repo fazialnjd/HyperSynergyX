@@ -1,0 +1,299 @@
+===================================================
+  baseline_models_v6.py
+  Profile 243-dim | 8 models | No augmentation
+=======================================================
+
+Dataset: 50 triplets, 27 drugs
+X shape: (50, 243)
+Labels:  25 positive / 25 negative
+⚠ Sample/feature ratio: 40/243 = 0.165  → discovery-only
+
+Models: ['LR-L1', 'LR-L2', 'LR-ElasticNet', 'SVM-Linear', 'SVM-RBF', 'Ridge Classifier', 'Naive Bayes', 'Nearest Centroid']
+  LR-L1: 5 combos × 3 inner folds
+  LR-L2: 5 combos × 3 inner folds
+  LR-ElasticNet: 12 combos × 3 inner folds
+  SVM-Linear: 5 combos × 3 inner folds
+  SVM-RBF: 8 combos × 3 inner folds
+  Ridge Classifier: 5 combos × 3 inner folds
+  Naive Bayes: 4 combos × 3 inner folds
+  Nearest Centroid: 2 combos × 3 inner folds
+
+
+
+
+
+                         Input Data
+                             |
+                             |
+        -----------------------------------------
+        |                                       |
+ Similarity Matrices                      Labels
+        |                                       |
+        |                                      y
+        |
+  -------------------------------
+  |              |              |
+ S_chem        S_atc          S_tgt
+ (N×N)         (N×N)          (N×N)
+  |              |              |
+  --------------------------------
+                 |
+                 v
+
+        Drug Profile Extraction
+
+ drug A                         drug B                         drug C
+   |                              |                              |
+   v                              v                              v
+
+[chem[A,:]]                   [chem[B,:]]                   [chem[C,:]]
+[atc[A,:]]                    [atc[B,:]]                    [atc[C,:]]
+[tgt[A,:]]                    [tgt[B,:]]                    [tgt[C,:]]
+
+     81 dim                       81 dim                       81 dim
+
+                 \                 |                 /
+                  \                |                /
+                   \               |               /
+
+                         Concatenate
+
+                              |
+                              v
+
+                    Feature Matrix X
+
+              X shape = (50 samples, 243 features)
+
+
+             --------------------------------
+             Sample 1 = Triplet(A,B,C)
+             [
+              A profile (81),
+              B profile (81),
+              C profile (81)
+             ]
+
+             Sample 2 = Triplet(D,E,F)
+             [
+              D profile,
+              E profile,
+              F profile
+             ]
+
+             ...
+             
+             Sample 50
+             --------------------------------
+
+
+                              |
+                              v
+
+
+              Outer 5-fold Cross Validation
+
+        -----------------------------------------
+        |             |             |             |
+      Fold0         Fold1         Fold2       Fold4
+        |
+        |
+        v
+
+     Train set (40 samples)
+     Test set  (10 samples)
+
+
+              |
+              |
+              v
+
+
+        StandardScaler
+
+     X_train → fit scaler
+     X_test  → transform only
+
+
+              |
+              v
+
+
+        ==========================
+          Inner 3-fold CV
+        ==========================
+
+              |
+              |
+              v
+
+       GridSearchCV
+
+       Try hyperparameters:
+
+       LR-L1:
+          C=[0.0001,...,1]
+
+       LR-L2:
+          C=[0.0001,...,1]
+
+       ElasticNet:
+          C + l1_ratio
+
+       SVM:
+          C + gamma
+
+       Ridge:
+          alpha
+
+       Naive Bayes:
+          var_smoothing
+
+       Nearest Centroid:
+          metric
+
+
+              |
+              v
+
+
+       Best model + best parameters
+
+
+              |
+              v
+
+
+        Train final estimator
+        on all 40 training samples
+
+
+              |
+              v
+
+
+        Evaluate on 10 unseen samples
+
+
+              |
+              v
+
+
+       Metrics:
+
+       AUROC
+       AUPRC
+       F1
+       Precision
+       Recall
+
+
+              |
+              v
+
+
+       Repeat for 5 folds
+
+              |
+              v
+
+
+       Mean ± Std performance
+       
+=======================================================
+  LR-L1
+=======================================================
+  Fold 0: AUROC=0.6400  AUPRC=0.6978  F1=0.4444  inner_AUROC=0.6349  best={'C': 1.0}
+  Fold 1: AUROC=0.5200  AUPRC=0.5311  F1=0.7273  inner_AUROC=0.6939  best={'C': 1.0}
+  Fold 2: AUROC=0.7200  AUPRC=0.8100  F1=0.3333  inner_AUROC=0.6882  best={'C': 1.0}
+  Fold 3: AUROC=0.4800  AUPRC=0.5476  F1=0.6667  inner_AUROC=0.6497  best={'C': 1.0}
+  Fold 4: AUROC=0.7200  AUPRC=0.6683  F1=0.7273  inner_AUROC=0.7007  best={'C': 1.0}
+
+  → Mean AUROC=0.6160 ± 0.0999  AUPRC=0.6510  F1=0.5798
+
+=======================================================
+  LR-L2
+=======================================================
+  Fold 0: AUROC=0.6800  AUPRC=0.7278  F1=0.2857  inner_AUROC=0.5363  best={'C': 0.1}
+  Fold 1: AUROC=0.5600  AUPRC=0.5644  F1=0.7273  inner_AUROC=0.6406  best={'C': 1.0}
+  Fold 2: AUROC=0.6400  AUPRC=0.7167  F1=0.6667  inner_AUROC=0.6769  best={'C': 1.0}
+  Fold 3: AUROC=0.6400  AUPRC=0.7533  F1=0.7273  inner_AUROC=0.6395  best={'C': 0.01}
+  Fold 4: AUROC=0.5600  AUPRC=0.5644  F1=0.7273  inner_AUROC=0.7245  best={'C': 0.01}
+
+  → Mean AUROC=0.6160 ± 0.0480  AUPRC=0.6653  F1=0.6268
+
+=======================================================
+  LR-ElasticNet
+=======================================================
+  Fold 0: AUROC=0.6000  AUPRC=0.6944  F1=0.3333  inner_AUROC=0.5873  best={'C': 0.1, 'l1_ratio': 0.5}
+  Fold 1: AUROC=0.5600  AUPRC=0.5644  F1=0.7273  inner_AUROC=0.6259  best={'C': 0.1, 'l1_ratio': 0.1}
+  Fold 2: AUROC=0.7200  AUPRC=0.8333  F1=0.7500  inner_AUROC=0.7154  best={'C': 0.1, 'l1_ratio': 0.1}
+  Fold 3: AUROC=0.5600  AUPRC=0.6533  F1=0.7273  inner_AUROC=0.6542  best={'C': 0.1, 'l1_ratio': 0.1}
+  Fold 4: AUROC=0.5600  AUPRC=0.5593  F1=0.6667  inner_AUROC=0.7018  best={'C': 0.1, 'l1_ratio': 0.1}
+
+  → Mean AUROC=0.6000 ± 0.0620  AUPRC=0.6610  F1=0.6409
+
+=======================================================
+  SVM-Linear
+=======================================================
+  Fold 0: AUROC=0.2800  AUPRC=0.5439  F1=0.7500  inner_AUROC=0.5420  best={'C': 0.01}
+  Fold 1: AUROC=0.6000  AUPRC=0.5783  F1=0.6000  inner_AUROC=0.6474  best={'C': 0.1}
+  Fold 2: AUROC=0.6400  AUPRC=0.7167  F1=0.5000  inner_AUROC=0.7404  best={'C': 0.1}
+  Fold 3: AUROC=0.4000  AUPRC=0.5800  F1=0.7273  inner_AUROC=0.6395  best={'C': 0.01}
+  Fold 4: AUROC=0.4400  AUPRC=0.5143  F1=0.7273  inner_AUROC=0.6803  best={'C': 0.0001}
+
+  → Mean AUROC=0.4720 ± 0.1324  AUPRC=0.5866  F1=0.6609
+
+=======================================================
+  SVM-RBF
+=======================================================
+  Fold 0: AUROC=0.2200  AUPRC=0.5210  F1=0.6667  inner_AUROC=0.6247  best={'C': 1.0, 'gamma': 'scale'}
+  Fold 1: AUROC=0.6800  AUPRC=0.8111  F1=0.6000  inner_AUROC=0.6905  best={'C': 1.0, 'gamma': 'scale'}
+  Fold 2: AUROC=0.5000  AUPRC=0.5000  F1=0.3333  inner_AUROC=0.7687  best={'C': 0.001, 'gamma': 'scale'}
+  Fold 3: AUROC=0.5000  AUPRC=0.5000  F1=0.5000  inner_AUROC=0.6848  best={'C': 1.0, 'gamma': 'scale'}
+  Fold 4: AUROC=0.6800  AUPRC=0.7833  F1=0.6667  inner_AUROC=0.7562  best={'C': 1.0, 'gamma': 'scale'}
+  ⚠ WARNING: AUROC std=0.1685 > 0.15
+
+  → Mean AUROC=0.5160 ± 0.1685  AUPRC=0.6231  F1=0.5533
+
+=======================================================
+  Ridge Classifier
+=======================================================
+  Fold 0: AUROC=0.6800  AUPRC=0.7278  F1=0.6667  inner_AUROC=0.5363  best={'alpha': 100.0}
+  Fold 1: AUROC=0.6000  AUPRC=0.6726  F1=0.5455  inner_AUROC=0.6893  best={'alpha': 0.1}
+  Fold 2: AUROC=0.6400  AUPRC=0.7643  F1=0.5000  inner_AUROC=0.6610  best={'alpha': 10.0}
+  Fold 3: AUROC=0.6400  AUPRC=0.7533  F1=0.7273  inner_AUROC=0.6383  best={'alpha': 1000.0}
+  Fold 4: AUROC=0.6000  AUPRC=0.6644  F1=0.7273  inner_AUROC=0.7166  best={'alpha': 1000.0}
+
+  → Mean AUROC=0.6320 ± 0.0299  AUPRC=0.7165  F1=0.6333
+
+=======================================================
+  Naive Bayes
+=======================================================
+  ⚠ Fold 0: inner_AUROC=0.3872 < 0.5
+  Fold 0: AUROC=0.6800  AUPRC=0.6333  F1=0.7273  inner_AUROC=0.3872  best={'var_smoothing': 1e-05}
+  Fold 1: AUROC=0.3600  AUPRC=0.4489  F1=0.5455  inner_AUROC=0.5125  best={'var_smoothing': 1e-09}
+  Fold 2: AUROC=0.7800  AUPRC=0.7400  F1=0.8000  inner_AUROC=0.6604  best={'var_smoothing': 0.001}
+  Fold 3: AUROC=0.6600  AUPRC=0.6333  F1=0.6667  inner_AUROC=0.5272  best={'var_smoothing': 0.001}
+  Fold 4: AUROC=0.6000  AUPRC=0.5571  F1=0.6667  inner_AUROC=0.6315  best={'var_smoothing': 0.001}
+
+  → Mean AUROC=0.6160 ± 0.1405  AUPRC=0.6025  F1=0.6812
+
+=======================================================
+  SUMMARY
+=======================================================
+Model                   AUROC      ±    AUPRC       F1
+-------------------------------------------------------
+LR-L1                  0.6160 0.0999   0.6510   0.5798
+LR-L2                  0.6160 0.0480   0.6653   0.6268
+LR-ElasticNet          0.6000 0.0620   0.6610   0.6409
+SVM-Linear             0.4720 0.1324   0.5866   0.6609
+SVM-RBF                0.5160 0.1685   0.6231   0.5533
+Ridge Classifier       0.6320 0.0299   0.7165   0.6333
+Naive Bayes            0.6160 0.1405   0.6025   0.6812
+Nearest Centroid       0.3680 0.0926   0.5574   0.5835
+-------------------------------------------------------
+HyperSynergyX          0.9593      —   0.9453   0.9507
+
+Outputs saved to: baseline_results_v6/
+

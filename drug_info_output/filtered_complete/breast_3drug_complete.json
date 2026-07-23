@@ -1,0 +1,1776 @@
+{
+  "DCU90CT": {
+    "Drug_Name_1": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "vinorelbine",
+      "chembl_id": "CHEMBL553025",
+      "smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2",
+      "atc_codes": [
+        "L01CA04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 3",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCF5OEQ": {
+    "Drug_Name_1": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "vinorelbine",
+      "chembl_id": "CHEMBL553025",
+      "smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2",
+      "atc_codes": [
+        "L01CA04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DC1L2BB": {
+    "Drug_Name_1": {
+      "drug": "everolimus",
+      "chembl_id": "CHEMBL1908360",
+      "smiles": "CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](OCCO)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C",
+      "atc_codes": [
+        "L01EG02",
+        "L04AH02"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "FKBP1A",
+          "name": "FKBP prolyl isomerase 1A",
+          "ensembl_id": "ENSG00000088832",
+          "action_type": "INHIBITOR",
+          "mechanism": "FK506-binding protein 1A inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "goserelin",
+      "chembl_id": "CHEMBL1201247",
+      "smiles": "CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O",
+      "atc_codes": [
+        "L02AE03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "GNRHR",
+          "name": "gonadotropin releasing hormone receptor",
+          "ensembl_id": "ENSG00000109163",
+          "action_type": "AGONIST",
+          "mechanism": "Gonadotropin-releasing hormone receptor agonist",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Metastatic Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCHRH0E": {
+    "Drug_Name_1": {
+      "drug": "everolimus",
+      "chembl_id": "CHEMBL1908360",
+      "smiles": "CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](OCCO)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C",
+      "atc_codes": [
+        "L01EG02",
+        "L04AH02"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "FKBP1A",
+          "name": "FKBP prolyl isomerase 1A",
+          "ensembl_id": "ENSG00000088832",
+          "action_type": "INHIBITOR",
+          "mechanism": "FK506-binding protein 1A inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "lY2835219",
+      "chembl_id": "CHEMBL3301610",
+      "smiles": "CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1",
+      "atc_codes": [
+        "L01EF03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CDK6",
+          "name": "cyclin dependent kinase 6",
+          "ensembl_id": "ENSG00000105810",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 6 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "CDK4",
+          "name": "cyclin dependent kinase 4",
+          "ensembl_id": "ENSG00000135446",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 4 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "exemestane",
+      "chembl_id": "CHEMBL1200374",
+      "smiles": "C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12",
+      "atc_codes": [
+        "L02BG06"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Breast Neoplasms",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 1",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCCPSYD": {
+    "Drug_Name_1": {
+      "drug": "lY2835219",
+      "chembl_id": "CHEMBL3301610",
+      "smiles": "CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1",
+      "atc_codes": [
+        "L01EF03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CDK6",
+          "name": "cyclin dependent kinase 6",
+          "ensembl_id": "ENSG00000105810",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 6 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "CDK4",
+          "name": "cyclin dependent kinase 4",
+          "ensembl_id": "ENSG00000135446",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 4 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 3",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCL0TJ2": {
+    "Drug_Name_1": {
+      "drug": "lY2835219",
+      "chembl_id": "CHEMBL3301610",
+      "smiles": "CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1",
+      "atc_codes": [
+        "L01EF03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CDK6",
+          "name": "cyclin dependent kinase 6",
+          "ensembl_id": "ENSG00000105810",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 6 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "CDK4",
+          "name": "cyclin dependent kinase 4",
+          "ensembl_id": "ENSG00000135446",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 4 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "lY2835219",
+      "chembl_id": "CHEMBL3301610",
+      "smiles": "CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1",
+      "atc_codes": [
+        "L01EF03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CDK6",
+          "name": "cyclin dependent kinase 6",
+          "ensembl_id": "ENSG00000105810",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 6 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "CDK4",
+          "name": "cyclin dependent kinase 4",
+          "ensembl_id": "ENSG00000135446",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 4 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "lY2835219",
+      "chembl_id": "CHEMBL3301610",
+      "smiles": "CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1",
+      "atc_codes": [
+        "L01EF03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CDK6",
+          "name": "cyclin dependent kinase 6",
+          "ensembl_id": "ENSG00000105810",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 6 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "CDK4",
+          "name": "cyclin dependent kinase 4",
+          "ensembl_id": "ENSG00000135446",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 4 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "HR+/HER2- Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 1",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCUAJZ7": {
+    "Drug_Name_1": {
+      "drug": "eribulin",
+      "chembl_id": "CHEMBL1683590",
+      "smiles": "C=C1C[C@@H]2CC[C@@]34C[C@H]5O[C@H]6[C@@H](O3)[C@H]3O[C@H](CC[C@@H]3O[C@H]6[C@H]5O4)CC(=O)C[C@@H]3[C@@H](OC)[C@@H](C[C@H](O)CN)O[C@H]3C[C@H]3O[C@@H](CC[C@@H]1O2)C[C@@H](C)C3=C",
+      "atc_codes": [
+        "L01XX41"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "capecitabine",
+      "chembl_id": "CHEMBL1773",
+      "smiles": "CCCCCOC(=O)Nc1nc(=O)n([C@@H]2O[C@H](C)[C@@H](O)[C@H]2O)cc1F",
+      "atc_codes": [
+        "L01BC06"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TYMS",
+          "name": "thymidylate synthetase",
+          "ensembl_id": "ENSG00000176890",
+          "action_type": "INHIBITOR",
+          "mechanism": "Thymidylate synthase inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "vinorelbine",
+      "chembl_id": "CHEMBL553025",
+      "smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2",
+      "atc_codes": [
+        "L01CA04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Advanced Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 3",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DC93Z3D": {
+    "Drug_Name_1": {
+      "drug": "exemestane",
+      "chembl_id": "CHEMBL1200374",
+      "smiles": "C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12",
+      "atc_codes": [
+        "L02BG06"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 3",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCZHHUA": {
+    "Drug_Name_1": {
+      "drug": "exemestane",
+      "chembl_id": "CHEMBL1200374",
+      "smiles": "C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12",
+      "atc_codes": [
+        "L02BG06"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCL9I4L": {
+    "Drug_Name_1": {
+      "drug": "exemestane",
+      "chembl_id": "CHEMBL1200374",
+      "smiles": "C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12",
+      "atc_codes": [
+        "L02BG06"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 1",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCCJUSF": {
+    "Drug_Name_1": {
+      "drug": "goserelin",
+      "chembl_id": "CHEMBL1201247",
+      "smiles": "CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O",
+      "atc_codes": [
+        "L02AE03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "GNRHR",
+          "name": "gonadotropin releasing hormone receptor",
+          "ensembl_id": "ENSG00000109163",
+          "action_type": "AGONIST",
+          "mechanism": "Gonadotropin-releasing hormone receptor agonist",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Estrogen Receptor-positive Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCLZPT8": {
+    "Drug_Name_1": {
+      "drug": "goserelin",
+      "chembl_id": "CHEMBL1201247",
+      "smiles": "CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O",
+      "atc_codes": [
+        "L02AE03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "GNRHR",
+          "name": "gonadotropin releasing hormone receptor",
+          "ensembl_id": "ENSG00000109163",
+          "action_type": "AGONIST",
+          "mechanism": "Gonadotropin-releasing hormone receptor agonist",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "letrozole",
+      "chembl_id": "CHEMBL1444",
+      "smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "atc_codes": [
+        "L02BG04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "entrectinib",
+      "chembl_id": "CHEMBL1983268",
+      "smiles": "CN1CCN(c2ccc(C(=O)Nc3n[nH]c4ccc(Cc5cc(F)cc(F)c5)cc34)c(NC3CCOCC3)c2)CC1",
+      "atc_codes": [
+        "L01EX14"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "ALK",
+          "name": "ALK receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000171094",
+          "action_type": "INHIBITOR",
+          "mechanism": "ALK tyrosine kinase receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NTRK1",
+          "name": "neurotrophic receptor tyrosine kinase 1",
+          "ensembl_id": "ENSG00000198400",
+          "action_type": "INHIBITOR",
+          "mechanism": "Neurotrophic tyrosine kinase receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NTRK2",
+          "name": "neurotrophic receptor tyrosine kinase 2",
+          "ensembl_id": "ENSG00000148053",
+          "action_type": "INHIBITOR",
+          "mechanism": "Neurotrophic tyrosine kinase receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NTRK3",
+          "name": "neurotrophic receptor tyrosine kinase 3",
+          "ensembl_id": "ENSG00000140538",
+          "action_type": "INHIBITOR",
+          "mechanism": "Neurotrophic tyrosine kinase receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "ROS1",
+          "name": "ROS proto-oncogene 1, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000047936",
+          "action_type": "INHIBITOR",
+          "mechanism": "Proto-oncogene tyrosine-protein kinase ROS inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Invasive Lobular Breast Carcinoma",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCNMY6P": {
+    "Drug_Name_1": {
+      "drug": "degarelix",
+      "chembl_id": "CHEMBL415606",
+      "smiles": "CC(=O)N[C@H](Cc1ccc2ccccc2c1)C(=O)N[C@H](Cc1ccc(Cl)cc1)C(=O)N[C@H](Cc1cccnc1)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccc(NC(=O)[C@@H]2CC(=O)NC(=O)N2)cc1)C(=O)N[C@H](Cc1ccc(NC(N)=O)cc1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCNC(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(N)=O",
+      "atc_codes": [
+        "L02BX02"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "GNRHR",
+          "name": "gonadotropin releasing hormone receptor",
+          "ensembl_id": "ENSG00000109163",
+          "action_type": "ANTAGONIST",
+          "mechanism": "Gonadotropin-releasing hormone receptor antagonist",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "lY2835219",
+      "chembl_id": "CHEMBL3301610",
+      "smiles": "CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1",
+      "atc_codes": [
+        "L01EF03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CDK6",
+          "name": "cyclin dependent kinase 6",
+          "ensembl_id": "ENSG00000105810",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 6 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "CDK4",
+          "name": "cyclin dependent kinase 4",
+          "ensembl_id": "ENSG00000135446",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cyclin-dependent kinase 4 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "anastrozole",
+      "chembl_id": "CHEMBL1399",
+      "smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "atc_codes": [
+        "L02BG03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "CYP19A1",
+          "name": "cytochrome P450 family 19 subfamily A member 1",
+          "ensembl_id": "ENSG00000137869",
+          "action_type": "INHIBITOR",
+          "mechanism": "Cytochrome P450 19A1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Male Breast Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCUQHXW": {
+    "Drug_Name_1": {
+      "drug": "pF-03084014",
+      "chembl_id": "CHEMBL1770916",
+      "smiles": "CCC[C@H](N[C@H]1CCc2cc(F)cc(F)c2C1)C(=O)Nc1cn(C(C)(C)CNCC(C)(C)C)cn1",
+      "atc_codes": [
+        "L01XX81"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "APH1A",
+          "name": "aph-1A gamma-secretase subunit",
+          "ensembl_id": "ENSG00000117362",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSENEN",
+          "name": "presenilin enhancer, gamma-secretase subunit",
+          "ensembl_id": "ENSG00000205155",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1B",
+          "name": "aph-1B gamma-secretase subunit",
+          "ensembl_id": "ENSG00000138613",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN1",
+          "name": "presenilin 1",
+          "ensembl_id": "ENSG00000080815",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NCSTN",
+          "name": "nicastrin",
+          "ensembl_id": "ENSG00000162736",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN2",
+          "name": "presenilin 2",
+          "ensembl_id": "ENSG00000143801",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1A",
+          "name": "aph-1A gamma-secretase subunit",
+          "ensembl_id": "ENSG00000117362",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSENEN",
+          "name": "presenilin enhancer, gamma-secretase subunit",
+          "ensembl_id": "ENSG00000205155",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1B",
+          "name": "aph-1B gamma-secretase subunit",
+          "ensembl_id": "ENSG00000138613",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN1",
+          "name": "presenilin 1",
+          "ensembl_id": "ENSG00000080815",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NCSTN",
+          "name": "nicastrin",
+          "ensembl_id": "ENSG00000162736",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN2",
+          "name": "presenilin 2",
+          "ensembl_id": "ENSG00000143801",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "pF-03084014",
+      "chembl_id": "CHEMBL1770916",
+      "smiles": "CCC[C@H](N[C@H]1CCc2cc(F)cc(F)c2C1)C(=O)Nc1cn(C(C)(C)CNCC(C)(C)C)cn1",
+      "atc_codes": [
+        "L01XX81"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "APH1A",
+          "name": "aph-1A gamma-secretase subunit",
+          "ensembl_id": "ENSG00000117362",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSENEN",
+          "name": "presenilin enhancer, gamma-secretase subunit",
+          "ensembl_id": "ENSG00000205155",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1B",
+          "name": "aph-1B gamma-secretase subunit",
+          "ensembl_id": "ENSG00000138613",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN1",
+          "name": "presenilin 1",
+          "ensembl_id": "ENSG00000080815",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NCSTN",
+          "name": "nicastrin",
+          "ensembl_id": "ENSG00000162736",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN2",
+          "name": "presenilin 2",
+          "ensembl_id": "ENSG00000143801",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1A",
+          "name": "aph-1A gamma-secretase subunit",
+          "ensembl_id": "ENSG00000117362",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSENEN",
+          "name": "presenilin enhancer, gamma-secretase subunit",
+          "ensembl_id": "ENSG00000205155",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1B",
+          "name": "aph-1B gamma-secretase subunit",
+          "ensembl_id": "ENSG00000138613",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN1",
+          "name": "presenilin 1",
+          "ensembl_id": "ENSG00000080815",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NCSTN",
+          "name": "nicastrin",
+          "ensembl_id": "ENSG00000162736",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN2",
+          "name": "presenilin 2",
+          "ensembl_id": "ENSG00000143801",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "pF-03084014",
+      "chembl_id": "CHEMBL1770916",
+      "smiles": "CCC[C@H](N[C@H]1CCc2cc(F)cc(F)c2C1)C(=O)Nc1cn(C(C)(C)CNCC(C)(C)C)cn1",
+      "atc_codes": [
+        "L01XX81"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "APH1A",
+          "name": "aph-1A gamma-secretase subunit",
+          "ensembl_id": "ENSG00000117362",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSENEN",
+          "name": "presenilin enhancer, gamma-secretase subunit",
+          "ensembl_id": "ENSG00000205155",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1B",
+          "name": "aph-1B gamma-secretase subunit",
+          "ensembl_id": "ENSG00000138613",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN1",
+          "name": "presenilin 1",
+          "ensembl_id": "ENSG00000080815",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NCSTN",
+          "name": "nicastrin",
+          "ensembl_id": "ENSG00000162736",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN2",
+          "name": "presenilin 2",
+          "ensembl_id": "ENSG00000143801",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1A",
+          "name": "aph-1A gamma-secretase subunit",
+          "ensembl_id": "ENSG00000117362",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSENEN",
+          "name": "presenilin enhancer, gamma-secretase subunit",
+          "ensembl_id": "ENSG00000205155",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "APH1B",
+          "name": "aph-1B gamma-secretase subunit",
+          "ensembl_id": "ENSG00000138613",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN1",
+          "name": "presenilin 1",
+          "ensembl_id": "ENSG00000080815",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NCSTN",
+          "name": "nicastrin",
+          "ensembl_id": "ENSG00000162736",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PSEN2",
+          "name": "presenilin 2",
+          "ensembl_id": "ENSG00000143801",
+          "action_type": "INHIBITOR",
+          "mechanism": "Gamma-secretase inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Triple Negative Breast Neoplasms",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  }
+}

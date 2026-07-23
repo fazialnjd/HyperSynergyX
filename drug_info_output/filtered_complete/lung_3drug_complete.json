@@ -1,0 +1,96 @@
+{
+  "DCYJ6Y9": {
+    "Drug_Name_1": {
+      "drug": "cabozantinib",
+      "chembl_id": "CHEMBL2105717",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "atc_codes": [
+        "L01EX07"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "MET",
+          "name": "MET proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000105976",
+          "action_type": "INHIBITOR",
+          "mechanism": "Hepatocyte growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "cabozantinib",
+      "chembl_id": "CHEMBL2105717",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "atc_codes": [
+        "L01EX07"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "MET",
+          "name": "MET proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000105976",
+          "action_type": "INHIBITOR",
+          "mechanism": "Hepatocyte growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "cabozantinib",
+      "chembl_id": "CHEMBL2105717",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "atc_codes": [
+        "L01EX07"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "MET",
+          "name": "MET proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000105976",
+          "action_type": "INHIBITOR",
+          "mechanism": "Hepatocyte growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Non Small Cell Lung Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  }
+}

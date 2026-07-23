@@ -1,0 +1,974 @@
+{
+  "DC7IH5M": {
+    "Drug_Name_1": {
+      "drug": "gemcitabine",
+      "chembl_id": "CHEMBL3039516",
+      "smiles": "CCCCCCCC/C=C/CCCCCCCC(=O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)C(F)(F)[C@@H]1O",
+      "atc_codes": [
+        "L01BC05"
+      ],
+      "curated_targets": []
+    },
+    "Drug_Name_2": {
+      "drug": "docetaxel",
+      "chembl_id": "CHEMBL92",
+      "smiles": "CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@@]1(C)C(=O)[C@H](O)C3=C(C)[C@@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c4ccccc4)C[C@@](O)([C@@H](OC(=O)c4ccccc4)[C@H]21)C3(C)C",
+      "atc_codes": [
+        "L01CD02"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "STABILISER",
+          "mechanism": "Tubulin stabiliser",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "vinorelbine",
+      "chembl_id": "CHEMBL553025",
+      "smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2",
+      "atc_codes": [
+        "L01CA04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Preclinical",
+    "order_1": 2.1,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Advanced Non-Small Cell Lung Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 3",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCH3LJR": {
+    "Drug_Name_1": {
+      "drug": "gemcitabine",
+      "chembl_id": "CHEMBL3039516",
+      "smiles": "CCCCCCCC/C=C/CCCCCCCC(=O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)C(F)(F)[C@@H]1O",
+      "atc_codes": [
+        "L01BC05"
+      ],
+      "curated_targets": []
+    },
+    "Drug_Name_2": {
+      "drug": "erlotinib",
+      "chembl_id": "CHEMBL1079742",
+      "smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1.Cl",
+      "atc_codes": [
+        "L01EB02"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "EGFR",
+          "name": "epidermal growth factor receptor",
+          "ensembl_id": "ENSG00000146648",
+          "action_type": "INHIBITOR",
+          "mechanism": "Epidermal growth factor receptor erbB1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "vinorelbine",
+      "chembl_id": "CHEMBL553025",
+      "smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2",
+      "atc_codes": [
+        "L01CA04"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "TUBB4B",
+          "name": "tubulin beta 4B class IVb",
+          "ensembl_id": "ENSG00000188229",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB1",
+          "name": "tubulin beta 1 class VI",
+          "ensembl_id": "ENSG00000101162",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3C",
+          "name": "tubulin alpha 3c",
+          "ensembl_id": "ENSG00000198033",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA4A",
+          "name": "tubulin alpha 4a",
+          "ensembl_id": "ENSG00000127824",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB3",
+          "name": "tubulin beta 3 class III",
+          "ensembl_id": "ENSG00000258947",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1A",
+          "name": "tubulin alpha 1a",
+          "ensembl_id": "ENSG00000167552",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB4A",
+          "name": "tubulin beta 4A class IVa",
+          "ensembl_id": "ENSG00000104833",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB8",
+          "name": "tubulin beta 8 class VIII",
+          "ensembl_id": "ENSG00000261456",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB",
+          "name": "tubulin beta class I",
+          "ensembl_id": "ENSG00000196230",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1B",
+          "name": "tubulin alpha 1b",
+          "ensembl_id": "ENSG00000123416",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA1C",
+          "name": "tubulin alpha 1c",
+          "ensembl_id": "ENSG00000167553",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBA3E",
+          "name": "tubulin alpha 3e",
+          "ensembl_id": "ENSG00000152086",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2A",
+          "name": "tubulin beta 2A class IIa",
+          "ensembl_id": "ENSG00000137267",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB2B",
+          "name": "tubulin beta 2B class IIb",
+          "ensembl_id": "ENSG00000137285",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TUBB6",
+          "name": "tubulin beta 6 class V",
+          "ensembl_id": "ENSG00000176014",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tubulin inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Preclinical",
+    "order_1": 2.1,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Non - Small Cell Lung Cancer NSCLC",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 3",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DC6LBVW": {
+    "Drug_Name_1": {
+      "drug": "gefitinib",
+      "chembl_id": "CHEMBL939",
+      "smiles": "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1",
+      "atc_codes": [
+        "L01EB01"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "EGFR",
+          "name": "epidermal growth factor receptor",
+          "ensembl_id": "ENSG00000146648",
+          "action_type": "INHIBITOR",
+          "mechanism": "Epidermal growth factor receptor erbB1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "icotinib hydrochloride",
+      "chembl_id": "CHEMBL2087361",
+      "smiles": "C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1",
+      "atc_codes": [
+        "L01EB08"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "EGFR",
+          "name": "epidermal growth factor receptor",
+          "ensembl_id": "ENSG00000146648",
+          "action_type": "INHIBITOR",
+          "mechanism": "Epidermal growth factor receptor erbB1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "erlotinib",
+      "chembl_id": "CHEMBL1079742",
+      "smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1.Cl",
+      "atc_codes": [
+        "L01EB02"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "EGFR",
+          "name": "epidermal growth factor receptor",
+          "ensembl_id": "ENSG00000146648",
+          "action_type": "INHIBITOR",
+          "mechanism": "Epidermal growth factor receptor erbB1 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Registered",
+    "order_2": 33.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Non-Small-Cell Lung Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 4",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCY6J0F": {
+    "Drug_Name_1": {
+      "drug": "regorafenib",
+      "chembl_id": "CHEMBL1946170",
+      "smiles": "CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1",
+      "atc_codes": [
+        "L01EX05"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "DDR2",
+          "name": "discoidin domain receptor tyrosine kinase 2",
+          "ensembl_id": "ENSG00000162733",
+          "action_type": "INHIBITOR",
+          "mechanism": "Discoidin domain-containing receptor 2 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "EPHA2",
+          "name": "EPH receptor A2",
+          "ensembl_id": "ENSG00000142627",
+          "action_type": "INHIBITOR",
+          "mechanism": "Ephrin type-A receptor 2 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "FGFR2",
+          "name": "fibroblast growth factor receptor 2",
+          "ensembl_id": "ENSG00000066468",
+          "action_type": "INHIBITOR",
+          "mechanism": "Fibroblast growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "MAPK11",
+          "name": "mitogen-activated protein kinase 11",
+          "ensembl_id": "ENSG00000185386",
+          "action_type": "INHIBITOR",
+          "mechanism": "MAP kinase p38 beta inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PDGFRB",
+          "name": "platelet derived growth factor receptor beta",
+          "ensembl_id": "ENSG00000113721",
+          "action_type": "INHIBITOR",
+          "mechanism": "Platelet-derived growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "PDGFRA",
+          "name": "platelet derived growth factor receptor alpha",
+          "ensembl_id": "ENSG00000134853",
+          "action_type": "INHIBITOR",
+          "mechanism": "Platelet-derived growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "BRAF",
+          "name": "B-Raf proto-oncogene, serine/threonine kinase",
+          "ensembl_id": "ENSG00000157764",
+          "action_type": "INHIBITOR",
+          "mechanism": "Serine/threonine-protein kinase B-raf inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KIT",
+          "name": "KIT proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000157404",
+          "action_type": "INHIBITOR",
+          "mechanism": "Stem cell growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "TEK",
+          "name": "TEK receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000120156",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tyrosine-protein kinase TIE-2 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "FGFR1",
+          "name": "fibroblast growth factor receptor 1",
+          "ensembl_id": "ENSG00000077782",
+          "action_type": "INHIBITOR",
+          "mechanism": "Fibroblast growth factor receptor 1 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "NTRK1",
+          "name": "neurotrophic receptor tyrosine kinase 1",
+          "ensembl_id": "ENSG00000198400",
+          "action_type": "INHIBITOR",
+          "mechanism": "Nerve growth factor receptor Trk-A inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "RAF1",
+          "name": "Raf-1 proto-oncogene, serine/threonine kinase",
+          "ensembl_id": "ENSG00000132155",
+          "action_type": "INHIBITOR",
+          "mechanism": "Serine/threonine-protein kinase RAF inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "ABL1",
+          "name": "ABL proto-oncogene 1, non-receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000097007",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tyrosine-protein kinase ABL inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "FRK",
+          "name": "fyn related Src family tyrosine kinase",
+          "ensembl_id": "ENSG00000111816",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tyrosine-protein kinase FRK inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "RET",
+          "name": "ret proto-oncogene",
+          "ensembl_id": "ENSG00000165731",
+          "action_type": "INHIBITOR",
+          "mechanism": "Tyrosine-protein kinase receptor RET inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "FLT1",
+          "name": "fms related receptor tyrosine kinase 1",
+          "ensembl_id": "ENSG00000102755",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "FLT4",
+          "name": "fms related receptor tyrosine kinase 4",
+          "ensembl_id": "ENSG00000037280",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "cabozantinib",
+      "chembl_id": "CHEMBL2105717",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "atc_codes": [
+        "L01EX07"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "MET",
+          "name": "MET proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000105976",
+          "action_type": "INHIBITOR",
+          "mechanism": "Hepatocyte growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "afatinib",
+      "chembl_id": "CHEMBL2105712",
+      "smiles": "CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1.O=C(O)/C=C\\C(=O)O.O=C(O)/C=C\\C(=O)O",
+      "atc_codes": [
+        "L01EB03"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "ERBB4",
+          "name": "erb-b2 receptor tyrosine kinase 4",
+          "ensembl_id": "ENSG00000178568",
+          "action_type": "INHIBITOR",
+          "mechanism": "Receptor protein-tyrosine kinase erbB-4 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "EGFR",
+          "name": "epidermal growth factor receptor",
+          "ensembl_id": "ENSG00000146648",
+          "action_type": "INHIBITOR",
+          "mechanism": "Epidermal growth factor receptor erbB1 inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "ERBB2",
+          "name": "erb-b2 receptor tyrosine kinase 2",
+          "ensembl_id": "ENSG00000141736",
+          "action_type": "INHIBITOR",
+          "mechanism": "Receptor protein-tyrosine kinase erbB-2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Non-small Cell Lung Carcinoma",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  },
+  "DCYJ6Y9": {
+    "Drug_Name_1": {
+      "drug": "cabozantinib",
+      "chembl_id": "CHEMBL2105717",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "atc_codes": [
+        "L01EX07"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "MET",
+          "name": "MET proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000105976",
+          "action_type": "INHIBITOR",
+          "mechanism": "Hepatocyte growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_2": {
+      "drug": "cabozantinib",
+      "chembl_id": "CHEMBL2105717",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "atc_codes": [
+        "L01EX07"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "MET",
+          "name": "MET proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000105976",
+          "action_type": "INHIBITOR",
+          "mechanism": "Hepatocyte growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Drug_Name_3": {
+      "drug": "cabozantinib",
+      "chembl_id": "CHEMBL2105717",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "atc_codes": [
+        "L01EX07"
+      ],
+      "curated_targets": [
+        {
+          "gene_symbol": "MET",
+          "name": "MET proto-oncogene, receptor tyrosine kinase",
+          "ensembl_id": "ENSG00000105976",
+          "action_type": "INHIBITOR",
+          "mechanism": "Hepatocyte growth factor receptor inhibitor",
+          "source": "OpenTargets"
+        },
+        {
+          "gene_symbol": "KDR",
+          "name": "kinase insert domain receptor",
+          "ensembl_id": "ENSG00000128052",
+          "action_type": "INHIBITOR",
+          "mechanism": "Vascular endothelial growth factor receptor 2 inhibitor",
+          "source": "OpenTargets"
+        }
+      ]
+    },
+    "Highest_status_1": "Approved",
+    "order_1": 34.0,
+    "Highest_status_2": "Approved",
+    "order_2": 34.0,
+    "Drug_Name_4": ".",
+    "Disease_Entry": "Non Small Cell Lung Cancer",
+    "Source": "ClinicalTrials.gov",
+    "Highest_status": "Phase 2",
+    "Cell Line": ".",
+    "ZIP": null,
+    "Bliss": null,
+    "Loewe": null,
+    "HSA": null,
+    "n_drugs": 3
+  }
+}

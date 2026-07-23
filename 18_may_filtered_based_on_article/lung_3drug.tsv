@@ -1,0 +1,41 @@
+DrugCom_ID	DrugID_1	Drug_Name_1	Highest_status_1	order_1	DrugID_2	Drug_Name_2	Highest_status_2	order_2	DrugID_3	Drug_Name_3	DrugID_4	Drug_Name_4	Disease_Entry	Source	Highest_status	Cell Line	ZIP	Bliss	Loewe	HSA	n_drugs
+DCCQEC5	DMCMBHA	erlotinib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-Squamous Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC0K3P2	DMCMBHA	erlotinib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCRJL0M	DMCMBHA	erlotinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCZQ27L	DMCMBHA	erlotinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Recurrent Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCDPJ7J	DMCMBHA	erlotinib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC7IH5M	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMVXFYE	vinorelbine	.	.	Advanced Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCH3LJR	DMSE3I7	gemcitabine	Preclinical	2.1	DMCMBHA	erlotinib	Approved	34.0	DMVXFYE	vinorelbine	.	.	Non - Small Cell Lung Cancer NSCLC	ClinicalTrials.gov	Phase 3	.					3
+DC4EPQ1	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-Squamous Non-Small Cell Lung Cancer (NSCLC)	ClinicalTrials.gov	Phase 2	.					3
+DCC81JT	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCNX3HZ	DMSE3I7	gemcitabine	Preclinical	2.1	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCZ6U23	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC6LBVW	DM15F0X	gefitinib	Approved	34.0	DM5GFIK	icotinib hydrochloride	Registered	33.0	DMCMBHA	erlotinib	.	.	Non-Small-Cell Lung Cancer	ClinicalTrials.gov	Phase 4	.					3
+DCGQSU9	DM4F29C	crizotinib	Approved	34.0	DM5DSFZ	rifampicin	Approved	34.0	DMCR1MV	itraconazole	.	.	Non-Small Cell Lung Cancer ALK-positive	ClinicalTrials.gov	Phase 1	.					3
+DCD4BKP	DM3WDZ5	mK-1775	Phase 2	21.0	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC4CO7S	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCEYJOS	DMDI269	docetaxel	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMNO38U	bortezomib	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC3JKQJ	DM4O2Z7	cyclophosphamide	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCI4ZQF	DM8X2EH	everolimus	Approved	34.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMG281S	carboplatin	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC040OJ	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMRICNP	vandetanib	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCGC4XT	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMWMPD4	vorinostat	.	.	Stage IIIB or IV Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCJN8ZV	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMN4IW5	suramin	.	.	Recurrent Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCLVC7T	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCXBPQG	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC88YCK	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMREDYP	aBT-869	.	.	Non-Small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCUP0OH	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMYBQQ0	endoAngio-GT	.	.	Lung cancer	TTD Database	Investigative	.					3
+DCJKVRN	DMPQAGE	mycophenolate mofetil	Investigative	0.0	DMLPAOB	allopurinol	Approved	34.0	DMP6SC2	irinotecan	.	.	Small-cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC5PGB5	DM6LOQU	celecoxib	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCF7E5Y	DM9HPW3	exemestane	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Stage IV Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC6ENQ2	DM13V0P	rivoceranib	Phase 3	25.0	DM13V0P	rivoceranib	Phase 3	25.0	DM13V0P	rivoceranib	.	.	Lung Adenocarcinoma	ClinicalTrials.gov	Phase 1	.					3
+DC0WUY4	DMCBJSR	sunitinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMP6SC2	irinotecan	.	.	Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCY6J0F	DMHSY1I	regorafenib	Approved	34.0	DMIYDT4	cabozantinib	Approved	34.0	DMTKD7Q	afatinib	.	.	Non-small Cell Lung Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCS8X9W	DM5PCS7	bupropion	Approved	34.0	DMGB035	armodafinil	Approved	34.0	DMQPH29	curcumin	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCYJ6Y9	DMIYDT4	cabozantinib	Approved	34.0	DMIYDT4	cabozantinib	Approved	34.0	DMIYDT4	cabozantinib	.	.	Non Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCCZGAQ	DM2NQUY	indocyanine green	Approved	34.0	DML4ZOT	lidocaine	Approved	34.0	DMVXFYE	vinorelbine	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCL0ZQE	DM0L6E1	cycloleucine	Investigative	0.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMP6SC2	irinotecan	.	.	Extensive Stage Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCPSSFJ	DM0L6E1	cycloleucine	Investigative	0.0	DMNH3PG	etoposide	Phase 2 Trial	21.0	DMP6G8T	topotecan	.	.	Extensive Stage Small Cell Lung Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCJ5RWE	DM6VZFQ	pirfenidone	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMMX2E6	pemetrexed	.	.	Lung Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC37XA4	DM6SGUB	amrubicin	Phase 3	25.0	DMEFRTZ	lurbinectedin	Approved	34.0	DMP6G8T	topotecan	.	.	Small Cell Lung Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC8P6ID	DM6SGUB	amrubicin	Phase 3	25.0	DMEFRTZ	lurbinectedin	Approved	34.0	DMP6G8T	topotecan	.	.	Small Cell Lung Cancer (SCLC)	ClinicalTrials.gov	Phase 3	.					3
+DCDH4ZU	DMEJKRF	motexafin gadolinium	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Stage IIIA Non-small Cell Lung Cancer	ClinicalTrials.gov	Phase 1	.					3

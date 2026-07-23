@@ -1,0 +1,794 @@
+[
+  {
+    "drug": "aBT-869",
+    "chembl_id": "CHEMBL3590674",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "aBT-888",
+    "chembl_id": "CHEMBL3590674",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "afatinib",
+    "chembl_id": "CHEMBL2105712",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 3
+  },
+  {
+    "drug": "allopurinol",
+    "chembl_id": "CHEMBL1467",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 2,
+    "targets_count": 2
+  },
+  {
+    "drug": "alpelisib",
+    "chembl_id": "CHEMBL2396661",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "amrubicin",
+    "chembl_id": "CHEMBL1186894",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 2
+  },
+  {
+    "drug": "anastrozole",
+    "chembl_id": "CHEMBL1399",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "armodafinil",
+    "chembl_id": "CHEMBL1201192",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "bicalutamide",
+    "chembl_id": "CHEMBL409",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "bortezomib",
+    "chembl_id": "CHEMBL325041",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": false,
+    "atc_count": 1,
+    "targets_count": 0
+  },
+  {
+    "drug": "budesonide",
+    "chembl_id": "CHEMBL1370",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 4,
+    "targets_count": 1
+  },
+  {
+    "drug": "buparlisib",
+    "chembl_id": "CHEMBL2364604",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "bupropion",
+    "chembl_id": "CHEMBL1201735",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 2
+  },
+  {
+    "drug": "cATECHIN",
+    "chembl_id": "CHEMBL206452",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "cabozantinib",
+    "chembl_id": "CHEMBL2105717",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 2
+  },
+  {
+    "drug": "canagliflozin",
+    "chembl_id": "CHEMBL4594217",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "capecitabine",
+    "chembl_id": "CHEMBL1773",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "carboplatin",
+    "chembl_id": null,
+    "has_smiles": false,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "celecoxib",
+    "chembl_id": "CHEMBL118",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 2,
+    "targets_count": 1
+  },
+  {
+    "drug": "colesevelam",
+    "chembl_id": null,
+    "has_smiles": false,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "colestipol",
+    "chembl_id": null,
+    "has_smiles": false,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "crizotinib",
+    "chembl_id": "CHEMBL601719",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 8
+  },
+  {
+    "drug": "curcumin",
+    "chembl_id": "CHEMBL140",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "cycloleucine",
+    "chembl_id": "CHEMBL295830",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "cyclophosphamide",
+    "chembl_id": "CHEMBL1200796",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "dTI-015",
+    "chembl_id": null,
+    "has_smiles": false,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "degarelix",
+    "chembl_id": "CHEMBL415606",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "docetaxel",
+    "chembl_id": "CHEMBL92",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 30
+  },
+  {
+    "drug": "endoAngio-GT",
+    "chembl_id": "CHEMBL2106003",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "entrectinib",
+    "chembl_id": "CHEMBL1983268",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 5
+  },
+  {
+    "drug": "epirubicin",
+    "chembl_id": "CHEMBL417",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": false,
+    "atc_count": 1,
+    "targets_count": 0
+  },
+  {
+    "drug": "eribulin",
+    "chembl_id": "CHEMBL1683590",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 15
+  },
+  {
+    "drug": "erlotinib",
+    "chembl_id": "CHEMBL1079742",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "etoposide",
+    "chembl_id": "CHEMBL1200645",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "everolimus",
+    "chembl_id": "CHEMBL1908360",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 2,
+    "targets_count": 1
+  },
+  {
+    "drug": "exemestane",
+    "chembl_id": "CHEMBL1200374",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "fentanyl",
+    "chembl_id": "CHEMBL1201159",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 2,
+    "targets_count": 1
+  },
+  {
+    "drug": "fulvestrant",
+    "chembl_id": "CHEMBL1358",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 2
+  },
+  {
+    "drug": "gDC-0068",
+    "chembl_id": "CHEMBL3330650",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "gefitinib",
+    "chembl_id": "CHEMBL939",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "gemcitabine",
+    "chembl_id": "CHEMBL3039516",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": false,
+    "atc_count": 1,
+    "targets_count": 0
+  },
+  {
+    "drug": "gonadorelin",
+    "chembl_id": "CHEMBL1200511",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "goserelin",
+    "chembl_id": "CHEMBL1201247",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "hKI-272",
+    "chembl_id": "CHEMBL178654",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "hydroxychloroquine",
+    "chembl_id": "CHEMBL1535",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 2
+  },
+  {
+    "drug": "icotinib hydrochloride",
+    "chembl_id": "CHEMBL2087361",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "indocyanine green",
+    "chembl_id": "CHEMBL1646",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "irinotecan",
+    "chembl_id": "CHEMBL3989514",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "itraconazole",
+    "chembl_id": "CHEMBL64391",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "ixabepilone",
+    "chembl_id": "CHEMBL1201752",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 15
+  },
+  {
+    "drug": "lEE011",
+    "chembl_id": "CHEMBL3545110",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 4
+  },
+  {
+    "drug": "lY2835219",
+    "chembl_id": "CHEMBL3301610",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 2
+  },
+  {
+    "drug": "lapatinib",
+    "chembl_id": "CHEMBL554",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 2
+  },
+  {
+    "drug": "letrozole",
+    "chembl_id": "CHEMBL1444",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "leuprolide",
+    "chembl_id": "CHEMBL1200775",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "lidocaine",
+    "chembl_id": "CHEMBL79",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 8,
+    "targets_count": 20
+  },
+  {
+    "drug": "loperamide",
+    "chembl_id": "CHEMBL1707",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "lurbinectedin",
+    "chembl_id": "CHEMBL4297516",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "mK-1775",
+    "chembl_id": "CHEMBL1976040",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "merimepodib",
+    "chembl_id": "CHEMBL304087",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "methotrexate",
+    "chembl_id": "CHEMBL3244648",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 2,
+    "targets_count": 1
+  },
+  {
+    "drug": "midazolam",
+    "chembl_id": "CHEMBL655",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 32
+  },
+  {
+    "drug": "motesanib",
+    "chembl_id": "CHEMBL2107357",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "motexafin gadolinium",
+    "chembl_id": "CHEMBL3544910",
+    "has_smiles": false,
+    "has_atc": false,
+    "has_targets": false,
+    "atc_count": 0,
+    "targets_count": 0
+  },
+  {
+    "drug": "mycophenolate mofetil",
+    "chembl_id": "CHEMBL1456",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 4
+  },
+  {
+    "drug": "pF-03084014",
+    "chembl_id": "CHEMBL1770916",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 12
+  },
+  {
+    "drug": "pF-05212384",
+    "chembl_id": "CHEMBL592445",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 9
+  },
+  {
+    "drug": "paclitaxel",
+    "chembl_id": "CHEMBL428647",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 15
+  },
+  {
+    "drug": "palbociclib",
+    "chembl_id": "CHEMBL2364621",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": false,
+    "atc_count": 1,
+    "targets_count": 0
+  },
+  {
+    "drug": "panobinostat",
+    "chembl_id": "CHEMBL483254",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 11
+  },
+  {
+    "drug": "pazopanib",
+    "chembl_id": "CHEMBL477772",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 11
+  },
+  {
+    "drug": "pemetrexed",
+    "chembl_id": "CHEMBL2360464",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 3
+  },
+  {
+    "drug": "pirfenidone",
+    "chembl_id": "CHEMBL1256391",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "propofol",
+    "chembl_id": "CHEMBL526",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 16
+  },
+  {
+    "drug": "rAD-1901",
+    "chembl_id": "CHEMBL4297509",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 2
+  },
+  {
+    "drug": "regorafenib",
+    "chembl_id": "CHEMBL1946170",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 18
+  },
+  {
+    "drug": "rifampicin",
+    "chembl_id": "CHEMBL374478",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "rivoceranib",
+    "chembl_id": "CHEMBL3186534",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "sunitinib",
+    "chembl_id": "CHEMBL535",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 18
+  },
+  {
+    "drug": "suramin",
+    "chembl_id": "CHEMBL265502",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "thiotepa",
+    "chembl_id": "CHEMBL671",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "topotecan",
+    "chembl_id": "CHEMBL84",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "triptorelin",
+    "chembl_id": "CHEMBL1200554",
+    "has_smiles": true,
+    "has_atc": false,
+    "has_targets": true,
+    "atc_count": 0,
+    "targets_count": 1
+  },
+  {
+    "drug": "tucatinib",
+    "chembl_id": "CHEMBL3989868",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  },
+  {
+    "drug": "vandetanib",
+    "chembl_id": "CHEMBL24828",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 24
+  },
+  {
+    "drug": "vinorelbine",
+    "chembl_id": "CHEMBL553025",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 15
+  },
+  {
+    "drug": "vorinostat",
+    "chembl_id": "CHEMBL98",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 4
+  },
+  {
+    "drug": "zoledronate",
+    "chembl_id": "CHEMBL4303669",
+    "has_smiles": true,
+    "has_atc": true,
+    "has_targets": true,
+    "atc_count": 1,
+    "targets_count": 1
+  }
+]

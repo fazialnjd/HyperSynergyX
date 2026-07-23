@@ -1,0 +1,63 @@
+DrugCom_ID	DrugID_1	Drug_Name_1	Highest_status_1	order_1	DrugID_2	Drug_Name_2	Highest_status_2	order_2	DrugID_3	Drug_Name_3	DrugID_4	Drug_Name_4	Disease_Entry	Source	Highest_status	Cell Line	ZIP	Bliss	Loewe	HSA	n_drugs
+DCXJ6ZK	DM3BH1Y	lapatinib	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMH07Y3	letrozole	.	.	Breast Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DCBG7QK	DM3BH1Y	lapatinib	Approved	34.0	DM58WKG	panobinostat	Approved	34.0	DMTS85L	capecitabine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCKBNU3	DMSE3I7	gemcitabine	Preclinical	2.1	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCS5S8P	DMSE3I7	gemcitabine	Preclinical	2.1	DMG281S	carboplatin	Approved	34.0	DMWBZJD	gDC-0068	.	.	Triple Negative Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCSZAA6	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	Approved	34.0	DMY38SB	cATECHIN	.	.	Breast Cancer	ClinicalTrials.gov	Phase 4	.					3
+DC11HNK	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	Approved	34.0	DMTS85L	capecitabine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCSD3XA	DM4O2Z7	cyclophosphamide	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCW552D	DM4O2Z7	cyclophosphamide	Approved	34.0	DMIZKOP	thiotepa	Approved	34.0	DMXZRW0	dTI-015	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCN7EZ7	DM4O2Z7	cyclophosphamide	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMIZKOP	thiotepa	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCU9D0Y	DM4O2Z7	cyclophosphamide	Approved	34.0	DMDI269	docetaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCDS5IT	DM4O2Z7	cyclophosphamide	Approved	34.0	DM2TEOL	methotrexate	Phase 1/2 Trial	19.0	DMTS85L	capecitabine	.	.	Breast Cancer Female	ClinicalTrials.gov	Phase 1	.					3
+DCHXAOZ	DM4O2Z7	cyclophosphamide	Approved	34.0	DMLB81S	paclitaxel	Approved	34.0	DMPDW6T	epirubicin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCU90CT	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	Approved	34.0	DMVXFYE	vinorelbine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCF5OEQ	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	Approved	34.0	DMVXFYE	vinorelbine	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCIMZA7	DMH07Y3	letrozole	Approved	34.0	DMIXC7G	zoledronate	Approved	34.0	DMTK4LS	triptorelin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC4RUW5	DM0YZC6	fulvestrant	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DM9HPW3	exemestane	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC94AA9	DM0YZC6	fulvestrant	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DM9HPW3	exemestane	.	.	Advanced or Metastatic Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCDKVGD	DM0YZC6	fulvestrant	Approved	34.0	DMBL3VD	pF-05212384	Phase 2	21.0	DMD7L94	palbociclib	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCHLNDL	DM0YZC6	fulvestrant	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC9JUZ2	DM0YZC6	fulvestrant	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCDAWVA	DM0YZC6	fulvestrant	Approved	34.0	DMD7L94	palbociclib	Approved	34.0	DMH07Y3	letrozole	.	.	Metastatic Breast Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCJSKSZ	DM0YZC6	fulvestrant	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMH07Y3	letrozole	.	.	Breast Cancer Metastatic	ClinicalTrials.gov	Phase 2	.					3
+DCV8UQ1	DM0YZC6	fulvestrant	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMEXMYK	alpelisib	.	.	Advanced Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCXNTQ2	DM0YZC6	fulvestrant	Approved	34.0	DMEXMYK	alpelisib	Approved	34.0	DMFRM1I	canagliflozin	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC1WHOV	DM0YZC6	fulvestrant	Approved	34.0	DMEXMYK	alpelisib	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC24EA7	DM0YZC6	fulvestrant	Approved	34.0	DMBESUA	tucatinib	Approved	34.0	DMMX75K	lEE011	.	.	Anatomic Stage II Breast Cancer AJCC v8	ClinicalTrials.gov	Phase 1	.					3
+DC2YQEC	DM0YZC6	fulvestrant	Approved	34.0	DM1WEHC	buparlisib	Phase 3	25.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCMDIAN	DM0YZC6	fulvestrant	Approved	34.0	DMBESUA	tucatinib	Approved	34.0	DMEXMYK	alpelisib	.	.	HER2-positive Metastatic Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC1L2BB	DM8X2EH	everolimus	Approved	34.0	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCHRH0E	DM8X2EH	everolimus	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DM9HPW3	exemestane	.	.	Breast Neoplasms	ClinicalTrials.gov	Phase 1	.					3
+DCKTQTO	DM8X2EH	everolimus	Approved	34.0	DM9HPW3	exemestane	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCSB3HE	DM8WAHT	fentanyl	Approved	34.0	DMB4OLE	propofol	Investigative	0.0	DMXOELT	midazolam	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCEOJQ4	DMF57DM	pazopanib	Approved	34.0	DM0HS92	merimepodib	Approved	34.0	DM0HS92	merimepodib	.	.	Inflammatory breast cancer	TTD Database	Phase 1	.					3
+DC4262U	DM5XPIJ	leuprolide	Approved	34.0	DM8X2EH	everolimus	Approved	34.0	DMH07Y3	letrozole	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCB32SG	DM5XPIJ	leuprolide	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMIXC7G	zoledronate	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCCPSYD	DM93VBZ	lY2835219	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DC24QBY	DM93VBZ	lY2835219	Approved	34.0	DMNP60F	anastrozole	Approved	34.0	DMTEOOS	loperamide	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DC5BMCN	DM93VBZ	lY2835219	Approved	34.0	DMAQ469	gonadorelin	Approved	34.0	DMH07Y3	letrozole	.	.	Early Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCL0TJ2	DM93VBZ	lY2835219	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DM93VBZ	lY2835219	.	.	HR+/HER2- Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCUAJZ7	DM1DX4Q	eribulin	Approved	34.0	DMTS85L	capecitabine	Approved	34.0	DMVXFYE	vinorelbine	.	.	Advanced Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCHQSTE	DM1DX4Q	eribulin	Approved	34.0	DM4HYMS	aBT-888	Phase 3	25.0	DMG281S	carboplatin	.	.	Breast Cancer Stage IV	ClinicalTrials.gov	Phase 2	.					3
+DCY6JTI	DM2OZ3G	ixabepilone	Approved	34.0	DMTS85L	capecitabine	Approved	34.0	DMZAL8C	motesanib	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC35L9F	DM1WEHC	buparlisib	Phase 3	25.0	DMH07Y3	letrozole	Approved	34.0	DMMX75K	lEE011	.	.	Advanced or Metastatic Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC93Z3D	DM9HPW3	exemestane	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCZHHUA	DM9HPW3	exemestane	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCL9I4L	DM9HPW3	exemestane	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCASAWS	DM6QOVN	hKI-272	Phase 3	25.0	DMIRPD8	colestipol	Approved	34.0	DMTEOOS	loperamide	.	.	Early Stage HER2+ Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCM4LRJ	DM6QOVN	hKI-272	Phase 3	25.0	DMJIBAW	budesonide	Phase 3 Trial	25.0	DMTEOOS	loperamide	.	.	Early Stage HER2+ Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCS2X5I	DM6QOVN	hKI-272	Phase 3	25.0	DMOJZQ9	loperamide	Preclinical	2.1	DMTS85L	capecitabine	.	.	HER2 Amplified Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCUX4QR	DM6QOVN	hKI-272	Phase 3	25.0	DMMUFKM	colesevelam	Approved	34.0	DMTEOOS	loperamide	.	.	Early-stage Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCG4V5F	DMLB81S	paclitaxel	Approved	34.0	DMPDW6T	epirubicin	Approved	34.0	DMTS85L	capecitabine	.	.	Metastatic Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCNGANV	DMCBJSR	sunitinib	Approved	34.0	DMG281S	carboplatin	Approved	34.0	DMLB81S	paclitaxel	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DC0IC7N	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMMX75K	lEE011	.	.	Advanced Metastatic Breast Cancer	ClinicalTrials.gov	Phase 3	.					3
+DCCJUSF	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMNP60F	anastrozole	.	.	Estrogen Receptor-positive Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCHIMNL	DMAT8CG	goserelin	Approved	34.0	DMD7L94	palbociclib	Approved	34.0	DMNP60F	anastrozole	.	.	Breast Neoplasms	ClinicalTrials.gov	Phase 2	.					3
+DCLZPT8	DMAT8CG	goserelin	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMMPTLH	entrectinib	.	.	Invasive Lobular Breast Carcinoma	ClinicalTrials.gov	Phase 2	.					3
+DCAOYYN	DMEXMYK	alpelisib	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCMXE98	DMD7L94	palbociclib	Approved	34.0	DMH07Y3	letrozole	Approved	34.0	DMXZAL2	hydroxychloroquine	.	.	Anatomic Stage I Breast Cancer AJCC v8	ClinicalTrials.gov	Phase 1	.					3
+DCNMY6P	DM3O8QY	degarelix	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMNP60F	anastrozole	.	.	Male Breast Cancer	ClinicalTrials.gov	Phase 2	.					3
+DCXY87G	DM8RLJ5	rAD-1901	Approved	34.0	DM93VBZ	lY2835219	Approved	34.0	DMMX75K	lEE011	.	.	Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCEMS9W	DMMX75K	lEE011	Phase 3	25.0	DMMX75K	lEE011	Phase 3	25.0	DMZMSPF	bicalutamide	.	.	Triple Negative Breast Cancer	ClinicalTrials.gov	Phase 1	.					3
+DCUQHXW	DMUP5Z0	pF-03084014	Approved	34.0	DMUP5Z0	pF-03084014	Approved	34.0	DMUP5Z0	pF-03084014	.	.	Triple Negative Breast Neoplasms	ClinicalTrials.gov	Phase 2	.					3

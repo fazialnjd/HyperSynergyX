@@ -87,4 +87,12 @@ print(f"  filtered/all_3drug.tsv  ({len(df_3drug):,} rows)")
 | Lung         | 0                 | 3         | drugmap   | mentioned in article               |
 | Lung         | 841               | 2         | drugmap   | mentioned in article               |
 ====================================================================================================================================
+
+breast 80 > 23
+lung 56 > 0 
+
+# checing the dataset
+based on cell line there is no cell line which is related to the lung .
+there is just:
+روده - پستان - تخمدان
 """

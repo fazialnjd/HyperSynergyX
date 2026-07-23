@@ -1,0 +1,7 @@
+File,Original,After_Dedup,Removed,Removed_Pct
+breast_2drug.tsv,1700,1700,0,0.0
+breast_3drug.tsv,65,65,0,0.0
+lung_2drug.tsv,3061,3061,0,0.0
+lung_3drug.tsv,50,50,0,0.0
+all_2drug.tsv,50997,50997,0,0.0
+all_3drug.tsv,1109,1109,0,0.0
