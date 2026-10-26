@@ -24,7 +24,6 @@ from binary_erwr import load_interactions, make_splits
 from weighted_erwr import score_weighted_graph
 
 
-
 def make_inner_validation_split(train_df, split, seed):
     if len(train_df) < 4 or train_df["result"].nunique() < 2:
         return train_df.copy(), train_df.iloc[0:0].copy()
@@ -42,16 +41,41 @@ def make_inner_validation_split(train_df, split, seed):
     return train_df.iloc[inner].copy(), train_df.iloc[validation].copy()
 
 
-def select_threshold(y_true, scores):
+def _threshold_objective(y_true, predicted, objective):
+    if objective == "f1":
+        return float(f1_score(y_true, predicted, zero_division=0))
+    if objective == "balanced_accuracy":
+        return float(balanced_accuracy_score(y_true, predicted))
+    if objective == "mcc":
+        return float(matthews_corrcoef(y_true, predicted))
+    if objective == "youden":
+        y_true = np.asarray(y_true)
+        predicted = np.asarray(predicted)
+        tp = int(((y_true == 1) & (predicted == 1)).sum())
+        fn = int(((y_true == 1) & (predicted == 0)).sum())
+        tn = int(((y_true == 0) & (predicted == 0)).sum())
+        fp = int(((y_true == 0) & (predicted == 1)).sum())
+        sensitivity = tp / (tp + fn) if (tp + fn) else 0.0
+        specificity = tn / (tn + fp) if (tn + fp) else 0.0
+        return float(sensitivity + specificity - 1.0)
+    raise ValueError(f"Unknown threshold objective: {objective}")
+
+
+def select_threshold(y_true, scores, objective="f1"):
+    """Select a threshold using only the inner validation fold."""
     if len(y_true) == 0 or len(np.unique(y_true)) < 2:
         return 0.5, float("nan")
     candidates = np.unique(np.concatenate(([0.0], scores, [1.0])))
-    best_threshold, best_f1 = float(candidates[0]), -1.0
+    best_threshold, best_value = float(candidates[0]), -np.inf
     for threshold in candidates:
-        current = float(f1_score(y_true, scores >= threshold, zero_division=0))
-        if current > best_f1 or (np.isclose(current, best_f1) and threshold > best_threshold):
-            best_threshold, best_f1 = float(threshold), current
-    return best_threshold, best_f1
+        predicted = (scores >= threshold).astype(int)
+        value = _threshold_objective(y_true, predicted, objective)
+        # Prefer the higher threshold on ties to avoid predicting every sample positive.
+        if value > best_value or (
+            np.isclose(value, best_value) and threshold > best_threshold
+        ):
+            best_threshold, best_value = float(threshold), float(value)
+    return best_threshold, best_value
 
 
 def calculate_metrics(y_true, scores, threshold):
@@ -85,11 +109,25 @@ def calculate_metrics(y_true, scores, threshold):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", required=True)
-    parser.add_argument("--score-column", required=True, help="Continuous score column, e.g. HSA, S, Bliss, ZIP, or Loewe")
-    parser.add_argument("--split", choices=["sample", "drug_pair", "cell_line"], default="drug_pair")
+    parser.add_argument(
+        "--score-column",
+        required=True,
+        help="Continuous score column, e.g. HSA, S, Bliss, ZIP, or Loewe",
+    )
+    parser.add_argument(
+        "--split",
+        choices=["sample", "drug_pair", "cell_line"],
+        default="drug_pair",
+    )
     parser.add_argument("--folds", type=int, default=5)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--weight-mode", choices=["rank", "minmax", "raw"], default="rank")
+    parser.add_argument(
+        "--threshold-objective",
+        choices=["f1", "balanced_accuracy", "mcc", "youden"],
+        default="f1",
+        help="Objective used on inner validation to select the binary threshold.",
+    )
     parser.add_argument("--output", default="output/weighted_erwr")
     args = parser.parse_args()
 
@@ -97,12 +135,13 @@ def main():
     output.mkdir(parents=True, exist_ok=True)
     raw = pd.read_excel(args.input) if args.input.lower().endswith((".xlsx", ".xls")) else pd.read_csv(args.input)
     if args.score_column not in raw.columns:
-        raise ValueError(f"Score column {args.score_column!r} not found. Available columns: {list(raw.columns)}")
+        raise ValueError(
+            f"Score column {args.score_column!r} not found. Available columns: {list(raw.columns)}"
+        )
     if "result" not in raw.columns:
         raise ValueError("The input must contain the binary result column")
 
     df = load_interactions(args.input)
-    # load_interactions preserves extra continuous columns while adding drug_a/drug_b.
     df[args.score_column] = pd.to_numeric(raw[args.score_column], errors="coerce").to_numpy()
     if df[args.score_column].isna().all():
         raise ValueError(f"Score column {args.score_column!r} contains no numeric values")
@@ -114,20 +153,37 @@ def main():
 
     for fold, (train_idx, test_idx) in enumerate(splits):
         train, test = df.iloc[train_idx].copy(), df.iloc[test_idx].copy()
-        inner_train, validation = make_inner_validation_split(train, args.split, args.seed + fold)
+        inner_train, validation = make_inner_validation_split(
+            train, args.split, args.seed + fold
+        )
         validation_scores, _ = score_weighted_graph(
-            inner_train, validation, all_drugs, drug_index, args.split,
-            args.score_column, args.weight_mode,
+            inner_train,
+            validation,
+            all_drugs,
+            drug_index,
+            args.split,
+            args.score_column,
+            args.weight_mode,
         )
         test_scores, fold_stats = score_weighted_graph(
-            train, test, all_drugs, drug_index, args.split,
-            args.score_column, args.weight_mode,
+            train,
+            test,
+            all_drugs,
+            drug_index,
+            args.split,
+            args.score_column,
+            args.weight_mode,
         )
-        threshold, validation_f1 = select_threshold(validation["result"].to_numpy(), validation_scores)
+        threshold, validation_objective = select_threshold(
+            validation["result"].to_numpy(),
+            validation_scores,
+            args.threshold_objective,
+        )
         test["weighted_erwr_score"] = test_scores
         test["predicted_result"] = (test_scores >= threshold).astype(int)
         test["threshold"] = threshold
-        test["validation_f1"] = validation_f1
+        test["validation_threshold_objective"] = validation_objective
+        test["threshold_objective"] = args.threshold_objective
         test["fold"] = fold
         test["split"] = args.split
         test["score_column"] = args.score_column
@@ -139,23 +195,39 @@ def main():
                 "split": args.split,
                 "score_column": args.score_column,
                 "weight_mode": args.weight_mode,
+                "threshold_objective": args.threshold_objective,
                 "threshold": threshold,
-                "validation_f1": validation_f1,
+                "validation_threshold_objective": validation_objective,
             })
             all_stats.append(stat)
-        all_metrics.append(calculate_metrics(test["result"].to_numpy(), test_scores, threshold))
+        all_metrics.append(
+            calculate_metrics(test["result"].to_numpy(), test_scores, threshold)
+        )
 
     predictions = pd.concat(all_predictions, ignore_index=True)
-    predictions.to_csv(output / f"predictions_{args.split}_{args.score_column}_weighted_erwr.csv", index=False)
-    pd.DataFrame(all_stats).to_csv(output / f"graph_stats_{args.split}_{args.score_column}_weighted_erwr.csv", index=False)
-    with open(output / f"metrics_{args.split}_{args.score_column}_weighted_erwr_folds.json", "w", encoding="utf-8") as handle:
+    predictions.to_csv(
+        output / f"predictions_{args.split}_{args.score_column}_weighted_erwr.csv",
+        index=False,
+    )
+    pd.DataFrame(all_stats).to_csv(
+        output / f"graph_stats_{args.split}_{args.score_column}_weighted_erwr.csv",
+        index=False,
+    )
+    with open(
+        output / f"metrics_{args.split}_{args.score_column}_weighted_erwr_folds.json",
+        "w",
+        encoding="utf-8",
+    ) as handle:
         json.dump(all_metrics, handle, indent=2)
     numeric = pd.DataFrame(all_metrics).select_dtypes(include="number")
     summary = pd.DataFrame({"mean": numeric.mean(), "std": numeric.std(ddof=1)})
-    summary.to_csv(output / f"metrics_{args.split}_{args.score_column}_weighted_erwr_summary.csv")
+    summary.to_csv(
+        output / f"metrics_{args.split}_{args.score_column}_weighted_erwr_summary.csv"
+    )
     print(summary)
     print(f"Score column: {args.score_column}")
     print(f"Weight mode: {args.weight_mode}")
+    print(f"Threshold objective: {args.threshold_objective}")
     print(f"Split: {args.split}")
 
 
