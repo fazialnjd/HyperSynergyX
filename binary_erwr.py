@@ -7,7 +7,7 @@ This module keeps that behavior and adds data/split/graph utilities.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Dict, Iterable, List, Mapping, Sequence, Tuple
+from typing import Dict, List, Mapping, Sequence, Tuple
 
 import networkx as nx
 import numpy as np
@@ -33,7 +33,7 @@ class GraphStats:
 
 
 def load_interactions(path: str) -> pd.DataFrame:
-    """Load extract.xlsx or CSV and validate the required binary-label columns."""
+    """Load extract.xlsx or CSV and validate required binary-label columns."""
     df = pd.read_excel(path) if path.lower().endswith((".xlsx", ".xls")) else pd.read_csv(path)
     missing = REQUIRED_COLUMNS - set(df.columns)
     if missing:
@@ -44,8 +44,15 @@ def load_interactions(path: str) -> pd.DataFrame:
     out["result"] = pd.to_numeric(out["result"], errors="raise").astype(int)
     if not out["result"].isin([0, 1]).all():
         raise ValueError("result must contain only binary values 0 and 1")
-    out["drug_a"] = np.minimum(out["drug_row"].values, out["drug_col"].values)
-    out["drug_b"] = np.maximum(out["drug_row"].values, out["drug_col"].values)
+
+    # Sort text drug identifiers so A+B and B+A represent one unordered pair.
+    pairs = out[["drug_row", "drug_col"]].apply(
+        lambda row: sorted([row["drug_row"], row["drug_col"]]),
+        axis=1,
+        result_type="expand",
+    )
+    out["drug_a"] = pairs[0].astype(str)
+    out["drug_b"] = pairs[1].astype(str)
     if (out["drug_a"] == out["drug_b"]).any():
         raise ValueError("Self-pairs are not supported")
     out = out.drop_duplicates(["drug_a", "drug_b", "cell_line_name"], keep="first")
@@ -53,11 +60,7 @@ def load_interactions(path: str) -> pd.DataFrame:
 
 
 def rwrdc(adj_matrix: np.ndarray, c: float = 0.05) -> np.ndarray:
-    """Return the original ERWR pairwise score matrix P + P.T.
-
-    c is the walk coefficient used by the original repository. The restart
-    contribution in the closed form is (1-c) * r0.
-    """
+    """Return the original ERWR pairwise score matrix P + P.T."""
     A = np.asarray(adj_matrix, dtype=float)
     if A.ndim != 2 or A.shape[0] != A.shape[1]:
         raise ValueError("adj_matrix must be square")
@@ -80,7 +83,7 @@ def rwrdc(adj_matrix: np.ndarray, c: float = 0.05) -> np.ndarray:
 
 
 def normalize_scores(scores: np.ndarray) -> np.ndarray:
-    """Min-max normalize off-diagonal scores for comparable binary ranking."""
+    """Min-max normalize off-diagonal scores for binary ranking."""
     out = np.asarray(scores, dtype=float).copy()
     np.fill_diagonal(out, 0.0)
     if out.size == 0:
@@ -95,11 +98,7 @@ def normalize_scores(scores: np.ndarray) -> np.ndarray:
     return out
 
 
-def build_graph(
-    train_df: pd.DataFrame,
-    all_drugs: Sequence[str],
-    cell_line: str | None = None,
-) -> Tuple[np.ndarray, Dict[str, int], GraphStats]:
+def build_graph(train_df: pd.DataFrame, all_drugs: Sequence[str], cell_line: str | None = None):
     """Build a binary undirected graph from positive TRAIN pairs only."""
     drugs = list(all_drugs)
     idx = {drug: i for i, drug in enumerate(drugs)}
@@ -128,7 +127,7 @@ def build_graph(
     return A, idx, stats
 
 
-def make_splits(df: pd.DataFrame, split: str, folds: int, seed: int) -> List[Tuple[np.ndarray, np.ndarray]]:
+def make_splits(df: pd.DataFrame, split: str, folds: int, seed: int):
     """Create sample, drug_pair, or cell_line group folds."""
     from sklearn.model_selection import GroupKFold, StratifiedKFold
 
