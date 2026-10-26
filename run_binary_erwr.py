@@ -35,7 +35,12 @@ def score_with_training_graph(
     split: str,
     c: float,
 ):
-    """Score query rows using graphs built only from train_df."""
+    """Score query rows using graphs built only from train_df.
+
+    Scores are stored by positional row location, not by the DataFrame's original
+    index labels. This matters because iloc-based train/validation/test subsets
+    retain the original labels, which are not guaranteed to be 0..len(query)-1.
+    """
     if query_df.empty:
         return np.array([], dtype=float), []
 
@@ -52,8 +57,14 @@ def score_with_training_graph(
                 stats.cell_line = f"GLOBAL_FOR_{cell}"
             graph_cache[key] = (rwrdc(A, c=c), index, stats)
             stats_rows.append(stats.as_dict())
+
         matrix, index, _ = graph_cache[key]
-        scores[group.index.to_numpy()] = score_pairs(matrix, index, group)
+        # group.index contains original labels; convert them to positions within
+        # query_df before assigning into the positional scores array.
+        positions = query_df.index.get_indexer(group.index)
+        if (positions < 0).any():
+            raise RuntimeError("Could not align grouped query rows to query_df")
+        scores[positions] = score_pairs(matrix, index, group)
 
     return scores, stats_rows
 
@@ -144,8 +155,6 @@ def main() -> None:
         train = df.iloc[train_idx].copy()
         test = df.iloc[test_idx].copy()
 
-        # Select a threshold using an inner validation set. The outer test fold
-        # is not used for threshold selection.
         inner_train, validation = make_inner_validation_split(train, args.split, args.seed + fold)
         validation_scores, _ = score_with_training_graph(
             inner_train, validation, all_drugs, args.split, args.c
