@@ -10,11 +10,7 @@ import pandas as pd
 
 
 def load_feature_table(path: str | Path, id_col: str | None = None) -> Tuple[list[str], np.ndarray]:
-    """Load an ID + numeric feature table from CSV or Excel.
-
-    The first non-numeric column is used as the entity identifier by default.
-    Duplicate identifiers are averaged after numeric coercion.
-    """
+    """Load an ID + numeric feature table from CSV or Excel."""
     path = Path(path)
     if path.suffix.lower() in {".xlsx", ".xls"}:
         frame = pd.read_excel(path)
@@ -47,7 +43,12 @@ def load_feature_table(path: str | Path, id_col: str | None = None) -> Tuple[lis
 
 
 def cosine_similarity_matrix(features: np.ndarray) -> np.ndarray:
-    """Return a finite cosine-similarity matrix in [0, 1]."""
+    """Return non-negative cosine similarity in [0, 1].
+
+    Negative cosine values are clipped to zero instead of being shifted by
+    (cosine + 1) / 2. Shifting would turn unrelated vectors with cosine near
+    zero into artificial similarity near 0.5 and make the graph dense.
+    """
     X = np.asarray(features, dtype=float)
     if X.ndim != 2:
         raise ValueError("features must be a 2-D matrix")
@@ -55,8 +56,7 @@ def cosine_similarity_matrix(features: np.ndarray) -> np.ndarray:
     norms = np.linalg.norm(X, axis=1, keepdims=True)
     normalized = np.divide(X, norms, out=np.zeros_like(X), where=norms > 0)
     cosine = normalized @ normalized.T
-    # Convert cosine [-1, 1] to similarity [0, 1] for graph weights.
-    similarity = np.clip((cosine + 1.0) / 2.0, 0.0, 1.0)
+    similarity = np.clip(cosine, 0.0, 1.0)
     np.fill_diagonal(similarity, 1.0)
     return similarity
 

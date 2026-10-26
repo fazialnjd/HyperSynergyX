@@ -1,24 +1,24 @@
-# Feature-enriched ERWR
+# Feature-enriched ERWR, sparse top-k version
 
-This branch adds an embedding-enriched binary ERWR pipeline using:
+This version avoids turning the 48-drug graph into a complete graph. The original embedding cosine similarities are high (`~0.80-0.97`), so an absolute similarity threshold would connect almost every pair. Instead, the enriched graph adds only the symmetrized union of each drug's top-k similarity neighbors.
 
-- `drug_feature.csv`: 384-dimensional precomputed drug embeddings.
-- `KG_cell_line_feature.xlsx`: 128-dimensional precomputed cell-line embeddings.
-- `extract.xlsx`: binary drug-pair/cell-line observations.
+The cosine similarity is clipped to `[0, 1]`; it is not shifted by `(cosine + 1) / 2`, because that shift creates artificial similarity around `0.5` for unrelated vectors.
 
-The drug embedding is converted to a cosine-similarity prior. In `enriched` mode, this prior is added as a weaker weighted edge to the positive training graph. In `cell_line` split, unseen test cell lines are scored by a similarity-weighted average of graphs built for training cell lines using the cell-line embeddings.
+## Modes
 
-The precomputed embeddings are treated as external features. Their provenance should be documented before making a strict leakage-free claim, especially if drug-cell effectiveness edges used to create the cell-line embedding came from the same synergy dataset.
+- `baseline`: positive training pairs only.
+- `enriched`: positive training pairs plus a weak top-k drug-embedding prior.
+- `similarity_only`: top-k drug-embedding graph without positive training edges.
+
+Positive training edges have weight `1`. Similarity edges have weight `beta * cosine_similarity`, with default `beta=0.10`, so the prior remains weaker than observed positive edges.
 
 ## Run
-
-Install dependencies:
 
 ```bash
 pip install numpy pandas scikit-learn networkx openpyxl
 ```
 
-Run the enriched model:
+Recommended first comparison on the unseen-drug-pair split:
 
 ```bash
 python run_feature_enriched_erwr.py \
@@ -26,17 +26,24 @@ python run_feature_enriched_erwr.py \
   --drug-features drug_feature.csv \
   --cell-features KG_cell_line_feature.xlsx \
   --split drug_pair \
+  --mode baseline \
+  --folds 5 \
+  --seed 42 \
+  --beta 0.10 \
+  --similarity-top-k 5 \
+  --output output/feature_enrichment_v2/drug_pair_baseline
+
+python run_feature_enriched_erwr.py \
+  --input extract.xlsx \
+  --drug-features drug_feature.csv \
+  --cell-features KG_cell_line_feature.xlsx \
+  --split drug_pair \
   --mode enriched \
   --folds 5 \
-  --beta 0.25 \
-  --similarity-threshold 0.20 \
-  --output output/feature_enrichment/drug_pair_enriched
+  --seed 42 \
+  --beta 0.10 \
+  --similarity-top-k 5 \
+  --output output/feature_enrichment_v2/drug_pair_topk5_beta010
 ```
 
-Available modes:
-
-- `baseline`: positive training graph only.
-- `enriched`: positive graph plus drug embedding similarity.
-- `similarity_only`: drug embedding similarity without positive training edges.
-
-The threshold is selected on an inner validation split for every outer fold. AUROC and AUPRC use continuous ERWR scores; threshold-based metrics use the selected validation threshold.
+Use the same commands with `--similarity-top-k 3` and `10` for ablation. The threshold for binary classification is selected on an inner validation split; AUROC/AUPRC use continuous scores.

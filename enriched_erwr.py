@@ -1,4 +1,4 @@
-"""Similarity-enriched weighted ERWR graph utilities."""
+"""Top-k similarity-enriched weighted ERWR graph utilities."""
 
 from __future__ import annotations
 
@@ -29,6 +29,26 @@ class EnrichedGraphStats:
         return self.__dict__.copy()
 
 
+def _top_k_similarity_edges(similarity: np.ndarray, top_k: int) -> set[tuple[int, int]]:
+    """Return the symmetrized union of each node's top-k non-self neighbors."""
+    if top_k < 1:
+        return set()
+
+    n = similarity.shape[0]
+    k = min(int(top_k), max(0, n - 1))
+    edges: set[tuple[int, int]] = set()
+
+    for i in range(n):
+        candidates = np.delete(np.arange(n), i)
+        order = np.argsort(similarity[i, candidates])[::-1][:k]
+        for position in order:
+            j = int(candidates[position])
+            if similarity[i, j] > 0:
+                edges.add(tuple(sorted((i, j))))
+
+    return edges
+
+
 def build_enriched_graph(
     train_df: pd.DataFrame,
     all_drugs: Sequence[str],
@@ -36,16 +56,18 @@ def build_enriched_graph(
     drug_index: Mapping[str, int],
     cell_line: str | None,
     mode: str = "enriched",
-    beta: float = 0.25,
-    similarity_threshold: float = 0.20,
+    beta: float = 0.10,
+    similarity_top_k: int = 5,
 ):
-    """Build a positive-pair graph plus optional embedding-similarity prior."""
+    """Build a positive-pair graph plus a sparse top-k similarity prior."""
     if mode not in {"baseline", "enriched", "similarity_only"}:
         raise ValueError("mode must be baseline, enriched, or similarity_only")
+    if similarity_top_k < 1:
+        raise ValueError("similarity_top_k must be at least 1")
 
     n = len(all_drugs)
     A = np.zeros((n, n), dtype=float)
-    positive_edges = set()
+    positive_edges: set[tuple[int, int]] = set()
 
     if mode != "similarity_only":
         part = train_df if cell_line is None else train_df[
@@ -57,16 +79,16 @@ def build_enriched_graph(
                 A[i, j] = A[j, i] = 1.0
                 positive_edges.add(tuple(sorted((i, j))))
 
-    similarity_edges = set()
+    similarity_edges: set[tuple[int, int]] = set()
     if mode in {"enriched", "similarity_only"}:
-        for i in range(n):
-            for j in range(i + 1, n):
-                value = float(similarity[i, j])
-                if value >= similarity_threshold:
-                    A[i, j] += beta * value
-                    A[j, i] += beta * value
-                    if (i, j) not in positive_edges:
-                        similarity_edges.add((i, j))
+        for i, j in _top_k_similarity_edges(similarity, similarity_top_k):
+            value = float(similarity[i, j])
+            if value <= 0:
+                continue
+            A[i, j] += beta * value
+            A[j, i] += beta * value
+            if (i, j) not in positive_edges:
+                similarity_edges.add((i, j))
 
     graph = nx.from_numpy_array(A)
     possible = n * (n - 1) // 2
@@ -96,7 +118,7 @@ def score_with_graph(
     split: str,
     mode: str,
     beta: float,
-    similarity_threshold: float,
+    similarity_top_k: int,
 ):
     """Score query rows using cell-specific or global weighted graphs."""
     scores = np.zeros(len(query_df), dtype=float)
@@ -108,25 +130,15 @@ def score_with_graph(
         key = graph_cell or "GLOBAL"
         if key not in cache:
             A, graph_stats = build_enriched_graph(
-                train_df,
-                all_drugs,
-                similarity,
-                drug_index,
-                graph_cell,
-                mode=mode,
-                beta=beta,
-                similarity_threshold=similarity_threshold,
+                train_df, all_drugs, similarity, drug_index, graph_cell,
+                mode=mode, beta=beta, similarity_top_k=similarity_top_k,
             )
             cache[key] = (rwrdc(A), graph_stats)
             stats.append(graph_stats.as_dict())
 
         matrix, _ = cache[key]
         positions = query_df.index.get_indexer(group.index)
-        scores[positions] = score_pairs(
-            matrix,
-            drug_index,
-            group,
-        )
+        scores[positions] = score_pairs(matrix, drug_index, group)
 
     return scores, stats
 
@@ -142,7 +154,7 @@ def score_cell_line_transfer(
     cell_index: Mapping[str, int],
     mode: str,
     beta: float,
-    similarity_threshold: float,
+    similarity_top_k: int,
 ):
     """Score unseen cell lines by similarity-weighted train-cell graphs."""
     scores = np.zeros(len(query_df), dtype=float)
@@ -160,38 +172,23 @@ def score_cell_line_transfer(
             if train_cell not in cell_index:
                 continue
             source_idx = cell_index[train_cell]
-            # Similarity is already [0, 1]; exclude self only if it occurs.
             weight = float(cell_similarity[target_idx, source_idx])
             if weight <= 0:
                 continue
-            key = train_cell
-            if key not in graph_cache:
+            if train_cell not in graph_cache:
                 A, graph_stats = build_enriched_graph(
-                    train_df,
-                    all_drugs,
-                    drug_similarity,
-                    drug_index,
-                    train_cell,
-                    mode=mode,
-                    beta=beta,
-                    similarity_threshold=similarity_threshold,
+                    train_df, all_drugs, drug_similarity, drug_index, train_cell,
+                    mode=mode, beta=beta, similarity_top_k=similarity_top_k,
                 )
-                graph_cache[key] = (rwrdc(A), graph_stats)
+                graph_cache[train_cell] = (rwrdc(A), graph_stats)
                 stats.append(graph_stats.as_dict())
-            matrices.append(graph_cache[key][0])
+            matrices.append(graph_cache[train_cell][0])
             weights.append(weight)
 
         if not matrices:
-            # Fallback to one global graph if no usable cell embedding exists.
             A, graph_stats = build_enriched_graph(
-                train_df,
-                all_drugs,
-                drug_similarity,
-                drug_index,
-                None,
-                mode=mode,
-                beta=beta,
-                similarity_threshold=similarity_threshold,
+                train_df, all_drugs, drug_similarity, drug_index, None,
+                mode=mode, beta=beta, similarity_top_k=similarity_top_k,
             )
             matrices = [rwrdc(A)]
             weights = [1.0]
