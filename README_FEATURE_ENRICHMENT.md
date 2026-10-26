@@ -1,24 +1,29 @@
-# Feature-enriched ERWR, sparse top-k version
+# Isolate-aware feature-enriched ERWR
 
-This version avoids turning the 48-drug graph into a complete graph. The original embedding cosine similarities are high (`~0.80-0.97`), so an absolute similarity threshold would connect almost every pair. Instead, the enriched graph adds only the symmetrized union of each drug's top-k similarity neighbors.
+This version uses drug embeddings only to repair isolated drug nodes in each positive training graph.
 
-The cosine similarity is clipped to `[0, 1]`; it is not shifted by `(cosine + 1) / 2`, because that shift creates artificial similarity around `0.5` for unrelated vectors.
+For each graph:
 
-## Modes
+1. Build the positive training graph exactly as in the baseline.
+2. Find drugs with zero degree in that graph.
+3. For each isolated drug, add only its top-k embedding-similarity neighbors.
+4. Give observed positive edges weight `1` and similarity fallback edges weight `beta * similarity`.
 
-- `baseline`: positive training pairs only.
-- `enriched`: positive training pairs plus a weak top-k drug-embedding prior.
-- `similarity_only`: top-k drug-embedding graph without positive training edges.
+The recommended first configuration is:
 
-Positive training edges have weight `1`. Similarity edges have weight `beta * cosine_similarity`, with default `beta=0.10`, so the prior remains weaker than observed positive edges.
+```text
+mode = isolate_enriched
+similarity_top_k = 2
+beta = 0.05
+```
 
-## Run
+## Colab commands
 
 ```bash
 pip install numpy pandas scikit-learn networkx openpyxl
 ```
 
-Recommended first comparison on the unseen-drug-pair split:
+Baseline:
 
 ```bash
 python run_feature_enriched_erwr.py \
@@ -29,21 +34,33 @@ python run_feature_enriched_erwr.py \
   --mode baseline \
   --folds 5 \
   --seed 42 \
-  --beta 0.10 \
-  --similarity-top-k 5 \
-  --output output/feature_enrichment_v2/drug_pair_baseline
+  --beta 0.05 \
+  --similarity-top-k 2 \
+  --output output/feature_enrichment_isolate/drug_pair_baseline
+```
 
+Isolate-aware enrichment:
+
+```bash
 python run_feature_enriched_erwr.py \
   --input extract.xlsx \
   --drug-features drug_feature.csv \
   --cell-features KG_cell_line_feature.xlsx \
   --split drug_pair \
-  --mode enriched \
+  --mode isolate_enriched \
   --folds 5 \
   --seed 42 \
-  --beta 0.10 \
-  --similarity-top-k 5 \
-  --output output/feature_enrichment_v2/drug_pair_topk5_beta010
+  --beta 0.05 \
+  --similarity-top-k 2 \
+  --output output/feature_enrichment_isolate/drug_pair_isolate_topk2_beta005
 ```
 
-Use the same commands with `--similarity-top-k 3` and `10` for ablation. The threshold for binary classification is selected on an inner validation split; AUROC/AUPRC use continuous scores.
+The graph report includes:
+
+- `n_isolated_before_similarity`
+- `n_similarity_edges`
+- final `isolated_nodes`
+- final `connected_components`
+- `similarity_scope`
+
+The main comparison remains AUROC, AUPRC, and MCC. A reduction in isolated nodes is useful only if ranking metrics do not deteriorate.
